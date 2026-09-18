@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<title>Flamengo TV — TV Player</title>
+<style>html,body,#player{width:100%;height:100%;margin:0;padding:0;background:#000;overflow:hidden}</style>
+</head>
+<body>
+<div id="player"></div>
+<script>
+(function(){
+'use strict';
+var player=null,pending=null,ORIGIN=window.location.origin;
+function send(type,extra){var d={type:type},k;if(extra){for(k in extra){if(Object.prototype.hasOwnProperty.call(extra,k))d[k]=extra[k];}}try{if(window.parent&&window.parent!==window)window.parent.postMessage(d,'*');}catch(e){}}
+function videoId(){var m=window.location.search.match(/[?&]v=([^&]+)/),id;if(!m)return null;try{id=decodeURIComponent(m[1]);}catch(e){return null;}return /^[A-Za-z0-9_-]{11}$/.test(id)?id:null;}
+function make(id){if(!window.YT||!YT.Player){pending=id;return;}player=new YT.Player('player',{width:'100%',height:'100%',videoId:id,playerVars:{autoplay:1,controls:1,rel:0,playsinline:1,enablejsapi:1,origin:ORIGIN},events:{onReady:function(e){send('FLATV_READY');try{e.target.playVideo();}catch(x){}},onStateChange:function(e){send('FLATV_STATE',{state:e.data});},onError:function(e){send('FLATV_ERROR',{code:e.data});}}});}
+window.onYouTubeIframeAPIReady=function(){if(pending){var id=pending;pending=null;make(id);}};
+window.addEventListener('message',function(e){var d=e.data;if(!d||typeof d!=='object'||!player)return;try{if(d.type==='FLATV_PLAY')player.playVideo();else if(d.type==='FLATV_PAUSE')player.pauseVideo();else if(d.type==='FLATV_STOP')player.stopVideo();}catch(x){}},false);
+var id=videoId();if(!id){send('FLATV_ERROR',{code:'INVALID_VIDEO'});return;}pending=id;
+var s=document.createElement('script');s.src='https://www.youtube.com/iframe_api';s.async=true;s.onerror=function(){send('FLATV_ERROR',{code:'API_LOAD'});};document.head.appendChild(s);
+}());
+</script>
+</body>
+</html>
