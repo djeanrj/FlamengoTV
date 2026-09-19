@@ -21,6 +21,8 @@ else if(d.type==='FLATV_PAUSE')player.pauseVideo();
 else if(d.type==='FLATV_STOP')player.stopVideo();
 else if(d.type==='FLATV_RESTART')player.seekTo(0,true);
 else if(d.type==='FLATV_SEEK'){player.seekTo(Math.max(0,player.getCurrentTime()+(Number(d.seconds)||0)),true);}
+else if(d.type==='FLATV_GET_TIME'){send('FLATV_TIME',{time:Math.max(0,Number(player.getCurrentTime())||0)});}
+else if(d.type==='FLATV_SET_TIME'){player.seekTo(Math.max(0,Number(d.seconds)||0),true);}
 else if(d.type==='FLATV_CC_OFF'){try{player.unloadModule('captions');}catch(x){}try{player.unloadModule('cc');}catch(y){}}
 }catch(x){}}
 window.onYouTubeIframeAPIReady=function(){if(pending){var s=pending;pending=null;make(s);}};
