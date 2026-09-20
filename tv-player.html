@@ -16,7 +16,7 @@ function param(n){var r=new RegExp('[?&]'+n+'=([^&]+)').exec(window.location.sea
 function source(){var v=param('v'),list=param('list');if(v&&/^[A-Za-z0-9_-]{11}$/.test(v))return{kind:'video',value:v};if(list&&/^[A-Za-z0-9_-]{10,80}$/.test(list))return{kind:'playlist',value:list};return null;}
 function key(k,n){send('FLATV_KEY',{keyCode:k,key:n||''});}
 function armKeys(){var q=document.getElementById('keycatch');if(!q)return;q.onkeydown=function(e){e=e||window.event;try{e.preventDefault();e.stopPropagation();}catch(x){}key(e.keyCode||e.which,e.key||'');return false;};try{q.focus();}catch(x){}}
-function make(src){var vars={autoplay:1,controls:1,rel:0,playsinline:1,enablejsapi:1,origin:ORIGIN,fs:0,hl:'pt-BR'};var opts={width:'100%',height:'100%',playerVars:vars,events:{onReady:function(e){send('FLATV_READY');armKeys();setTimeout(armKeys,500);setTimeout(armKeys,1500);try{e.target.playVideo();}catch(x){}},onStateChange:function(e){send('FLATV_STATE',{state:e.data});},onError:function(e){send('FLATV_ERROR',{code:e.data});}}};if(src.kind==='video')opts.videoId=src.value;else{vars.listType='playlist';vars.list=src.value;}player=new YT.Player('player',opts);}
+function make(src){var vars={autoplay:1,controls:1,rel:0,playsinline:1,enablejsapi:1,origin:ORIGIN,fs:0,hl:'pt-BR',cc_load_policy:0};var opts={width:'100%',height:'100%',playerVars:vars,events:{onReady:function(e){send('FLATV_READY');armKeys();setTimeout(armKeys,500);setTimeout(armKeys,1500);try{e.target.playVideo();}catch(x){}},onStateChange:function(e){send('FLATV_STATE',{state:e.data});},onError:function(e){send('FLATV_ERROR',{code:e.data});}}};if(src.kind==='video')opts.videoId=src.value;else{vars.listType='playlist';vars.list=src.value;}player=new YT.Player('player',opts);}
 function cmd(d){if(!d||typeof d!=='object'||!player)return;try{
 if(d.type==='FLATV_PLAY')player.playVideo();
 else if(d.type==='FLATV_PAUSE')player.pauseVideo();
@@ -25,7 +25,7 @@ else if(d.type==='FLATV_RESTART')player.seekTo(0,true);
 else if(d.type==='FLATV_SEEK'){player.seekTo(Math.max(0,player.getCurrentTime()+(Number(d.seconds)||0)),true);}
 else if(d.type==='FLATV_GET_TIME'){send('FLATV_TIME',{time:Math.max(0,Number(player.getCurrentTime())||0)});}
 else if(d.type==='FLATV_SET_TIME'){player.seekTo(Math.max(0,Number(d.seconds)||0),true);}
-else if(d.type==='FLATV_CC_OFF'){try{player.unloadModule('captions');}catch(x){}try{player.unloadModule('cc');}catch(y){}}
+else if(d.type==='FLATV_CC_OFF'){try{player.setOption('captions','track',{});}catch(z){}try{player.setOption('cc','track',{});}catch(w){}try{player.unloadModule('captions');}catch(x){}try{player.unloadModule('cc');}catch(y){}}
 }catch(x){}}
 window.onYouTubeIframeAPIReady=function(){if(pending){var s=pending;pending=null;make(s);}};
 window.addEventListener('message',function(e){cmd(e.data);},false);
