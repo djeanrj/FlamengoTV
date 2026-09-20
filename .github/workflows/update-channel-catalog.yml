@@ -15,17 +15,35 @@ jobs:
         shell: python
         run: |
           import json, subprocess, datetime
+          def grab(url):
+              raw=subprocess.check_output(["yt-dlp","--flat-playlist","--dump-single-json",url],text=True,timeout=300)
+              d=json.loads(raw)
+              return [{"id":e.get("id"),"title":e.get("title"),"url":e.get("url"),
+                       "live_status":e.get("live_status"),"duration":e.get("duration"),
+                       "thumbnail":e.get("thumbnail")} for e in d.get("entries",[]) if e and e.get("id")]
           tabs={}
           for name in ("videos","shorts","streams","playlists"):
-              try:
-                  raw=subprocess.check_output(["yt-dlp","--flat-playlist","--dump-single-json","https://www.youtube.com/@flamengo/"+name],text=True,timeout=240)
-                  d=json.loads(raw)
-                  tabs[name]=[{"id":e.get("id"),"title":e.get("title"),"url":e.get("url"),"live_status":e.get("live_status"),"duration":e.get("duration")} for e in d.get("entries",[]) if e and e.get("id")]
-              except Exception:
-                  tabs[name]=[]
-          if not any(tabs.values()):
+              try: tabs[name]=grab("https://www.youtube.com/@flamengo/"+name)
+              except Exception: tabs[name]=[]
+          known={
+            "memengo":("Memengo","PLRTMoJ6RWDVAlahq0WQdYi7Rq51wQ8Yrf"),
+            "mengocast":("MengoCast","PLRTMoJ6RWDVB0Zfnw3sWxKHxs3DEgT0MR"),
+            "flapress":("FlaPress","PLRTMoJ6RWDVBmx2j2eV-yJR9dRqnc_EaJ"),
+            "isso-aqui-e-flamengo":("Isso aqui é Flamengo","PLRTMoJ6RWDVCqCHsn1WjnL3EP14RfITUB"),
+            "ser-flamengo":("Ser Flamengo","PLRTMoJ6RWDVDAN25_dZw-9ADwY29nPKqk"),
+            "resenha-do-galinho":("Resenha do Galinho","PLRTMoJ6RWDVB1PxwqtUN4O3QyjIVFT-6X"),
+            "exposed-tatico":("Exposed Tático","PLRTMoJ6RWDVBFemEmSsEHhddb0nC2IziI"),
+            "futebol-feminino":("Futebol Feminino","PLRTMoJ6RWDVCzmg_E3jsQhnvHi4ZW2wS6")
+          }
+          collections={}
+          for key,(title,pid) in known.items():
+              try: entries=grab("https://www.youtube.com/playlist?list="+pid)
+              except Exception: entries=[]
+              collections[key]={"title":title,"playlistId":pid,"entries":entries}
+          if not any(tabs.values()) and not any(x["entries"] for x in collections.values()):
               raise SystemExit("YouTube sem dados; preservando catalogo anterior")
-          out={"updatedAt":datetime.datetime.now(datetime.timezone.utc).isoformat(),"channel":"@flamengo","tabs":tabs}
+          out={"updatedAt":datetime.datetime.now(datetime.timezone.utc).isoformat(),
+               "channel":"@flamengo","tabs":tabs,"collections":collections}
           open("channel-catalog.json","w",encoding="utf-8").write(json.dumps(out,ensure_ascii=False,indent=2)+"\n")
       - name: Publicar
         run: |
