@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "channel": {
+    "id": "UCOa-WaNwQaoyFHLCDk7qKIw",
+    "handle": "@flamengo",
+    "name": "Flamengo TV"
+  },
+  "sections": [
+    {
+      "id": "memengo",
+      "title": "Memengo",
+      "type": "playlist",
+      "playlistId": "PLRTMoJ6RWDVAlahq0WQdYi7Rq51wQ8Yrf"
+    },
+    {
+      "id": "mengocast",
+      "title": "MengoCast",
+      "type": "playlist",
+      "playlistId": "PLRTMoJ6RWDVB0Zfnw3sWxKHxs3DEgT0MR"
+    },
+    {
+      "id": "flapress",
+      "title": "FlaPress",
+      "type": "playlist",
+      "playlistId": "PLRTMoJ6RWDVBmx2j2eV-yJR9dRqnc_EaJ"
+    },
+    {
+      "id": "isso-aqui-e-flamengo",
+      "title": "Isso aqui é Flamengo",
+      "type": "playlist",
+      "playlistId": "PLRTMoJ6RWDVCqCHsn1WjnL3EP14RfITUB"
+    },
+    {
+      "id": "ser-flamengo",
+      "title": "Ser Flamengo",
+      "type": "playlist",
+      "playlistId": "PLRTMoJ6RWDVDAN25_dZw-9ADwY29nPKqk"
+    },
+    {
+      "id": "resenha-do-galinho",
+      "title": "Resenha do Galinho",
+      "type": "playlist",
+      "playlistId": "PLRTMoJ6RWDVB1PxwqtUN4O3QyjIVFT-6X"
+    },
+    {
+      "id": "exposed-tatico",
+      "title": "Exposed Tático",
+      "type": "playlist",
+      "playlistId": "PLRTMoJ6RWDVBFemEmSsEHhddb0nC2IziI"
+    },
+    {
+      "id": "futebol-feminino",
+      "title": "Futebol Feminino",
+      "type": "playlist",
+      "playlistId": "PLRTMoJ6RWDVCzmg_E3jsQhnvHi4ZW2wS6"
+    }
+  ]
+}
