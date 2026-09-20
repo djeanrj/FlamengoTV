@@ -52,7 +52,13 @@ jobs:
           open("channel-catalog.json","w",encoding="utf-8").write(json.dumps(out,ensure_ascii=False,indent=2)+"\n")
           for name,items in tabs.items():
               with open("channel-data/"+name+".json","w",encoding="utf-8") as f:
-                  json.dump({"updatedAt":out["updatedAt"],"items":items},f,ensure_ascii=False,indent=2)
+                  json.dump({"updatedAt":out["updatedAt"],"items":items},f,ensure_ascii=False,separators=(",",":"))
+          live=[x for x in tabs.get("streams",[]) if x.get("live_status")=="is_live"]
+          upcoming=[x for x in tabs.get("streams",[]) if x.get("live_status")=="is_upcoming"][:20]
+          with open("channel-data/live.json","w",encoding="utf-8") as f:
+              json.dump({"updatedAt":out["updatedAt"],"items":live},f,ensure_ascii=False,separators=(",",":"))
+          with open("channel-data/upcoming.json","w",encoding="utf-8") as f:
+              json.dump({"updatedAt":out["updatedAt"],"items":upcoming},f,ensure_ascii=False,separators=(",",":"))
           for key,data in collections.items():
               with open("channel-data/collections/"+key+".json","w",encoding="utf-8") as f:
                   json.dump({"updatedAt":out["updatedAt"],**data},f,ensure_ascii=False,indent=2)
