@@ -47,7 +47,15 @@ jobs:
               raise SystemExit("YouTube sem dados; preservando catalogo anterior")
           out={"updatedAt":datetime.datetime.now(datetime.timezone.utc).isoformat(),
                "channel":"@flamengo","tabs":tabs,"collections":collections}
+          import os
+          os.makedirs("channel-data/collections", exist_ok=True)
           open("channel-catalog.json","w",encoding="utf-8").write(json.dumps(out,ensure_ascii=False,indent=2)+"\n")
+          for name,items in tabs.items():
+              with open("channel-data/"+name+".json","w",encoding="utf-8") as f:
+                  json.dump({"updatedAt":out["updatedAt"],"items":items},f,ensure_ascii=False,indent=2)
+          for key,data in collections.items():
+              with open("channel-data/collections/"+key+".json","w",encoding="utf-8") as f:
+                  json.dump({"updatedAt":out["updatedAt"],**data},f,ensure_ascii=False,indent=2)
       - name: Publicar
         run: |
           if [ -z "$(git status --porcelain -- channel-catalog.json channel-data)" ]; then exit 0; fi
