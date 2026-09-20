@@ -1,6 +1,9 @@
 name: Atualizar catalogo completo Flamengo TV
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/update-channel-catalog.yml"
   schedule:
     - cron: "7 * * * *"
 permissions:
@@ -16,7 +19,7 @@ jobs:
         run: |
           import json, subprocess, datetime
           def grab(url):
-              raw=subprocess.check_output(["yt-dlp","--flat-playlist","--dump-single-json",url],text=True,timeout=300)
+              raw=subprocess.check_output(["yt-dlp","--ignore-errors","--flat-playlist","--dump-single-json",url],text=True,timeout=300)
               d=json.loads(raw)
               return [{"id":e.get("id"),"title":e.get("title"),"url":e.get("url"),
                        "live_status":e.get("live_status"),"duration":e.get("duration"),
