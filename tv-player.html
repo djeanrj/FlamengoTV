@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <title>Flamengo TV — TV Player</title>
-<style>html,body,#player{width:100%;height:100%;margin:0;padding:0;background:#000;overflow:hidden}</style>
-</head><body><div id="player"></div>
+<style>html,body,#player{width:100%;height:100%;margin:0;padding:0;background:#000;overflow:hidden}#keycatch{position:fixed;inset:0;z-index:2147483647;background:transparent;outline:none}</style>
+</head><body><div id="player"></div><div id="keycatch" tabindex="0"></div>
 <script>
 (function(){
 'use strict';
@@ -14,7 +14,9 @@ var player=null,pending=null,ORIGIN=window.location.origin;
 function send(type,extra){var d={type:type},k;if(extra){for(k in extra){if(Object.prototype.hasOwnProperty.call(extra,k))d[k]=extra[k];}}try{if(window.parent&&window.parent!==window)window.parent.postMessage(d,'*');}catch(e){}}
 function param(n){var r=new RegExp('[?&]'+n+'=([^&]+)').exec(window.location.search),v;if(!r)return null;try{v=decodeURIComponent(r[1]);}catch(e){return null;}return v;}
 function source(){var v=param('v'),list=param('list');if(v&&/^[A-Za-z0-9_-]{11}$/.test(v))return{kind:'video',value:v};if(list&&/^[A-Za-z0-9_-]{10,80}$/.test(list))return{kind:'playlist',value:list};return null;}
-function make(src){var vars={autoplay:1,controls:1,rel:0,playsinline:1,enablejsapi:1,origin:ORIGIN,fs:0,hl:'pt-BR'};var opts={width:'100%',height:'100%',playerVars:vars,events:{onReady:function(e){send('FLATV_READY');try{e.target.playVideo();}catch(x){}},onStateChange:function(e){send('FLATV_STATE',{state:e.data});},onError:function(e){send('FLATV_ERROR',{code:e.data});}}};if(src.kind==='video')opts.videoId=src.value;else{vars.listType='playlist';vars.list=src.value;}player=new YT.Player('player',opts);}
+function key(k,n){send('FLATV_KEY',{keyCode:k,key:n||''});}
+function armKeys(){var q=document.getElementById('keycatch');if(!q)return;q.onkeydown=function(e){e=e||window.event;try{e.preventDefault();e.stopPropagation();}catch(x){}key(e.keyCode||e.which,e.key||'');return false;};try{q.focus();}catch(x){}}
+function make(src){var vars={autoplay:1,controls:1,rel:0,playsinline:1,enablejsapi:1,origin:ORIGIN,fs:0,hl:'pt-BR'};var opts={width:'100%',height:'100%',playerVars:vars,events:{onReady:function(e){send('FLATV_READY');armKeys();setTimeout(armKeys,500);setTimeout(armKeys,1500);try{e.target.playVideo();}catch(x){}},onStateChange:function(e){send('FLATV_STATE',{state:e.data});},onError:function(e){send('FLATV_ERROR',{code:e.data});}}};if(src.kind==='video')opts.videoId=src.value;else{vars.listType='playlist';vars.list=src.value;}player=new YT.Player('player',opts);}
 function cmd(d){if(!d||typeof d!=='object'||!player)return;try{
 if(d.type==='FLATV_PLAY')player.playVideo();
 else if(d.type==='FLATV_PAUSE')player.pauseVideo();
