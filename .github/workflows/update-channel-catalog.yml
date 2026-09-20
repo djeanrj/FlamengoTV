@@ -50,9 +50,9 @@ jobs:
           open("channel-catalog.json","w",encoding="utf-8").write(json.dumps(out,ensure_ascii=False,indent=2)+"\n")
       - name: Publicar
         run: |
-          if [ -z "$(git status --porcelain -- channel-catalog.json)" ]; then exit 0; fi
+          if [ -z "$(git status --porcelain -- channel-catalog.json channel-data)" ]; then exit 0; fi
           git config user.name "flamengotv-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add channel-catalog.json
+          git add channel-catalog.json channel-data
           git commit -m "Atualiza catalogo completo Flamengo TV"
           git push
