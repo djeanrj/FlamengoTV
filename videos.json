@@ -4,8 +4,26 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-09-21T14:07:18.411750+00:00",
+  "updatedAt": "2026-09-21T19:27:05.176553+00:00",
   "videos": [
+    {
+      "id": "a7-6fgARRpE",
+      "title": "EM NOME DO JOGO: PROFISSIONALISMO NA GESTÃO DE CLUBES ESPORTIVOS",
+      "published": "2026-09-21T16:50:18+00:00",
+      "isShort": false
+    },
+    {
+      "id": "ZzNzdjeRGZI",
+      "title": "EM NOME DO JOGO | PROFISSIONALISMO NA GESTÃO DE CLUBES ESPORTIVOS",
+      "published": "2026-09-21T16:00:32+00:00",
+      "isShort": false
+    },
+    {
+      "id": "F3M4lYsSEnA",
+      "title": "ISSO AQUI É CARRASCAL! 🇨🇴❤️🖤",
+      "published": "2026-09-21T15:48:53+00:00",
+      "isShort": false
+    },
     {
       "id": "Q54fDDTLOrg",
       "title": "MAIS UMA NOITE TERRÍVEL PARA O ANTI! 😂",
@@ -76,24 +94,6 @@
       "id": "NkU_oMLnhL0",
       "title": "FLAMENGO 2 X 1 RED BULL BRAGANTINO | MELHORES MOMENTOS | BRASILEIRÃO (20/09/26)",
       "published": "2026-09-20T23:54:26+00:00",
-      "isShort": false
-    },
-    {
-      "id": "AEV9cufov9E",
-      "title": "🔴 EN VIVO: FLAMENGO x RB BRAGANTINO | NARRACIÓN EN ESPAÑOL Y CON IMÁGENES | BRASILEIRÃO (20/09/26)",
-      "published": "2026-09-20T23:45:45+00:00",
-      "isShort": false
-    },
-    {
-      "id": "YkBXrYApFEU",
-      "title": "🔴AO VIVO: CAMPEONATO CARIOCA DE BASQUETE -  FLAMENGO X FLUMINENSE | 20/09/26",
-      "published": "2026-09-20T20:38:21+00:00",
-      "isShort": false
-    },
-    {
-      "id": "XmO-LI8zSeI",
-      "title": "SÁBADO DE TREINO! FLAMENGO BUSCA MANTER A LIDERANÇA",
-      "published": "2026-09-19T20:27:55+00:00",
       "isShort": false
     }
   ]
