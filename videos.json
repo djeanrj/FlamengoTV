@@ -4,8 +4,20 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-09-23T11:34:22.074809+00:00",
+  "updatedAt": "2026-09-23T16:56:49.625726+00:00",
   "videos": [
+    {
+      "id": "d0vBaSOznMs",
+      "title": "EM NOME DO JOGO COM FABRÍCIO CHICCA, BRUNNO LORENZONI E RICARDO LOMBA!",
+      "published": "2026-09-23T16:48:40+00:00",
+      "isShort": false
+    },
+    {
+      "id": "Gp02klx-lmg",
+      "title": "E AI, QUAL O PONTO DO SEUS 63KG DE ALCATRA LIMPINHA, NAÇÃO?🥩",
+      "published": "2026-09-23T13:08:56+00:00",
+      "isShort": false
+    },
     {
       "id": "Xf7PnRFRSao",
       "title": "FLAMENGO RETOMA TRABALHOS NO NINHO DO URUBU",
@@ -82,18 +94,6 @@
       "id": "Q54fDDTLOrg",
       "title": "MAIS UMA NOITE TERRÍVEL PARA O ANTI! 😂",
       "published": "2026-09-21T13:04:16+00:00",
-      "isShort": false
-    },
-    {
-      "id": "FxjoNP8ZL4M",
-      "title": "🔴 AO VIVO: FLAMENGO x RB BRAGANTINO | COM IMAGENS E NARRAÇÃO EM PORTUGUÊS | BRASILEIRÃO (20/09/26)",
-      "published": "2026-09-21T01:14:47+00:00",
-      "isShort": false
-    },
-    {
-      "id": "vHtxgPT3NDE",
-      "title": "🔴 AO VIVO: FLAMENGO x RB BRAGANTINO | PRÉ-JOGO + NARRAÇÃO | BRASILEIRÃO (20/09/26)",
-      "published": "2026-09-21T01:13:49+00:00",
       "isShort": false
     }
   ]
