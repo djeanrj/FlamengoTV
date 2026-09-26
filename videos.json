@@ -4,8 +4,14 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-09-26T19:51:00.975986+00:00",
+  "updatedAt": "2026-09-26T22:49:05.273421+00:00",
   "videos": [
+    {
+      "id": "GzN4fzUI2Xg",
+      "title": "🔴AO VIVO: COPA SUPERVÔLEI FEMININO - SESC FLAMENGO x PRAIA CLUBE | 26/09/26",
+      "published": "2026-09-23T20:44:25+00:00",
+      "isShort": false
+    },
     {
       "id": "2wfS-VcMp3w",
       "title": "🔴 AO VIVO: FLAMENGO x FLUMINENSE | CAMPEONATO CARIOCA SUB-20 (26/09/26)",
@@ -88,12 +94,6 @@
       "id": "2fBMTleUg-g",
       "title": "🔴AO VIVO: COPA SUPERVÔLEI FEMININO - SESC FLAMENGO x FLUMINENSE | 24/09/26",
       "published": "2026-09-25T01:07:51+00:00",
-      "isShort": false
-    },
-    {
-      "id": "eRa3tss-p4U",
-      "title": "TREINO DE FINALIZAÇÕES E MUITOS GOLS! QUINTA-FEIRA DE TRABALHO NO NINHO",
-      "published": "2026-09-24T21:00:13+00:00",
       "isShort": false
     }
   ]
