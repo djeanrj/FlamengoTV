@@ -4,12 +4,42 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-09-30T00:26:09.472494+00:00",
+  "updatedAt": "2026-09-30T13:41:55.659331+00:00",
   "videos": [
+    {
+      "id": "gmy2_8cDFtk",
+      "title": "LIMITE PARA QUEM APOSTA, CRUZAMENTO DE DADOS E FISCALIZAÇÃO DE VERDADE.",
+      "published": "2026-09-30T13:18:31+00:00",
+      "isShort": false
+    },
+    {
+      "id": "NfrS3cXN9JQ",
+      "title": "\"Se for para mudar as regras, que seja com transição e escalonamento, não de forma abrupta\".",
+      "published": "2026-09-30T13:02:39+00:00",
+      "isShort": false
+    },
+    {
+      "id": "NgWfFO0E-Jc",
+      "title": "FLAPRESS NO AR COM ATUALIZAÇÕES DO ARRASCAETA!",
+      "published": "2026-09-30T12:55:36+00:00",
+      "isShort": false
+    },
+    {
+      "id": "YG7emjMtc74",
+      "title": "No MengoCast, Bap apresentou os caminhos que o Flamengo defende para proteger o torcedor.",
+      "published": "2026-09-30T12:51:33+00:00",
+      "isShort": false
+    },
     {
       "id": "QIP-82aP9yo",
       "title": "🔴 AO VIVO: AMISTOSO DO FLABASQUETE - BIGUÁ x FLAMENGO | 29/09/26",
-      "published": "2026-09-29T13:16:15+00:00",
+      "published": "2026-09-30T01:35:50+00:00",
+      "isShort": false
+    },
+    {
+      "id": "O-KlCHoiZxE",
+      "title": "ATUALIZAÇÃO SOBRE O ARRASCAETA, VÔLEI INICIA A TEMPORADA COM PÉ DIREITO E MUITO MAIS NO FLAPRESS",
+      "published": "2026-09-30T00:46:26+00:00",
       "isShort": false
     },
     {
@@ -64,36 +94,6 @@
       "id": "WwbECjVoEb0",
       "title": "O MERCADO DE PATROCÍNIOS DOS CLUBES: BAP EXPLICA O POSSÍVEL NOVO CENÁRIO",
       "published": "2026-09-29T12:32:19+00:00",
-      "isShort": false
-    },
-    {
-      "id": "Xn0lTh9EsHo",
-      "title": "BAP CRITICOU A MUDANÇA REPENTINA DE POSTURA DO GOVERNO - MENGOCAST #66",
-      "published": "2026-09-29T02:46:38+00:00",
-      "isShort": false
-    },
-    {
-      "id": "aEneHn71oAQ",
-      "title": "O FLAMENGO AGE ESTRITAMENTE DENTRO DA LEI - MENGOCAST #66",
-      "published": "2026-09-29T02:41:43+00:00",
-      "isShort": false
-    },
-    {
-      "id": "BI9OkyUpcFA",
-      "title": "BAP EXPLICA O VERDADEIRO IMPACTO DO BANIMENTO DAS CASAS DE APOSTAS - MENGOCAST #66",
-      "published": "2026-09-29T02:36:12+00:00",
-      "isShort": false
-    },
-    {
-      "id": "c7bGAeiMdAg",
-      "title": "🔴 AO VIVO: AMISTOSO DO FLABASQUETE - PEÑAROL x FLAMENGO | 28/09/26",
-      "published": "2026-09-29T01:36:42+00:00",
-      "isShort": false
-    },
-    {
-      "id": "yIUZneKs0ds",
-      "title": "BAP ANALISA IMPACTOS DA PROIBIÇÃO DAS BETS NO BRASIL - MENGOCAST #66",
-      "published": "2026-09-29T00:00:11+00:00",
       "isShort": false
     }
   ]
