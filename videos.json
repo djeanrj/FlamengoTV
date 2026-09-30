@@ -4,8 +4,20 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-09-30T13:41:55.659331+00:00",
+  "updatedAt": "2026-09-30T19:18:22.388720+00:00",
   "videos": [
+    {
+      "id": "U_t1uynSX6A",
+      "title": "FLAMENGO RETORNA AOS TREINOS E SE PREPARA PARA A VOLTA DO BRASILEIRÃO",
+      "published": "2026-09-30T19:05:01+00:00",
+      "isShort": false
+    },
+    {
+      "id": "AtA7EibVezk",
+      "title": "SE FOR PARA MUDAR AS REGRAS, QUE SEJA COM TRANSIÇÃO E ESCALONAMENTO, NÃO DE FORMA ABRUPTA.",
+      "published": "2026-09-30T17:23:57+00:00",
+      "isShort": false
+    },
     {
       "id": "gmy2_8cDFtk",
       "title": "LIMITE PARA QUEM APOSTA, CRUZAMENTO DE DADOS E FISCALIZAÇÃO DE VERDADE.",
@@ -82,18 +94,6 @@
       "id": "r40EPGtl8j4",
       "title": "QUEM É MAIS PROVÁVEL COM A #FlaGinástica ✨",
       "published": "2026-09-29T19:21:55+00:00",
-      "isShort": false
-    },
-    {
-      "id": "BbLFTN1HYuM",
-      "title": "\"VAI AFETAR E VAI AFETAR MUITO!\" UMA FALSA SOLUÇÃO QUE VAI PREJUDICAR O FUTEBOL NACIONAL.",
-      "published": "2026-09-29T13:12:23+00:00",
-      "isShort": false
-    },
-    {
-      "id": "WwbECjVoEb0",
-      "title": "O MERCADO DE PATROCÍNIOS DOS CLUBES: BAP EXPLICA O POSSÍVEL NOVO CENÁRIO",
-      "published": "2026-09-29T12:32:19+00:00",
       "isShort": false
     }
   ]
