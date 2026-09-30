@@ -4,8 +4,14 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-09-30T19:18:22.388720+00:00",
+  "updatedAt": "2026-09-30T23:47:52.433449+00:00",
   "videos": [
+    {
+      "id": "NgiIXPDFWhU",
+      "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 01/10/26",
+      "published": "2026-09-30T20:37:17+00:00",
+      "isShort": false
+    },
     {
       "id": "U_t1uynSX6A",
       "title": "FLAMENGO RETORNA AOS TREINOS E SE PREPARA PARA A VOLTA DO BRASILEIRÃO",
@@ -88,12 +94,6 @@
       "id": "hU4sSLOqFww",
       "title": "\"EU COMO BRASILEIRO TENHO UMA PREOCUPAÇÃO\". BAP CRITICA A FORMA COMO FOI TOMADA A DECISÃO",
       "published": "2026-09-29T19:36:09+00:00",
-      "isShort": false
-    },
-    {
-      "id": "r40EPGtl8j4",
-      "title": "QUEM É MAIS PROVÁVEL COM A #FlaGinástica ✨",
-      "published": "2026-09-29T19:21:55+00:00",
       "isShort": false
     }
   ]
