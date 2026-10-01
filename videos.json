@@ -4,12 +4,18 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-09-30T23:47:52.433449+00:00",
+  "updatedAt": "2026-10-01T13:11:51.793714+00:00",
   "videos": [
     {
       "id": "NgiIXPDFWhU",
       "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 01/10/26",
       "published": "2026-09-30T20:37:17+00:00",
+      "isShort": false
+    },
+    {
+      "id": "b1xBSao17Ec",
+      "title": "🔴 AO VIVO: COLETIVA DE IMPRENSA | 01/10/26",
+      "published": "2026-10-01T08:30:56+00:00",
       "isShort": false
     },
     {
@@ -88,12 +94,6 @@
       "id": "QGspYdHxoxg",
       "title": "E SE VOCÊ FOSSE UM INVESTIDOR ESTRANGEIRO E OUVISSE UMA NOTÍCIA DESSAS?",
       "published": "2026-09-29T20:00:37+00:00",
-      "isShort": false
-    },
-    {
-      "id": "hU4sSLOqFww",
-      "title": "\"EU COMO BRASILEIRO TENHO UMA PREOCUPAÇÃO\". BAP CRITICA A FORMA COMO FOI TOMADA A DECISÃO",
-      "published": "2026-09-29T19:36:09+00:00",
       "isShort": false
     }
   ]
