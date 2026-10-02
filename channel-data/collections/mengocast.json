@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-10-02T18:25:14.423784+00:00",
+  "updatedAt": "2026-10-02T23:00:11.507105+00:00",
   "title": "MengoCast",
   "playlistId": "PLRTMoJ6RWDVB0Zfnw3sWxKHxs3DEgT0MR",
   "entries": [
+    {
+      "id": "SuNQQ4GORIU",
+      "title": "PAULINHO SERRA - MENGOCAST #67",
+      "url": "https://www.youtube.com/watch?v=SuNQQ4GORIU",
+      "live_status": null,
+      "duration": 3535,
+      "thumbnail": null
+    },
     {
       "id": "38rwV_63mN0",
       "title": "BRUNO GISSONI AND FELIPE SIMAS - MENGOCAST #65",
