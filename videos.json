@@ -4,8 +4,20 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-02T08:34:04.966794+00:00",
+  "updatedAt": "2026-10-02T15:47:54.675607+00:00",
   "videos": [
+    {
+      "id": "Wpfot-ajEjk",
+      "title": "EFEITO FLAMENGO NA ECONOMIA",
+      "published": "2026-10-02T14:00:22+00:00",
+      "isShort": false
+    },
+    {
+      "id": "3c7g0BdS9Yc",
+      "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 02/10/26",
+      "published": "2026-10-02T13:30:45+00:00",
+      "isShort": false
+    },
     {
       "id": "cEGSb7l6IrM",
       "title": "FLAMENGO TREINA FORTE NO NINHO DO URUBU",
@@ -82,18 +94,6 @@
       "id": "U_t1uynSX6A",
       "title": "FLAMENGO RETORNA AOS TREINOS E SE PREPARA PARA A VOLTA DO BRASILEIRÃO",
       "published": "2026-09-30T19:05:01+00:00",
-      "isShort": false
-    },
-    {
-      "id": "AtA7EibVezk",
-      "title": "SE FOR PARA MUDAR AS REGRAS, QUE SEJA COM TRANSIÇÃO E ESCALONAMENTO, NÃO DE FORMA ABRUPTA.",
-      "published": "2026-09-30T17:23:57+00:00",
-      "isShort": false
-    },
-    {
-      "id": "gmy2_8cDFtk",
-      "title": "LIMITE PARA QUEM APOSTA, CRUZAMENTO DE DADOS E FISCALIZAÇÃO DE VERDADE.",
-      "published": "2026-09-30T13:18:31+00:00",
       "isShort": false
     }
   ]
