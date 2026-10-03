@@ -4,8 +4,26 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-03T12:32:44.325296+00:00",
+  "updatedAt": "2026-10-03T17:15:51.027016+00:00",
   "videos": [
+    {
+      "id": "kBVuX2RxfQ8",
+      "title": "AH, QUE SAUDADE DE UM DOMINGO CAÓTICO...  #flamengotv #flamengo #mengão #datafifa  #futebol",
+      "published": "2026-10-03T16:27:39+00:00",
+      "isShort": false
+    },
+    {
+      "id": "D4Q-RuQ9Xgw",
+      "title": "ABRINDO O JOGO SOBRE A DATA FIFA - MEMENGO #74",
+      "published": "2026-10-03T16:20:00+00:00",
+      "isShort": false
+    },
+    {
+      "id": "9tYCiuT-gKY",
+      "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 03/10/26",
+      "published": "2026-10-03T13:30:03+00:00",
+      "isShort": false
+    },
     {
       "id": "UGmkPJDL6ok",
       "title": "FLAMENGO SEGUE TRABALHANDO FORTE NO NINHO DO URUBU",
@@ -76,24 +94,6 @@
       "id": "cEGSb7l6IrM",
       "title": "FLAMENGO TREINA FORTE NO NINHO DO URUBU",
       "published": "2026-10-01T21:38:49+00:00",
-      "isShort": false
-    },
-    {
-      "id": "Tz237_gL_0s",
-      "title": "🔴 AO VIVO: TORNEIO DE ABERTURA NBB | TATUÍ x FLAMENGO - 07/10",
-      "published": "2026-10-01T21:26:21+00:00",
-      "isShort": false
-    },
-    {
-      "id": "9tYCiuT-gKY",
-      "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 03/10/26",
-      "published": "2026-10-01T19:32:34+00:00",
-      "isShort": false
-    },
-    {
-      "id": "59vVB5DqxmA",
-      "title": "🔴 AO VIVO: TORNEIO DE ABERTURA NBB | FLAMENGO x BOTAFOGO - 06/10",
-      "published": "2026-10-01T19:27:17+00:00",
       "isShort": false
     }
   ]
