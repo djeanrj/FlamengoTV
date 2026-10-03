@@ -4,8 +4,14 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-02T20:43:55.738577+00:00",
+  "updatedAt": "2026-10-03T00:29:30.473236+00:00",
   "videos": [
+    {
+      "id": "UGmkPJDL6ok",
+      "title": "FLAMENGO SEGUE TRABALHANDO FORTE NO NINHO DO URUBU",
+      "published": "2026-10-03T00:00:31+00:00",
+      "isShort": false
+    },
     {
       "id": "iero6J3njnI",
       "title": "🔴 AO VIVO: FLAMENGO x SAMPAIO CORRÊA  | CAMPEONATO CARIOCA SUB-20 (02/10/26)",
@@ -88,12 +94,6 @@
       "id": "59vVB5DqxmA",
       "title": "🔴 AO VIVO: TORNEIO DE ABERTURA NBB | FLAMENGO x BOTAFOGO - 06/10",
       "published": "2026-10-01T19:27:17+00:00",
-      "isShort": false
-    },
-    {
-      "id": "tDwTJUdI2AE",
-      "title": "METE UM BLOCK NELAS! 🛡️🚫Essa é minha garota: Simone Leeeee! 🗣️ #FlaVôlei",
-      "published": "2026-10-01T19:16:37+00:00",
       "isShort": false
     }
   ]
