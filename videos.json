@@ -4,8 +4,20 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-04T15:21:24.831413+00:00",
+  "updatedAt": "2026-10-04T19:36:24.482082+00:00",
   "videos": [
+    {
+      "id": "yIONBiK-O40",
+      "title": "🔴AO VIVO: CAMPEONATO CARIOCA DE VÔLEI FEMININO - TIJUCA x SESC FLAMENGO | 06/10/26",
+      "published": "2026-10-04T15:41:54+00:00",
+      "isShort": false
+    },
+    {
+      "id": "dgGvSe1_yKw",
+      "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 05/10/26",
+      "published": "2026-10-04T15:34:44+00:00",
+      "isShort": false
+    },
     {
       "id": "4UAsj36axUE",
       "title": "🔴AO VIVO: AMISTOSO DO FLAVÔLEI - SESC FLAMENGO x PRAIA CLUBE | 03/10/26",
@@ -82,18 +94,6 @@
       "id": "5-c-Epa7TK0",
       "title": "As várias camadas que formam o Flamengo! 🔴⚫️",
       "published": "2026-10-02T18:03:53+00:00",
-      "isShort": false
-    },
-    {
-      "id": "TzkAjQ3MlJA",
-      "title": "TREINO COM BH ⚽👑",
-      "published": "2026-10-02T17:26:46+00:00",
-      "isShort": false
-    },
-    {
-      "id": "cUafSdeBZLM",
-      "title": "Eu fico com um sorriso resplandescente quando escuto: 𝐹 𝐿 𝐴 𝑀 𝐸 𝑁 𝐺 𝑂 !!!!",
-      "published": "2026-10-02T17:19:13+00:00",
       "isShort": false
     }
   ]
