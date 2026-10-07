@@ -4,12 +4,54 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-07T14:30:41.049962+00:00",
+  "updatedAt": "2026-10-07T20:36:53.759617+00:00",
   "videos": [
+    {
+      "id": "aFhr0As0Gjk",
+      "title": "🔴 AO VIVO: FLAMENGO x FLUMINENSE | COM IMAGENS E NARRAÇÃO EM PORTUGUÊS | BRASILEIRÃO (11/10/26)",
+      "published": "2026-10-07T19:17:23+00:00",
+      "isShort": false
+    },
+    {
+      "id": "uV8b0aGD6h4",
+      "title": "🔴AO VIVO: CAMPEONATO CARIOCA DE VÔLEI FEMININO - SESC FLAMENGO x FLUMINENSE | 10/10/26",
+      "published": "2026-10-07T19:12:21+00:00",
+      "isShort": false
+    },
+    {
+      "id": "6xQlhuLaWok",
+      "title": "🔴 AO VIVO: VASCO x FLAMENGO | CAMPEONATO CARIOCA SUB-20 (11/10/26)",
+      "published": "2026-10-07T18:47:06+00:00",
+      "isShort": false
+    },
+    {
+      "id": "tCO4OF5YFb8",
+      "title": "Despedida de um dos maiores jogadores do mundo, uma mensagem no céu para dizer: 𝐚𝐦𝐚𝐧𝐡𝐚̃ 𝐭𝐞𝐦 𝐌𝐞𝐧𝐠𝐚̃𝐨!",
+      "published": "2026-10-07T18:18:33+00:00",
+      "isShort": false
+    },
+    {
+      "id": "jT0lS-5JbJI",
+      "title": "🔴 AO VIVO: SANTOS x FLAMENGO | PRÉ-JOGO + NARRAÇÃO | BRASILEIRÃO (08/10/26)",
+      "published": "2026-10-07T17:59:47+00:00",
+      "isShort": false
+    },
+    {
+      "id": "LHIdHQ1VDs0",
+      "title": "É AMANHÃ, NAÇÃO!!! Tá chegando a hora do Mengão voltar! Santos x Flamengo, na Vila Belmiro!",
+      "published": "2026-10-07T17:33:09+00:00",
+      "isShort": false
+    },
+    {
+      "id": "SPd8GkFGBrk",
+      "title": "ACABOU A ESPERA! FLAMENGO SE PREPARA PARA VOLTAR AO BRASILEIRÃO!",
+      "published": "2026-10-07T17:24:42+00:00",
+      "isShort": false
+    },
     {
       "id": "Tz237_gL_0s",
       "title": "🔴 AO VIVO: TORNEIO DE ABERTURA NBB | TATUÍ x FLAMENGO - 07/10",
-      "published": "2026-10-01T21:26:21+00:00",
+      "published": "2026-10-07T16:18:20+00:00",
       "isShort": false
     },
     {
@@ -52,48 +94,6 @@
       "id": "m-A1DSgREns",
       "title": "BOA NOTÍCIA! PEDRO E SAMUEL LINO ESTÃO DE VOLTA AOS TREINOS DO FLAMENGO",
       "published": "2026-10-06T20:19:31+00:00",
-      "isShort": false
-    },
-    {
-      "id": "wSp6IgfJwn4",
-      "title": "E DEU MENGÃO! Confira os melhores momentos da grande vitória do #FlaBasquete sobre o Botafogo.",
-      "published": "2026-10-06T17:57:11+00:00",
-      "isShort": false
-    },
-    {
-      "id": "8PJbATQoCnc",
-      "title": "TORÓ E ZICO RELEMBRAM COMO É VIVER O FLAMENGO COMO JOGADOR E TORCEDOR!",
-      "published": "2026-10-06T17:57:08+00:00",
-      "isShort": false
-    },
-    {
-      "id": "59vVB5DqxmA",
-      "title": "🔴 AO VIVO: TORNEIO DE ABERTURA NBB | FLAMENGO x BOTAFOGO - 06/10",
-      "published": "2026-10-06T16:39:07+00:00",
-      "isShort": false
-    },
-    {
-      "id": "uevZFvMKQJA",
-      "title": "@pedroguilherme e @osamuellino 🟥⬛️🔙🇧🇷",
-      "published": "2026-10-06T16:08:21+00:00",
-      "isShort": false
-    },
-    {
-      "id": "svKG_vwtYD0",
-      "title": "RESENHA DO GALINHO | ZICO RECEBE EVERTTON ARAÚJO E TORÓ #16",
-      "published": "2026-10-06T15:00:12+00:00",
-      "isShort": false
-    },
-    {
-      "id": "it2edJ7OdSw",
-      "title": "Vai começar o clássico! Flamengo x Botafogo, pelo Torneio de Abertura do NBB!",
-      "published": "2026-10-06T14:32:55+00:00",
-      "isShort": false
-    },
-    {
-      "id": "NA1Y7B0IYes",
-      "title": "#FlaBasquete na casa! Pra cima deles! A bola sobe às 11h30 e a FlamengoTV transmite ao vivo!",
-      "published": "2026-10-06T14:29:50+00:00",
       "isShort": false
     }
   ]
