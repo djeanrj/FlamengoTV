@@ -4,8 +4,14 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-07T20:36:53.759617+00:00",
+  "updatedAt": "2026-10-08T00:59:32.787552+00:00",
   "videos": [
+    {
+      "id": "Vj45GUaOHQ8",
+      "title": "QUEM É JORGINHO FORA DOS CAMPOS? | ENTREVISTA EXCLUSIVA",
+      "published": "2026-10-07T21:00:31+00:00",
+      "isShort": false
+    },
     {
       "id": "aFhr0As0Gjk",
       "title": "🔴 AO VIVO: FLAMENGO x FLUMINENSE | COM IMAGENS E NARRAÇÃO EM PORTUGUÊS | BRASILEIRÃO (11/10/26)",
@@ -22,6 +28,12 @@
       "id": "6xQlhuLaWok",
       "title": "🔴 AO VIVO: VASCO x FLAMENGO | CAMPEONATO CARIOCA SUB-20 (11/10/26)",
       "published": "2026-10-07T18:47:06+00:00",
+      "isShort": false
+    },
+    {
+      "id": "xnjOO8wlNO4",
+      "title": "🔴 AO VIVO: TORNEIO DE ABERTURA NBB | FLAMENGO x MINAS - 09/10",
+      "published": "2026-10-07T18:34:43+00:00",
       "isShort": false
     },
     {
@@ -82,18 +94,6 @@
       "id": "yIONBiK-O40",
       "title": "🔴AO VIVO: CAMPEONATO CARIOCA DE VÔLEI FEMININO - TIJUCA x SESC FLAMENGO | 06/10/26",
       "published": "2026-10-06T22:30:50+00:00",
-      "isShort": false
-    },
-    {
-      "id": "G5khfOiqjdA",
-      "title": "O ADM colocou o óculos e foi gravar uma “mentirinha” com os jogadores no dia do Media Day! 🤣",
-      "published": "2026-10-06T22:16:30+00:00",
-      "isShort": false
-    },
-    {
-      "id": "m-A1DSgREns",
-      "title": "BOA NOTÍCIA! PEDRO E SAMUEL LINO ESTÃO DE VOLTA AOS TREINOS DO FLAMENGO",
-      "published": "2026-10-06T20:19:31+00:00",
       "isShort": false
     }
   ]
