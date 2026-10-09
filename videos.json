@@ -4,12 +4,18 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-08T21:19:14.638658+00:00",
+  "updatedAt": "2026-10-09T02:08:37.052945+00:00",
   "videos": [
     {
       "id": "jT0lS-5JbJI",
       "title": "🔴 AO VIVO: SANTOS x FLAMENGO | PRÉ-JOGO + NARRAÇÃO | BRASILEIRÃO (08/10/26)",
-      "published": "2026-10-07T17:59:47+00:00",
+      "published": "2026-10-09T01:40:25+00:00",
+      "isShort": false
+    },
+    {
+      "id": "RXmxIHn6AiI",
+      "title": "TOMA PAQUETÁÁÁ!!!!!!!!",
+      "published": "2026-10-09T01:34:29+00:00",
       "isShort": false
     },
     {
@@ -88,12 +94,6 @@
       "id": "Vj45GUaOHQ8",
       "title": "QUEM É JORGINHO FORA DOS CAMPOS? | ENTREVISTA EXCLUSIVA",
       "published": "2026-10-07T21:00:31+00:00",
-      "isShort": false
-    },
-    {
-      "id": "aFhr0As0Gjk",
-      "title": "🔴 AO VIVO: FLAMENGO x FLUMINENSE | COM IMAGENS E NARRAÇÃO EM PORTUGUÊS | BRASILEIRÃO (11/10/26)",
-      "published": "2026-10-07T19:17:23+00:00",
       "isShort": false
     }
   ]
