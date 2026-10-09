@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-10-08T22:05:09.427867+00:00",
+  "updatedAt": "2026-10-09T21:41:53.614566+00:00",
   "title": "MengoCast",
   "playlistId": "PLRTMoJ6RWDVB0Zfnw3sWxKHxs3DEgT0MR",
   "entries": [
+    {
+      "id": "znzYfgCbhZI",
+      "title": "MENGOCAST - SONS OF THE JERSEY",
+      "url": "https://www.youtube.com/watch?v=znzYfgCbhZI",
+      "live_status": null,
+      "duration": 1910,
+      "thumbnail": null
+    },
     {
       "id": "SuNQQ4GORIU",
       "title": "PAULINHO SERRA - MENGOCAST #67",
