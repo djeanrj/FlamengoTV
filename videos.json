@@ -4,8 +4,26 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-09T02:08:37.052945+00:00",
+  "updatedAt": "2026-10-09T09:02:04.321776+00:00",
   "videos": [
+    {
+      "id": "m_HtKsLb5QE",
+      "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 09/10/26",
+      "published": "2026-10-09T03:12:43+00:00",
+      "isShort": false
+    },
+    {
+      "id": "J8V--zQYHi4",
+      "title": "SANTOS 2 X 2 FLAMENGO | MELHORES MOMENTOS | BRASILEIRÃO (08/10/26)",
+      "published": "2026-10-09T02:35:16+00:00",
+      "isShort": false
+    },
+    {
+      "id": "p6wM5kyR9sc",
+      "title": "LEONARDO JARDIM | COLETIVA PÓS-JOGO | SANTOS 2 X 2 FLAMENGO | BRASILEIRÃO (08/10/26)",
+      "published": "2026-10-09T02:29:00+00:00",
+      "isShort": false
+    },
     {
       "id": "jT0lS-5JbJI",
       "title": "🔴 AO VIVO: SANTOS x FLAMENGO | PRÉ-JOGO + NARRAÇÃO | BRASILEIRÃO (08/10/26)",
@@ -76,24 +94,6 @@
       "id": "El7-fAEx4Fw",
       "title": "SANTOS x FLAMENGO: OS DESAFIOS DE JARDIM PARA DISPARAR NA LIDERANÇA DO BRASILEIRÃO | EXPOSED TÁTICO",
       "published": "2026-10-08T13:00:20+00:00",
-      "isShort": false
-    },
-    {
-      "id": "0LX16aOQrJM",
-      "title": "MENGÃO RUMO A SANTOS! 🔴⚫️",
-      "published": "2026-10-08T12:48:12+00:00",
-      "isShort": false
-    },
-    {
-      "id": "8q3nYhA0pF8",
-      "title": "ENTREVISTA EXCLUSIVA COM JORGINHO! ❤️🖤",
-      "published": "2026-10-08T12:48:10+00:00",
-      "isShort": false
-    },
-    {
-      "id": "Vj45GUaOHQ8",
-      "title": "QUEM É JORGINHO FORA DOS CAMPOS? | ENTREVISTA EXCLUSIVA",
-      "published": "2026-10-07T21:00:31+00:00",
       "isShort": false
     }
   ]
