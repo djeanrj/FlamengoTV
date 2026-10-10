@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T21:41:53.614566+00:00",
+  "updatedAt": "2026-10-10T01:47:22.342682+00:00",
   "title": "Isso aqui é Flamengo",
   "playlistId": "PLRTMoJ6RWDVCqCHsn1WjnL3EP14RfITUB",
   "entries": [
@@ -785,6 +785,14 @@
       "url": "https://www.youtube.com/watch?v=-8XWPIriKN0",
       "live_status": null,
       "duration": 551,
+      "thumbnail": null
+    },
+    {
+      "id": "qibfzpjp4JE",
+      "title": "ISSO AQUI É FLAMENGO | SANTOS 2 X 2 FLAMENGO | BRASILEIRÃO (08/10/26)",
+      "url": "https://www.youtube.com/watch?v=qibfzpjp4JE",
+      "live_status": null,
+      "duration": 550,
       "thumbnail": null
     }
   ]
