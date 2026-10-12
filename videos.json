@@ -4,8 +4,14 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-12T15:21:47.249742+00:00",
+  "updatedAt": "2026-10-12T22:58:04.270808+00:00",
   "videos": [
+    {
+      "id": "l4GC_WO-7YM",
+      "title": "UM DIA DE BASTIDOR NO MARACA! | VLOG DE FLAMENGO X FLUMINENSE NA FLAMENGO TV",
+      "published": "2026-10-12T20:17:12+00:00",
+      "isShort": false
+    },
     {
       "id": "fIT6D3fItMw",
       "title": "LEONARDO JARDIM | COLETIVA PÓS-JOGO | FLAMENGO 1x0 FLUMINENSE | BRASILEIRÃO (11/10/26)",
@@ -88,12 +94,6 @@
       "id": "6xQlhuLaWok",
       "title": "🔴 AO VIVO: VASCO x FLAMENGO | CAMPEONATO CARIOCA SUB-20 (11/10/26)",
       "published": "2026-10-11T15:15:11+00:00",
-      "isShort": false
-    },
-    {
-      "id": "0c1gdIwPEi4",
-      "title": "ZICO FALA SOBRE A CHEGADA DA LUBRAX COMO PATROCINADORA PRA SOMAR COM O MENGÃO! ❤️🖤",
-      "published": "2026-10-11T13:00:14+00:00",
       "isShort": false
     }
   ]
