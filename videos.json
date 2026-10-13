@@ -4,8 +4,20 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-12T22:58:04.270808+00:00",
+  "updatedAt": "2026-10-13T11:46:23.534763+00:00",
   "videos": [
+    {
+      "id": "2RFADXlBiCI",
+      "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 13/10/26",
+      "published": "2026-10-13T00:50:06+00:00",
+      "isShort": false
+    },
+    {
+      "id": "DKUhmeRT0pM",
+      "title": "ISSO AQUI É FLAMENGO | FLAMENGO 1 x 0 FLUMINENSE | BRASILEIRÃO (11/10/26)",
+      "published": "2026-10-13T00:34:53+00:00",
+      "isShort": false
+    },
     {
       "id": "l4GC_WO-7YM",
       "title": "UM DIA DE BASTIDOR NO MARACA! | VLOG DE FLAMENGO X FLUMINENSE NA FLAMENGO TV",
@@ -82,18 +94,6 @@
       "id": "v0zmp5kHPmY",
       "title": "Mengo em campo para o aquecimento! #FLAxFLU",
       "published": "2026-10-11T20:19:48+00:00",
-      "isShort": false
-    },
-    {
-      "id": "AgBqDaU7cbI",
-      "title": "O FLAMENGO CHEGOU PARA O FLAXFLU! 🟥⬛️",
-      "published": "2026-10-11T19:27:00+00:00",
-      "isShort": false
-    },
-    {
-      "id": "6xQlhuLaWok",
-      "title": "🔴 AO VIVO: VASCO x FLAMENGO | CAMPEONATO CARIOCA SUB-20 (11/10/26)",
-      "published": "2026-10-11T15:15:11+00:00",
       "isShort": false
     }
   ]
