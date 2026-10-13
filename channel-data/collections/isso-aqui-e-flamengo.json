@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T19:04:40.991820+00:00",
+  "updatedAt": "2026-10-13T01:21:45.551775+00:00",
   "title": "Isso aqui é Flamengo",
   "playlistId": "PLRTMoJ6RWDVCqCHsn1WjnL3EP14RfITUB",
   "entries": [
@@ -785,6 +785,14 @@
       "url": "https://www.youtube.com/watch?v=-8XWPIriKN0",
       "live_status": null,
       "duration": 551,
+      "thumbnail": null
+    },
+    {
+      "id": "DKUhmeRT0pM",
+      "title": "THIS IS FLAMENGO | FLAMENGO 1 x 0 FLUMINENSE | BRASILEIRÃO (10/11/26)",
+      "url": "https://www.youtube.com/watch?v=DKUhmeRT0pM",
+      "live_status": null,
+      "duration": 550,
       "thumbnail": null
     }
   ]

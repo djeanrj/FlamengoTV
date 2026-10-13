@@ -1,8 +1,24 @@
 {
-  "updatedAt": "2026-10-12T19:04:40.991820+00:00",
+  "updatedAt": "2026-10-13T01:21:45.551775+00:00",
   "channel": "@flamengo",
   "tabs": {
     "videos": [
+      {
+        "id": "DKUhmeRT0pM",
+        "title": "THIS IS FLAMENGO | FLAMENGO 1 x 0 FLUMINENSE | BRASILEIRÃO (10/11/26)",
+        "url": "https://www.youtube.com/watch?v=DKUhmeRT0pM",
+        "live_status": null,
+        "duration": 550,
+        "thumbnail": null
+      },
+      {
+        "id": "l4GC_WO-7YM",
+        "title": "A DAY BEHIND THE SCENES AT THE MARACA! | FLAMENGO VS. FLUMINENSE VLOG ON FLAMENGO TV",
+        "url": "https://www.youtube.com/watch?v=l4GC_WO-7YM",
+        "live_status": null,
+        "duration": 788,
+        "thumbnail": null
+      },
       {
         "id": "fIT6D3fItMw",
         "title": "LEONARDO JARDIM | POST-MATCH PRESS CONFERENCE | FLAMENGO 1-0 FLUMINENSE | BRASILEIRÃO (10/11/26)",
@@ -2101,7 +2117,7 @@
       },
       {
         "id": "lDAglns6edM",
-        "title": "GALINHO’S CHAT | ZICO HOSTS ATHIRSON AND EMERSON ROYAL #15",
+        "title": "RESENHA DO GALINHO | ZICO RECEBE ATHIRSON E EMERSON ROYAL #15",
         "url": "https://www.youtube.com/watch?v=lDAglns6edM",
         "live_status": null,
         "duration": 3951,
@@ -2213,7 +2229,7 @@
       },
       {
         "id": "hKGGtKIYYTQ",
-        "title": "LIVE FROM COLOMBIA: REVIEW WITH ORLANDO BERRÍO!",
+        "title": "DIRETO DA COLÔMBIA: RESENHA COM ORLANDO BERRÍO!",
         "url": "https://www.youtube.com/watch?v=hKGGtKIYYTQ",
         "live_status": null,
         "duration": 1262,
@@ -3405,7 +3421,7 @@
       },
       {
         "id": "nb7T7Ye0aHI",
-        "title": "RESENHA DO GALINHO | ZICO HOSTS THE GOD OF GRIT, OLIVINHA AND RUAN MIRANDA #11",
+        "title": "RESENHA DO GALINHO | ZICO RECEBE O DEUS DA RAÇA , OLIVINHA E RUAN MIRANDA #11",
         "url": "https://www.youtube.com/watch?v=nb7T7Ye0aHI",
         "live_status": null,
         "duration": 2842,
@@ -4717,7 +4733,7 @@
       },
       {
         "id": "7PTYSyvVsuc",
-        "title": "CARLOS MATHEUS | TIME FLAMENGO - DA BASE AO PÓDIO",
+        "title": "CARLOS MATHEUS | FLAMENGO TEAM - FROM YOUTH ACADEMY TO PODIUM",
         "url": "https://www.youtube.com/watch?v=7PTYSyvVsuc",
         "live_status": null,
         "duration": 520,
@@ -5237,7 +5253,7 @@
       },
       {
         "id": "i0W6Lzge7rU",
-        "title": "STEPHAN STEVERINK  | TIME FLAMENGO - DA BASE AO PÓDIO",
+        "title": "STEPHAN STEVERINK | FLAMENGO TEAM - FROM THE BASE TO THE PODIUM",
         "url": "https://www.youtube.com/watch?v=i0W6Lzge7rU",
         "live_status": null,
         "duration": 518,
@@ -5445,7 +5461,7 @@
       },
       {
         "id": "Y_WDtEydBnI",
-        "title": "FLAMENGO 1 X 1 VASCO | ISSO AQUI É FLAMENGO | BRASILEIRÃO (21/09/25)",
+        "title": "FLAMENGO 1 X 1 VASCO | THIS IS FLAMENGO | BRAZILIAN CHAMPIONSHIP (09/21/25)",
         "url": "https://www.youtube.com/watch?v=Y_WDtEydBnI",
         "live_status": null,
         "duration": 647,
@@ -5605,7 +5621,7 @@
       },
       {
         "id": "6rw21MnMbzU",
-        "title": "BERNARDO SANTOS | TIME FLAMENGO - DA BASE AO PÓDIO",
+        "title": "BERNARDO SANTOS | FLAMENGO TEAM - FROM THE BASES TO THE PODIUM",
         "url": "https://www.youtube.com/watch?v=6rw21MnMbzU",
         "live_status": null,
         "duration": 484,
@@ -6149,7 +6165,7 @@
       },
       {
         "id": "1u4gjU_fQmQ",
-        "title": "TÁ PARECENDO 2019... HOJE TEM FLAMENGO - MEMENGO #17",
+        "title": "It feels like 2019... Today is Flamengo day - MEMENGO #17",
         "url": "https://www.youtube.com/watch?v=1u4gjU_fQmQ",
         "live_status": null,
         "duration": 655,
@@ -6261,7 +6277,7 @@
       },
       {
         "id": "dK3GRZmz0TA",
-        "title": "MAKING OF: O QUE VOCÊ NÃO VIU SOBRE A NOVA CAMISA 3 DO FLAMENGO",
+        "title": "MAKING OF: WHAT YOU DIDN'T SEE ABOUT FLAMENGO'S NEW THIRD KIT",
         "url": "https://www.youtube.com/watch?v=dK3GRZmz0TA",
         "live_status": null,
         "duration": 329,
@@ -6461,7 +6477,7 @@
       },
       {
         "id": "aZgNf3Mq1Dw",
-        "title": "DEPARTAMENTO MÉDICO | POR DENTRO DO NINHO EP. 11",
+        "title": "MEDICAL DEPARTMENT | INSIDE THE NEST EP. 11",
         "url": "https://www.youtube.com/watch?v=aZgNf3Mq1Dw",
         "live_status": null,
         "duration": 623,
@@ -7541,7 +7557,7 @@
       },
       {
         "id": "U8kYdYhR3cI",
-        "title": "FLAMENGO MAKES HISTORY ON DAY ONE OF THE MARIA LENK TROPHY",
+        "title": "FLAMENGO FAZ HISTÓRIA NO PRIMEIRO DIA DE TROFÉU MARIA LENK",
         "url": "https://www.youtube.com/watch?v=U8kYdYhR3cI",
         "live_status": null,
         "duration": 326,
@@ -8421,7 +8437,7 @@
       },
       {
         "id": "fruB25AzX_A",
-        "title": "Encontro da Nação com ex-goleiro Diego",
+        "title": "Nation's Meetup with former goalkeeper Diego",
         "url": "https://www.youtube.com/watch?v=fruB25AzX_A",
         "live_status": null,
         "duration": 405,
@@ -8501,7 +8517,7 @@
       },
       {
         "id": "sVpUTDwYn80",
-        "title": "Nação Solidária - Entrega de presentes de Natal para crianças do projeto social Craques da Paz",
+        "title": "Solidary Nation - Christmas gift delivery for children of the Craques da Paz social project",
         "url": "https://www.youtube.com/watch?v=sVpUTDwYn80",
         "live_status": null,
         "duration": 413,
@@ -8613,7 +8629,7 @@
       },
       {
         "id": "KhWTuGjXqYg",
-        "title": "The World Is Ours | 10th anniversary of the first Basketball World Cup - Clip 5",
+        "title": "O Mundo É Nosso | 10 anos do primeiro Mundial de Basquete - Corte 5",
         "url": "https://www.youtube.com/watch?v=KhWTuGjXqYg",
         "live_status": null,
         "duration": 744,
@@ -8669,7 +8685,7 @@
       },
       {
         "id": "b2Dk91fHW_g",
-        "title": "Deliberative Council elects new president",
+        "title": "Conselho Deliberativo elege novo presidente",
         "url": "https://www.youtube.com/watch?v=b2Dk91fHW_g",
         "live_status": null,
         "duration": 410,
@@ -8701,7 +8717,7 @@
       },
       {
         "id": "3VIxdcQQFKY",
-        "title": "Nação Meetup with Jean",
+        "title": "Encontro da Nação com Jean",
         "url": "https://www.youtube.com/watch?v=3VIxdcQQFKY",
         "live_status": null,
         "duration": 383,
@@ -8709,7 +8725,7 @@
       },
       {
         "id": "oJxF-BxsfCY",
-        "title": "Solidarity Nation - Wheelchair Football",
+        "title": "Nação Solidária - Futebol em cadeira de Rodas",
         "url": "https://www.youtube.com/watch?v=oJxF-BxsfCY",
         "live_status": null,
         "duration": 480,
@@ -8797,7 +8813,7 @@
       },
       {
         "id": "he71jPGkBVE",
-        "title": "Penultimate training of the year: Chat with Varela and Evertton Araújo's contract renewal",
+        "title": "Penúltimo treino do ano: Resenha com Varela e renovação de Evertton Araújo",
         "url": "https://www.youtube.com/watch?v=he71jPGkBVE",
         "live_status": null,
         "duration": 432,
@@ -8853,7 +8869,7 @@
       },
       {
         "id": "RqsqJyQ3nDs",
-        "title": "Indrive apresenta: Especial Flamengo Adidas Cup - Daniel Sales",
+        "title": "Indrive presents: Flamengo Adidas Cup Special - Daniel Sales",
         "url": "https://www.youtube.com/watch?v=RqsqJyQ3nDs",
         "live_status": null,
         "duration": 215,
@@ -8885,7 +8901,7 @@
       },
       {
         "id": "QUrLzRg1DXw",
-        "title": "Documentário sobre Olivinha tem pré-estréia na Gávea",
+        "title": "Olivinha documentary holds premiere at Gávea",
         "url": "https://www.youtube.com/watch?v=QUrLzRg1DXw",
         "live_status": null,
         "duration": 871,
@@ -8989,7 +9005,7 @@
       },
       {
         "id": "JPmn6vz7-Rs",
-        "title": "Encontro de Corais do Flamengo",
+        "title": "Flamengo Choir Meeting",
         "url": "https://www.youtube.com/watch?v=JPmn6vz7-Rs",
         "live_status": null,
         "duration": 670,
@@ -9005,7 +9021,7 @@
       },
       {
         "id": "N5TnGjlnSis",
-        "title": "Sub-20 Feminino faz fotografia oficial do título",
+        "title": "U-20 Women's team takes official championship photo",
         "url": "https://www.youtube.com/watch?v=N5TnGjlnSis",
         "live_status": null,
         "duration": 444,
@@ -9021,7 +9037,7 @@
       },
       {
         "id": "zlydBsXWNiI",
-        "title": "Flamengo e Prefeitura assinam compromisso para viabilizar a construção do estádio",
+        "title": "Flamengo and City Hall sign agreement to move stadium construction forward",
         "url": "https://www.youtube.com/watch?v=zlydBsXWNiI",
         "live_status": null,
         "duration": 760,
@@ -9053,7 +9069,7 @@
       },
       {
         "id": "EHsOiNBb9xc",
-        "title": "Bastidores - Final Estadual Sub-17 | Flamengo 2x0 Vasco",
+        "title": "Behind the Scenes - U-17 State Final | Flamengo 2-0 Vasco",
         "url": "https://www.youtube.com/watch?v=EHsOiNBb9xc",
         "live_status": null,
         "duration": 1082,
@@ -9165,7 +9181,7 @@
       },
       {
         "id": "1Yg_F__CfXM",
-        "title": "Bastidores da final do Brasileirão Feminino Sub-20 | Flamengo 7X0 Botafogo",
+        "title": "Behind the scenes of the Brazilian Women's Under-20 Championship final | Flamengo 7-0 Botafogo",
         "url": "https://www.youtube.com/watch?v=1Yg_F__CfXM",
         "live_status": null,
         "duration": 748,
@@ -9213,7 +9229,7 @@
       },
       {
         "id": "hDyghRFMEbY",
-        "title": "Ginástica Artística faz balanço de ano vitorioso",
+        "title": "Artistic Gymnastics evaluates a victorious year.",
         "url": "https://www.youtube.com/watch?v=hDyghRFMEbY",
         "live_status": null,
         "duration": 778,
@@ -9253,7 +9269,7 @@
       },
       {
         "id": "Eo5ETLAVF-Q",
-        "title": "Flamengo lança campanha antirracista",
+        "title": "Flamengo launches anti-racism campaign",
         "url": "https://www.youtube.com/watch?v=Eo5ETLAVF-Q",
         "live_status": null,
         "duration": 680,
@@ -9261,7 +9277,7 @@
       },
       {
         "id": "1YmZn9bDdGg",
-        "title": "Flamengo chega a Belo Horizonte para final da Copa do Brasil",
+        "title": "Flamengo arrives in Belo Horizonte for the Copa do Brasil final.",
         "url": "https://www.youtube.com/watch?v=1YmZn9bDdGg",
         "live_status": null,
         "duration": 648,
@@ -9301,7 +9317,7 @@
       },
       {
         "id": "pfCw36eOAeA",
-        "title": "Fla-Gávea inaugura novas quadras homenageando ídolos",
+        "title": "Fla-Gávea inaugurates new sports courts honoring club icons",
         "url": "https://www.youtube.com/watch?v=pfCw36eOAeA",
         "live_status": null,
         "duration": 798,
@@ -9349,7 +9365,7 @@
       },
       {
         "id": "dpYan_h1NtI",
-        "title": "Caio Cambalhota visita Museu Flamengo",
+        "title": "Caio Cambalhota visits the Flamengo Museum",
         "url": "https://www.youtube.com/watch?v=dpYan_h1NtI",
         "live_status": null,
         "duration": 212,
@@ -9461,7 +9477,7 @@
       },
       {
         "id": "86O3b8PZkBc",
-        "title": "Veja tudo que rolou no encontro das Embaixadas Rubro-Negras",
+        "title": "See everything that happened at the Flamengo Embassies meeting",
         "url": "https://www.youtube.com/watch?v=86O3b8PZkBc",
         "live_status": null,
         "duration": 824,
@@ -9493,7 +9509,7 @@
       },
       {
         "id": "BMuNDJ4Gj1A",
-        "title": "Fla-Gávea reinaugura salão nobre",
+        "title": "Fla-Gávea reopens main ballroom",
         "url": "https://www.youtube.com/watch?v=BMuNDJ4Gj1A",
         "live_status": null,
         "duration": 571,
@@ -9885,7 +9901,7 @@
       },
       {
         "id": "ZHxSQk1vaN0",
-        "title": "Flamengo assina contrato de 20 anos com o Maracanã",
+        "title": "Flamengo signs 20-year contract for Maracanã",
         "url": "https://www.youtube.com/watch?v=ZHxSQk1vaN0",
         "live_status": null,
         "duration": 772,
@@ -10165,7 +10181,7 @@
       },
       {
         "id": "4E-CpXu3y0U",
-        "title": "Bastidores | Flamengo 1x0 Bahia",
+        "title": "Behind the scenes | Flamengo 1-0 Bahia",
         "url": "https://www.youtube.com/watch?v=4E-CpXu3y0U",
         "live_status": null,
         "duration": 1037,
@@ -10333,7 +10349,7 @@
       },
       {
         "id": "kKZg-Chtnks",
-        "title": "Encontro da Nação com Júlio César \"Uri Geller\"",
+        "title": "The Nation's Meetup with Júlio César \"Uri Geller\"",
         "url": "https://www.youtube.com/watch?v=kKZg-Chtnks",
         "live_status": null,
         "duration": 462,
@@ -10397,7 +10413,7 @@
       },
       {
         "id": "hEcTD6kCZn0",
-        "title": "Ruy Castro visita Museu Flamengo",
+        "title": "Ruy Castro visits the Flamengo Museum",
         "url": "https://www.youtube.com/watch?v=hEcTD6kCZn0",
         "live_status": null,
         "duration": 197,
@@ -10717,7 +10733,7 @@
       },
       {
         "id": "F6RPlWR1DJY",
-        "title": "Top 10 Gols - Obina",
+        "title": "Top 10 Goals - Obina",
         "url": "https://www.youtube.com/watch?v=F6RPlWR1DJY",
         "live_status": null,
         "duration": 515,
@@ -10981,7 +10997,7 @@
       },
       {
         "id": "NwUJt-TVfAU",
-        "title": "Cadê Você? | Walter Minhoca (FlaTV+) - Corte 1",
+        "title": "Where Are You? | Walter Minhoca (FlaTV+) - Cut 1",
         "url": "https://www.youtube.com/watch?v=NwUJt-TVfAU",
         "live_status": null,
         "duration": 406,
@@ -11541,7 +11557,7 @@
       },
       {
         "id": "fosizGj_DvM",
-        "title": "FlaTV profile featuring Victória (Women's Volleyball)",
+        "title": "Perfil FlaTV com Victória (Vôlei Feminino)",
         "url": "https://www.youtube.com/watch?v=fosizGj_DvM",
         "live_status": null,
         "duration": 333,
@@ -11669,7 +11685,7 @@
       },
       {
         "id": "1L7IZ8JTYmU",
-        "title": "Pixbet Challenge with Isadora and Naná vs. Barraca and Diovanna (Women's Soccer)",
+        "title": "Desafio Pixbet com Isadora e Naná x Barraca e Diovanna (Futebol Feminino)",
         "url": "https://www.youtube.com/watch?v=1L7IZ8JTYmU",
         "live_status": null,
         "duration": 528,
@@ -11805,7 +11821,7 @@
       },
       {
         "id": "aJiFfWLC4Ts",
-        "title": "Nunes at 70 - The Big-Game Scorer (FlaTV+) - Clip 3",
+        "title": "Nunes 70 Anos - O Artilheiro das Grandes Decisões (FlaTV+) - Corte 3",
         "url": "https://www.youtube.com/watch?v=aJiFfWLC4Ts",
         "live_status": null,
         "duration": 394,
@@ -11813,7 +11829,7 @@
       },
       {
         "id": "F2dA3_2ifAI",
-        "title": "Nunes 70 Years Old - The Scorer of Big Decisions (FlaTV+) - Clip 2",
+        "title": "Nunes 70 Anos - O Artilheiro das Grandes Decisões (FlaTV+) - Corte 2",
         "url": "https://www.youtube.com/watch?v=F2dA3_2ifAI",
         "live_status": null,
         "duration": 644,
@@ -11973,7 +11989,7 @@
       },
       {
         "id": "1kyTT8DifQM",
-        "title": "Flamengo Museum throws birthday party for idol Adílio",
+        "title": "Museu Flamengo faz festa de aniversário para ídolo Adílio",
         "url": "https://www.youtube.com/watch?v=1kyTT8DifQM",
         "live_status": null,
         "duration": 1186,
@@ -11989,7 +12005,7 @@
       },
       {
         "id": "24LI-yDc-U4",
-        "title": "Behind the Scenes | Amazonas 0-1 Flamengo",
+        "title": "Bastidores | Amazonas 0x1 Flamengo",
         "url": "https://www.youtube.com/watch?v=24LI-yDc-U4",
         "live_status": null,
         "duration": 1031,
@@ -12125,7 +12141,7 @@
       },
       {
         "id": "37zoU8Ntn-c",
-        "title": "Resenha com Lorran, recado de Cebolinha e Erick na transição: o dia do Flamengo",
+        "title": "Review with Lorran, message from Cebolinha and Erick during the transition: Flamengo's day.",
         "url": "https://www.youtube.com/watch?v=37zoU8Ntn-c",
         "live_status": null,
         "duration": 416,
@@ -12165,7 +12181,7 @@
       },
       {
         "id": "N9vMIYA7YqU",
-        "title": "Top 10 Gols - Petkovic",
+        "title": "Top 10 Goals - Petkovic",
         "url": "https://www.youtube.com/watch?v=N9vMIYA7YqU",
         "live_status": null,
         "duration": 419,
@@ -12253,7 +12269,7 @@
       },
       {
         "id": "luYHUdVZypE",
-        "title": "Campeões de MMA Visitam Zico antes do UFC 301",
+        "title": "MMA Champions Visit Zico Before UFC 301",
         "url": "https://www.youtube.com/watch?v=luYHUdVZypE",
         "live_status": null,
         "duration": 530,
@@ -12261,7 +12277,7 @@
       },
       {
         "id": "PhBLE12yu-4",
-        "title": "Especial Rondinelli - 70 Anos do Deus da Raça (FlaTV+) - Corte 4",
+        "title": "Rondinelli Special - 70 Years of the God of Grit (FlaTV+) - Clip 4",
         "url": "https://www.youtube.com/watch?v=PhBLE12yu-4",
         "live_status": null,
         "duration": 429,
@@ -12277,7 +12293,7 @@
       },
       {
         "id": "r3i2EUW2jTM",
-        "title": "Bastidores | Flamengo 1x0 Amazonas",
+        "title": "Behind the scenes | Flamengo 1-0 Amazonas",
         "url": "https://www.youtube.com/watch?v=r3i2EUW2jTM",
         "live_status": null,
         "duration": 817,
@@ -12285,7 +12301,7 @@
       },
       {
         "id": "LrSceM8x2M4",
-        "title": "Especial Rondinelli - 70 Anos do Deus da Raça (FlaTV+) - Corte 3",
+        "title": "Rondinelli Special - 70 Years of the God of Grit (FlaTV+) - Clip 3",
         "url": "https://www.youtube.com/watch?v=LrSceM8x2M4",
         "live_status": null,
         "duration": 354,
@@ -12293,7 +12309,7 @@
       },
       {
         "id": "sCmkDQ-fGCw",
-        "title": "Especial Rondinelli - 70 Anos do Deus da Raça (FlaTV+) - Corte 2",
+        "title": "Rondinelli Special - 70 Years of the God of Grit (FlaTV+) - Clip 2",
         "url": "https://www.youtube.com/watch?v=sCmkDQ-fGCw",
         "live_status": null,
         "duration": 335,
@@ -12309,7 +12325,7 @@
       },
       {
         "id": "gYcdDzBDGMM",
-        "title": "Especial Rondinelli - 70 Anos do Deus da Raça (FlaTV+) - Corte 1",
+        "title": "Rondinelli Special - 70 Years of the God of Grit (FlaTV+) - Clip 1",
         "url": "https://www.youtube.com/watch?v=gYcdDzBDGMM",
         "live_status": null,
         "duration": 331,
@@ -12325,7 +12341,7 @@
       },
       {
         "id": "-quf5cCtFpw",
-        "title": "Embaixadas e Consulados da Nação",
+        "title": "Embassies and Consulates of the Nation",
         "url": "https://www.youtube.com/watch?v=-quf5cCtFpw",
         "live_status": null,
         "duration": 458,
@@ -12509,7 +12525,7 @@
       },
       {
         "id": "ZVeVxgnGOIY",
-        "title": "Carlinhos is unveiled, talks about his debut, and Flamengo trains to face Atlético-GO",
+        "title": "Carlinhos é apresentado, fala sobre estreia e Flamengo treina para encarar o Atlético-GO",
         "url": "https://www.youtube.com/watch?v=ZVeVxgnGOIY",
         "live_status": null,
         "duration": 388,
@@ -12533,7 +12549,7 @@
       },
       {
         "id": "_gWNxDT3FA8",
-        "title": "Behind the Scenes | Flamengo 2-0 Palestino (CHI) - CONMEBOL Libertadores",
+        "title": "Bastidores | Flamengo 2x0 Palestino (CHI) - CONMEBOL Libertadores",
         "url": "https://www.youtube.com/watch?v=_gWNxDT3FA8",
         "live_status": null,
         "duration": 1078,
@@ -12557,7 +12573,7 @@
       },
       {
         "id": "Zsi7o7OKfdk",
-        "title": "Sub-20 faz foto comemorativa da conquista da Libertadores",
+        "title": "U-20 team takes commemorative photo after winning the Libertadores",
         "url": "https://www.youtube.com/watch?v=Zsi7o7OKfdk",
         "live_status": null,
         "duration": 791,
@@ -12709,7 +12725,7 @@
       },
       {
         "id": "yFzJ3JyBQ5Q",
-        "title": "Vai começar! Flamengo treina focado em manter o estilo de jogo na estreia da Libertadores",
+        "title": "It's about to begin! Flamengo trains focused on maintaining their playing style for their Liberta...",
         "url": "https://www.youtube.com/watch?v=yFzJ3JyBQ5Q",
         "live_status": null,
         "duration": 506,
@@ -12821,7 +12837,7 @@
       },
       {
         "id": "kd2b0V5ZxqI",
-        "title": "Flamengo competes in Judo Opening Tournament",
+        "title": "Flamengo participa de Torneio de Abertura de Judô",
         "url": "https://www.youtube.com/watch?v=kd2b0V5ZxqI",
         "live_status": null,
         "duration": 431,
@@ -12997,7 +13013,7 @@
       },
       {
         "id": "SOq-cgCez64",
-        "title": "Bastidores Libertadores Sub-20 | Rosario Central (ARG) 1x2 Flamengo",
+        "title": "Behind the scenes of the U-20 Libertadores Cup | Rosario Central (ARG) 1-2 Flamengo",
         "url": "https://www.youtube.com/watch?v=SOq-cgCez64",
         "live_status": null,
         "duration": 537,
@@ -13101,7 +13117,7 @@
       },
       {
         "id": "9stoqgTQthc",
-        "title": "Nação Solidária - Sustentabilidade: reaproveitamento do óleo de cozinha",
+        "title": "Solidary Nation - Sustainability: reusing cooking oil",
         "url": "https://www.youtube.com/watch?v=9stoqgTQthc",
         "live_status": null,
         "duration": 412,
@@ -13125,7 +13141,7 @@
       },
       {
         "id": "-zziHxvl37w",
-        "title": "Direto da Concentração (Sub-20) - 2ª Edição com Iago e Carbone",
+        "title": "Direct from the Training Camp (Under-20) - 2nd Edition with Iago and Carbone",
         "url": "https://www.youtube.com/watch?v=-zziHxvl37w",
         "live_status": null,
         "duration": 354,
@@ -13133,7 +13149,7 @@
       },
       {
         "id": "XbopG7BgGIA",
-        "title": "Bastidores Libertadores Sub-20 | Flamengo 2x1 Aucas (EQU)",
+        "title": "Behind the Scenes U-20 Libertadores | Flamengo 2x1 Aucas (ECU)",
         "url": "https://www.youtube.com/watch?v=XbopG7BgGIA",
         "live_status": null,
         "duration": 395,
@@ -13141,7 +13157,7 @@
       },
       {
         "id": "UjommS125JU",
-        "title": "Léo Ortiz é apresentado e equipe faz último treino antes do Fla-Flu pela semi do Carioca",
+        "title": "Léo Ortiz is unveiled and the team holds final training session before the Fla-Flu Carioca semifinal",
         "url": "https://www.youtube.com/watch?v=UjommS125JU",
         "live_status": null,
         "duration": 366,
@@ -13165,7 +13181,7 @@
       },
       {
         "id": "1TvMnaIAjWU",
-        "title": "Bate-papo com Filipe Luís e últimos ajustes do sub-17 para a estreia da Copa Rio",
+        "title": "Chat with Filipe Luís and final preparations for the U-17 team's Copa Rio debut",
         "url": "https://www.youtube.com/watch?v=1TvMnaIAjWU",
         "live_status": null,
         "duration": 956,
@@ -13205,7 +13221,7 @@
       },
       {
         "id": "ImO_2yaNc2A",
-        "title": "Check out Léo Ortiz's first training session at Flamengo",
+        "title": "Confira o primeiro treino de Léo Ortiz no Flamengo",
         "url": "https://www.youtube.com/watch?v=ImO_2yaNc2A",
         "live_status": null,
         "duration": 656,
@@ -13221,7 +13237,7 @@
       },
       {
         "id": "Aw6FpKNq9k0",
-        "title": "Zico participa de evento com Base e Futebol Feminino",
+        "title": "Zico attends event with Youth Academy and Women's Soccer teams",
         "url": "https://www.youtube.com/watch?v=Aw6FpKNq9k0",
         "live_status": null,
         "duration": 583,
@@ -13253,7 +13269,7 @@
       },
       {
         "id": "mLySxT_m1kI",
-        "title": "Flamengo se reapresenta e inicia preparação para semifinal do Carioca",
+        "title": "Flamengo returns to training and begins preparations for the Carioca semifinal",
         "url": "https://www.youtube.com/watch?v=mLySxT_m1kI",
         "live_status": null,
         "duration": 308,
@@ -13477,7 +13493,7 @@
       },
       {
         "id": "JXJG7UZMOzk",
-        "title": "Flamengo Saturday training features Viña's return and a chat with Pedro",
+        "title": "Treino de sábado do Flamengo tem retorno de Vinã e papo com Pedro",
         "url": "https://www.youtube.com/watch?v=JXJG7UZMOzk",
         "live_status": null,
         "duration": 512,
@@ -13533,7 +13549,7 @@
       },
       {
         "id": "rDgf1XfWNKU",
-        "title": "Behind the Scenes | Flamengo 3-0 Volta Redonda",
+        "title": "Bastidores | Flamengo 3x0 Volta Redonda",
         "url": "https://www.youtube.com/watch?v=rDgf1XfWNKU",
         "live_status": null,
         "duration": 890,
@@ -13621,7 +13637,7 @@
       },
       {
         "id": "HCVfzmN2p1E",
-        "title": "Pré-Temporada Pixbet 2024 - Cobertura Completa",
+        "title": "Pixbet 2024 Pre-Season - Full Coverage",
         "url": "https://www.youtube.com/watch?v=HCVfzmN2p1E",
         "live_status": null,
         "duration": 1119,
@@ -13669,7 +13685,7 @@
       },
       {
         "id": "7xB3m_LBM-I",
-        "title": "Futebol feminino faz pré-temporada em Pinheiral",
+        "title": "Flamengo women's soccer team holds preseason in Pinheiral",
         "url": "https://www.youtube.com/watch?v=7xB3m_LBM-I",
         "live_status": null,
         "duration": 352,
@@ -13773,7 +13789,7 @@
       },
       {
         "id": "GszGBqC-WbY",
-        "title": "A volta de Eliza Ramos",
+        "title": "Eliza Ramos's return",
         "url": "https://www.youtube.com/watch?v=GszGBqC-WbY",
         "live_status": null,
         "duration": 898,
@@ -13829,7 +13845,7 @@
       },
       {
         "id": "jPIG6KOAHbM",
-        "title": "Flamengo monta time de pesca submarina",
+        "title": "Flamengo assembles spearfishing team",
         "url": "https://www.youtube.com/watch?v=jPIG6KOAHbM",
         "live_status": null,
         "duration": 677,
@@ -14141,7 +14157,7 @@
       },
       {
         "id": "uMfy78Jszh4",
-        "title": "Flamengo schools close out the year with a celebratory match",
+        "title": "Escolas Flamengo fecham o ano com jogo festivo",
         "url": "https://www.youtube.com/watch?v=uMfy78Jszh4",
         "live_status": null,
         "duration": 610,
@@ -14149,7 +14165,7 @@
       },
       {
         "id": "Qt4MadpHmy8",
-        "title": "Filipe Luís visita Museu Flamengo",
+        "title": "Filipe Luís visits the Flamengo Museum",
         "url": "https://www.youtube.com/watch?v=Qt4MadpHmy8",
         "live_status": null,
         "duration": 281,
@@ -14293,7 +14309,7 @@
       },
       {
         "id": "u9As2mnpijY",
-        "title": "Sub-14 é Campeão Carioca 2023",
+        "title": "U-14 are 2023 Carioca Champions",
         "url": "https://www.youtube.com/watch?v=u9As2mnpijY",
         "live_status": null,
         "duration": 720,
@@ -15085,7 +15101,7 @@
       },
       {
         "id": "ocL2nK_pAGY",
-        "title": "Flamengo sharpens aim ahead of clash with Corinthians",
+        "title": "Flamengo afia pontaria às vésperas de jogo com o Corinthians",
         "url": "https://www.youtube.com/watch?v=ocL2nK_pAGY",
         "live_status": null,
         "duration": 329,
@@ -15485,7 +15501,7 @@
       },
       {
         "id": "jS2MLfNuOds",
-        "title": "Accessibility at the Flamengo Museum",
+        "title": "Acessibilidade contemplada no Museu Flamengo",
         "url": "https://www.youtube.com/watch?v=jS2MLfNuOds",
         "live_status": null,
         "duration": 659,
@@ -15613,7 +15629,7 @@
       },
       {
         "id": "2Y3UpIELcmI",
-        "title": "Flamengo Museum connects to tourism in the State of Rio.",
+        "title": "Museu Flamengo se conecta ao turismo do Estado do Rio",
         "url": "https://www.youtube.com/watch?v=2Y3UpIELcmI",
         "live_status": null,
         "duration": 652,
@@ -15621,7 +15637,7 @@
       },
       {
         "id": "RRNopPjWgvg",
-        "title": "39th Anniversary of Boca Maldita",
+        "title": "39 anos da Boca Maldita",
         "url": "https://www.youtube.com/watch?v=RRNopPjWgvg",
         "live_status": null,
         "duration": 962,
@@ -15749,7 +15765,7 @@
       },
       {
         "id": "g2qa5uK6yRU",
-        "title": "Our U-16 Team Wins the Brasil Soccer Cup",
+        "title": "Nosso Sub-16 Campeão da Brasil Soccer Cup",
         "url": "https://www.youtube.com/watch?v=g2qa5uK6yRU",
         "live_status": null,
         "duration": 430,
@@ -15829,7 +15845,7 @@
       },
       {
         "id": "d6WaYoXM3Ps",
-        "title": "Meet part of our FlaMaster swimming team",
+        "title": "Conheça parte da nossa equipe de natação do FlaMaster",
         "url": "https://www.youtube.com/watch?v=d6WaYoXM3Ps",
         "live_status": null,
         "duration": 775,
@@ -15845,7 +15861,7 @@
       },
       {
         "id": "gnXnjLEkcHQ",
-        "title": "Quick Fire with Alysson (U-17 Soccer)",
+        "title": "Jogo Rápido com Alysson (Futebol Sub-17)",
         "url": "https://www.youtube.com/watch?v=gnXnjLEkcHQ",
         "live_status": null,
         "duration": 413,
@@ -15901,7 +15917,7 @@
       },
       {
         "id": "RRRV_L0qsN8",
-        "title": "Hitching a Ride with Smigol - Buchecha",
+        "title": "De Carona com Smigol - Buchecha",
         "url": "https://www.youtube.com/watch?v=RRRV_L0qsN8",
         "live_status": null,
         "duration": 1176,
@@ -15965,7 +15981,7 @@
       },
       {
         "id": "2TmfEiqi6BE",
-        "title": "Rapid Fire with Kimberlly (Volleyball)",
+        "title": "Jogo Rápido com Kimberlly (Vôlei)",
         "url": "https://www.youtube.com/watch?v=2TmfEiqi6BE",
         "live_status": null,
         "duration": 358,
@@ -16061,7 +16077,7 @@
       },
       {
         "id": "BNMg2ksiDFw",
-        "title": "Quick Fire with Victor Hugo",
+        "title": "Jogo Rápido com Victor Hugo",
         "url": "https://www.youtube.com/watch?v=BNMg2ksiDFw",
         "live_status": null,
         "duration": 345,
@@ -16293,7 +16309,7 @@
       },
       {
         "id": "JBdOq_QnriI",
-        "title": "Behind the Scenes | Santos 2-3 Flamengo",
+        "title": "Bastidores | Santos 2x3 Flamengo",
         "url": "https://www.youtube.com/watch?v=JBdOq_QnriI",
         "live_status": null,
         "duration": 1093,
@@ -17013,7 +17029,7 @@
       },
       {
         "id": "q6AkoMIlA60",
-        "title": "Flamengo participates in the Carioca Judo Championship",
+        "title": "Flamengo participa do Carioca de Judô",
         "url": "https://www.youtube.com/watch?v=q6AkoMIlA60",
         "live_status": null,
         "duration": 573,
@@ -17205,7 +17221,7 @@
       },
       {
         "id": "bh8tw1MRBRc",
-        "title": "PixBet Challenge - Laura Miccuci (Artistic Swimming) vs. Rafaela Silva (Judo)",
+        "title": "Desafio PixBet - Laura Miccuci (Nado Artístico) x Rafaela Silva (Judô)",
         "url": "https://www.youtube.com/watch?v=bh8tw1MRBRc",
         "live_status": null,
         "duration": 378,
@@ -17349,7 +17365,7 @@
       },
       {
         "id": "OPbSraPO7Kw",
-        "title": "Gávea Tennis Doubles Circuit Opening",
+        "title": "Abertura Circuito Gávea de Duplas de Tênis",
         "url": "https://www.youtube.com/watch?v=OPbSraPO7Kw",
         "live_status": null,
         "duration": 657,
@@ -18365,7 +18381,7 @@
       },
       {
         "id": "a3iaFs-aN00",
-        "title": "Behind the Scenes | Al Ahly 2-4 Flamengo",
+        "title": "Bastidores | Al Ahly 2 x 4 Flamengo",
         "url": "https://www.youtube.com/watch?v=a3iaFs-aN00",
         "live_status": null,
         "duration": 513,
@@ -18413,7 +18429,7 @@
       },
       {
         "id": "v6py3frOYaE",
-        "title": "FlaTV in Morocco - Morocco Bound - Saara Challenge",
+        "title": "FlaTV no Marrocos - Partiu Marrocos - Desafio da Saara",
         "url": "https://www.youtube.com/watch?v=v6py3frOYaE",
         "live_status": null,
         "duration": 519,
@@ -18501,7 +18517,7 @@
       },
       {
         "id": "xfgBHR8Jnys",
-        "title": "FlaTV in Morocco - Is Everything Ready? With Marcos Vinicius (Kitman)",
+        "title": "FlaTV no Marrocos - Tudo Pronto? Com Marcos Vinicius (Roupeiro)",
         "url": "https://www.youtube.com/watch?v=xfgBHR8Jnys",
         "live_status": null,
         "duration": 285,
@@ -18869,7 +18885,7 @@
       },
       {
         "id": "0bSfr4pZ4CE",
-        "title": "Soccer star Adílio is the theme of a samba school",
+        "title": "Craque Adílio é enredo de escola de samba",
         "url": "https://www.youtube.com/watch?v=0bSfr4pZ4CE",
         "live_status": null,
         "duration": 491,
@@ -19861,7 +19877,7 @@
       },
       {
         "id": "grpT60tuEKI",
-        "title": "Pra Sempre Isabel",
+        "title": "Forever Isabel",
         "url": "https://www.youtube.com/watch?v=grpT60tuEKI",
         "live_status": null,
         "duration": 728,
@@ -19989,7 +20005,7 @@
       },
       {
         "id": "6X8bezC05QQ",
-        "title": "Embassies Host Traditional End-of-Year Party at Gávea",
+        "title": "Embaixadas Fazem Tradicional Festa de Final de Ano na Gávea",
         "url": "https://www.youtube.com/watch?v=6X8bezC05QQ",
         "live_status": null,
         "duration": 767,
@@ -20109,7 +20125,7 @@
       },
       {
         "id": "tyKS_AMdSo0",
-        "title": "Making Of - Women's Adult Volleyball Media Day",
+        "title": "Making Of - Media Day do Vôlei Feminino Adulto",
         "url": "https://www.youtube.com/watch?v=tyKS_AMdSo0",
         "live_status": null,
         "duration": 639,
@@ -20333,7 +20349,7 @@
       },
       {
         "id": "YfRVGUvll44",
-        "title": "Rowing medalists talk to FlaTV",
+        "title": "Medalhistas do Remo conversam com a FlaTV",
         "url": "https://www.youtube.com/watch?v=YfRVGUvll44",
         "live_status": null,
         "duration": 520,
@@ -20589,7 +20605,7 @@
       },
       {
         "id": "HU_T2jZIYJc",
-        "title": "Clips - Charanga 80th Anniversary Special",
+        "title": "Cortes - Especial Charanga 80 Anos",
         "url": "https://www.youtube.com/watch?v=HU_T2jZIYJc",
         "live_status": null,
         "duration": 529,
@@ -20677,7 +20693,7 @@
       },
       {
         "id": "8eaTaTA968I",
-        "title": "Behind the Scenes | Cuiabá 1 vs. 2 Flamengo",
+        "title": "Bastidores | Cuiabá 1 x 2 Flamengo",
         "url": "https://www.youtube.com/watch?v=8eaTaTA968I",
         "live_status": null,
         "duration": 662,
@@ -20877,7 +20893,7 @@
       },
       {
         "id": "AwZtpbYISBw",
-        "title": "Fla Tennis kicks off new circuit in Gávea",
+        "title": "Fla Tênis abre novo circuito na Gávea",
         "url": "https://www.youtube.com/watch?v=AwZtpbYISBw",
         "live_status": null,
         "duration": 634,
@@ -21045,7 +21061,7 @@
       },
       {
         "id": "CGG1TnLon1A",
-        "title": "Our U-15s visit the Maraca!",
+        "title": "Nosso sub-15 visita o Maraca!",
         "url": "https://www.youtube.com/watch?v=CGG1TnLon1A",
         "live_status": null,
         "duration": 627,
@@ -21253,7 +21269,7 @@
       },
       {
         "id": "-hsiS6-5ck0",
-        "title": "Quick Game with Fabrício Bruno",
+        "title": "Jogo Rápido com Fabrício Bruno",
         "url": "https://www.youtube.com/watch?v=-hsiS6-5ck0",
         "live_status": null,
         "duration": 665,
@@ -21381,7 +21397,7 @@
       },
       {
         "id": "gpMLvgVvDaY",
-        "title": "Flamengo wins the Brazilian Button Soccer Championship",
+        "title": "Flamengo campeão brasileiro de futebol de botão",
         "url": "https://www.youtube.com/watch?v=gpMLvgVvDaY",
         "live_status": null,
         "duration": 620,
@@ -21445,7 +21461,7 @@
       },
       {
         "id": "5nrVo992A_k",
-        "title": "Israel Teoldo Gives Lecture to Youth Academy Coaches",
+        "title": "Israel Teoldo Faz Palestra Para Treinadores da Base",
         "url": "https://www.youtube.com/watch?v=5nrVo992A_k",
         "live_status": null,
         "duration": 535,
@@ -21837,7 +21853,7 @@
       },
       {
         "id": "BuzqugjjThU",
-        "title": "Flamengo Beyond Sports Clips - João and the Hidden Jersey Surprise",
+        "title": "Cortes Flamengo Além do Esporte - João e a Surpresa do Manto Escondido",
         "url": "https://www.youtube.com/watch?v=BuzqugjjThU",
         "live_status": null,
         "duration": 303,
@@ -21893,7 +21909,7 @@
       },
       {
         "id": "XGMcwdamnsg",
-        "title": "Clips 3 - Riding with Smigol - Monique and Michelle (volleyball)",
+        "title": "Cortes 3 - De Carona com Smigol - Monique e Michelle (vôlei)",
         "url": "https://www.youtube.com/watch?v=XGMcwdamnsg",
         "live_status": null,
         "duration": 308,
@@ -21981,7 +21997,7 @@
       },
       {
         "id": "c_vipEUXFjg",
-        "title": "FlaTV Profile with Celso Rezende (Soccer Physical Trainer)",
+        "title": "Perfil FlaTV com Celso Rezende (Preparador Físico do Futebol)",
         "url": "https://www.youtube.com/watch?v=c_vipEUXFjg",
         "live_status": null,
         "duration": 612,
@@ -22005,7 +22021,7 @@
       },
       {
         "id": "unb4h2jtBvg",
-        "title": "Youth Academy Gems with Shaiane Ucker (U-23 Rowing)",
+        "title": "Joias da Base com Shaiane Ucker (Remo Sub-23)",
         "url": "https://www.youtube.com/watch?v=unb4h2jtBvg",
         "live_status": null,
         "duration": 437,
@@ -22213,7 +22229,7 @@
       },
       {
         "id": "gYlHOWMXTr8",
-        "title": "Quick Game - Daiane (Women's Soccer)",
+        "title": "Jogo Rápido - Daiane (Futebol Feminino)",
         "url": "https://www.youtube.com/watch?v=gYlHOWMXTr8",
         "live_status": null,
         "duration": 478,
@@ -22317,7 +22333,7 @@
       },
       {
         "id": "GBcrLa92mks",
-        "title": "FlaTV profile featuring Gabriel Jaú (Basketball)",
+        "title": "Perfil FlaTV com Gabriel Jaú (Basquete)",
         "url": "https://www.youtube.com/watch?v=GBcrLa92mks",
         "live_status": null,
         "duration": 570,
@@ -22501,7 +22517,7 @@
       },
       {
         "id": "eOSOTIL5NE4",
-        "title": "Flamengo at the Carioca Artistic Gymnastics Championship",
+        "title": "Flamengo no Campeonato Carioca de Ginástica Artística",
         "url": "https://www.youtube.com/watch?v=eOSOTIL5NE4",
         "live_status": null,
         "duration": 639,
@@ -22525,7 +22541,7 @@
       },
       {
         "id": "ECATYvwcs94",
-        "title": "Behind the scenes - Avaí 1 x 2 Flamengo",
+        "title": "Bastidores - Avaí 1 x 2 Flamengo",
         "url": "https://www.youtube.com/watch?v=ECATYvwcs94",
         "live_status": null,
         "duration": 752,
@@ -22541,7 +22557,7 @@
       },
       {
         "id": "iShko8-0kmA",
-        "title": "Flamengo at the Rio Judo Cup",
+        "title": "Flamengo na Copa Rio de Judô",
         "url": "https://www.youtube.com/watch?v=iShko8-0kmA",
         "live_status": null,
         "duration": 841,
@@ -22629,7 +22645,7 @@
       },
       {
         "id": "r14vH4RFoMw",
-        "title": "Women's Soccer Practice on the beach",
+        "title": "Treino do Futebol Feminino na praia",
         "url": "https://www.youtube.com/watch?v=r14vH4RFoMw",
         "live_status": null,
         "duration": 583,
@@ -22741,7 +22757,7 @@
       },
       {
         "id": "KCUgUNYTdww",
-        "title": "Cortes: The Conquest of the Penta - 30 Years",
+        "title": "Cortes A Conquista do Penta - 30 Anos",
         "url": "https://www.youtube.com/watch?v=KCUgUNYTdww",
         "live_status": null,
         "duration": 660,
@@ -23245,7 +23261,7 @@
       },
       {
         "id": "pyefjEsRI6E",
-        "title": "Bastidores - Flamengo 3x0 América-MG",
+        "title": "Behind the Scenes - Flamengo 3-0 América-MG",
         "url": "https://www.youtube.com/watch?v=pyefjEsRI6E",
         "live_status": null,
         "duration": 650,
@@ -23325,7 +23341,7 @@
       },
       {
         "id": "Kbae-Qp7KB4",
-        "title": "\"The title that made history\" - Leandro Ávila on the 1999 Mercosur Cup victory",
+        "title": "\"O título que ficou marcado na história\" - Leandro Ávila sobre a conquista da Mercosul de 1999",
         "url": "https://www.youtube.com/watch?v=Kbae-Qp7KB4",
         "live_status": null,
         "duration": 401,
@@ -23373,7 +23389,7 @@
       },
       {
         "id": "NUzBAjM3OFA",
-        "title": "\"I've never cried that much\" - Leandro Ávila on the first Carioca three-peat - \"Flala, Vegeta!\" C...",
+        "title": "\"Eu nunca chorei tanto\" - Leandro Ávila sobre primeiro tri carioca - \"Flala, Vegeta!\" Cortes",
         "url": "https://www.youtube.com/watch?v=NUzBAjM3OFA",
         "live_status": null,
         "duration": 511,
@@ -23461,7 +23477,7 @@
       },
       {
         "id": "C_QUdXijsi8",
-        "title": "FLAMENGO TRAINING - Squad prepares for clash against Atlético-MG",
+        "title": "TREINO FLAMENGO - Elenco se prepara para confronto contra o Atlético-MG",
         "url": "https://www.youtube.com/watch?v=C_QUdXijsi8",
         "live_status": null,
         "duration": 258,
@@ -23597,7 +23613,7 @@
       },
       {
         "id": "Fix_jvcsdUs",
-        "title": "Inauguration of the Fla-Gávea Beach Tennis Arena",
+        "title": "Inauguração da Arena Fla-Gávea de Beach Tennis",
         "url": "https://www.youtube.com/watch?v=Fix_jvcsdUs",
         "live_status": null,
         "duration": 679,
@@ -23669,7 +23685,7 @@
       },
       {
         "id": "JpRi15nwSEU",
-        "title": "Zagueiro Fernando do Flamengo sobre a decisão da Copa do Brasil contra o Vasco - Flala Vegeta Cortes",
+        "title": "Flamengo defender Fernando on the Copa do Brasil final against Vasco - Flala Vegeta Cortes",
         "url": "https://www.youtube.com/watch?v=JpRi15nwSEU",
         "live_status": null,
         "duration": 261,
@@ -23917,7 +23933,7 @@
       },
       {
         "id": "UKVBGvhuWdM",
-        "title": "De Carona com Smigol - Lucas Top",
+        "title": "Riding Along with Smigol - Lucas Top",
         "url": "https://www.youtube.com/watch?v=UKVBGvhuWdM",
         "live_status": null,
         "duration": 467,
@@ -23941,7 +23957,7 @@
       },
       {
         "id": "u0GsrXM1CdM",
-        "title": "Bastidores - Flamengo 3x0 Universidad Católica",
+        "title": "Behind the Scenes - Flamengo 3-0 Universidad Católica",
         "url": "https://www.youtube.com/watch?v=u0GsrXM1CdM",
         "live_status": null,
         "duration": 624,
@@ -24021,7 +24037,7 @@
       },
       {
         "id": "bQwnMqAP9sE",
-        "title": "Indigenous school visits the Gávea headquarters",
+        "title": "Escola Indígena faz visita à sede da Gávea",
         "url": "https://www.youtube.com/watch?v=bQwnMqAP9sE",
         "live_status": null,
         "duration": 748,
@@ -24077,7 +24093,7 @@
       },
       {
         "id": "2GmCYJ5gV14",
-        "title": "O gol que nem o Zico lembrava que tinha feito - Flala Vegeta cortes com Sandro Rilho e Marinho",
+        "title": "The goal even Zico didn't remember scoring - Flala Vegeta clips with Sandro Rilho and Marinho",
         "url": "https://www.youtube.com/watch?v=2GmCYJ5gV14",
         "live_status": null,
         "duration": 446,
@@ -24109,7 +24125,7 @@
       },
       {
         "id": "d9JLBkloAMQ",
-        "title": "\"A história dos bustos em homenagem aos campeões mundiais\"- Flala Vegeta com Sandro Rilho e Marinho",
+        "title": "The History of the Busts Honoring World Champions - Fala Vegeta with Sandro Rilho and Marinho",
         "url": "https://www.youtube.com/watch?v=d9JLBkloAMQ",
         "live_status": null,
         "duration": 739,
@@ -24149,7 +24165,7 @@
       },
       {
         "id": "p0mBDe5-EYI",
-        "title": "\"FOI ATERRORIZANTE\" - Arthur Picoli sobre não assistir ao Flamengo no BBB - Flala Vegeta Cortes",
+        "title": "\"IT WAS TERRIFYING\" - Arthur Picoli on not being able to watch Flamengo while on BBB - Flala Vege...",
         "url": "https://www.youtube.com/watch?v=p0mBDe5-EYI",
         "live_status": null,
         "duration": 363,
@@ -24189,7 +24205,7 @@
       },
       {
         "id": "RsE67YjIIss",
-        "title": "\"O Gabigol faz o futebol respirar\" Cortes Flala, Vegeta! com Arthur Picoli",
+        "title": "\"Gabigol makes soccer breathe\" Flala, Vegeta! Clips with Arthur Picoli",
         "url": "https://www.youtube.com/watch?v=RsE67YjIIss",
         "live_status": null,
         "duration": 600,
@@ -24221,7 +24237,7 @@
       },
       {
         "id": "sCV3u-ZVPbo",
-        "title": "Remo encerra preparação para o Brasileiro",
+        "title": "Remo wraps up preparation for the Brazilian Championship",
         "url": "https://www.youtube.com/watch?v=sCV3u-ZVPbo",
         "live_status": null,
         "duration": 359,
@@ -24317,7 +24333,7 @@
       },
       {
         "id": "bfTjocNJYKQ",
-        "title": "Bastidores | UDC 2x3 Flamengo",
+        "title": "Behind the Scenes | UDC 2-3 Flamengo",
         "url": "https://www.youtube.com/watch?v=bfTjocNJYKQ",
         "live_status": null,
         "duration": 619,
@@ -24389,7 +24405,7 @@
       },
       {
         "id": "DOX-ivxJ0z0",
-        "title": "Jogo Rápido com Marinho",
+        "title": "Quick Fire Round with Marinho",
         "url": "https://www.youtube.com/watch?v=DOX-ivxJ0z0",
         "live_status": null,
         "duration": 653,
@@ -24485,7 +24501,7 @@
       },
       {
         "id": "ymC2I5ASGSM",
-        "title": "\"Bruno Henrique is the best human being in this world\" - Flala Vegeta cuts with Zopilote",
+        "title": "\"O Bruno Henrique é o melhor ser humano de pessoa desse mundo\" - Flala Vegeta cortes com Zopilote",
         "url": "https://www.youtube.com/watch?v=ymC2I5ASGSM",
         "live_status": null,
         "duration": 350,
@@ -24517,7 +24533,7 @@
       },
       {
         "id": "XFgpN14kkik",
-        "title": "Solidary Nation – Goal Tree Project",
+        "title": "Nação Solidária – Projeto Pé de Gol",
         "url": "https://www.youtube.com/watch?v=XFgpN14kkik",
         "live_status": null,
         "duration": 503,
@@ -24525,7 +24541,7 @@
       },
       {
         "id": "m0L78jqU240",
-        "title": "Flamengo Beyond the Sport - Fan travels to Lima but doesn't get to see the match in the stadium",
+        "title": "Flamengo Além do Esporte - Torcedor vai a Lima, mas não assiste jogo no estádio",
         "url": "https://www.youtube.com/watch?v=m0L78jqU240",
         "live_status": null,
         "duration": 1039,
@@ -24541,7 +24557,7 @@
       },
       {
         "id": "XSZ9NvNfdJ4",
-        "title": "\"The nickname 'Vini Malvadeza' was the one that really stuck\" - Flala Vegeta Cortes with Zopilote",
+        "title": "\"O apelido Vini Malvadeza foi o que mais pegou\" - Flala Vegeta Cortes com Zopilote",
         "url": "https://www.youtube.com/watch?v=XSZ9NvNfdJ4",
         "live_status": null,
         "duration": 386,
@@ -24605,7 +24621,7 @@
       },
       {
         "id": "D5nyPNiTJuI",
-        "title": "\"When Zico left, we were left widowed\" - Leandro on Flala Vegeta Cortes",
+        "title": "\"Quando o Zico saiu nós ficamos viúvos\" - Leandro no Flala Vegeta Cortes",
         "url": "https://www.youtube.com/watch?v=D5nyPNiTJuI",
         "live_status": null,
         "duration": 649,
@@ -24661,7 +24677,7 @@
       },
       {
         "id": "mCCx2GwGHDY",
-        "title": "\"Flamengo Is Everything\" - Leandro on Flala Vegeta Cortes",
+        "title": "\"Flamengo é Tudo\" - Leandro no Flala Vegeta Cortes",
         "url": "https://www.youtube.com/watch?v=mCCx2GwGHDY",
         "live_status": null,
         "duration": 478,
@@ -24757,7 +24773,7 @@
       },
       {
         "id": "6af21AYoW6g",
-        "title": "Two-time Champions in the Desert - Original FlaTV Documentary on the Basketball World Championshi...",
+        "title": "Bicampeões no Deserto - Documentário original FlaTV sobre o Bicampeonato Mundial de Basquete",
         "url": "https://www.youtube.com/watch?v=6af21AYoW6g",
         "live_status": null,
         "duration": 2978,
@@ -24765,7 +24781,7 @@
       },
       {
         "id": "YWXlnw00w4M",
-        "title": "A Media Day full of art.",
+        "title": "Um Media Day repleto de arte",
         "url": "https://www.youtube.com/watch?v=YWXlnw00w4M",
         "live_status": null,
         "duration": 502,
@@ -24805,7 +24821,7 @@
       },
       {
         "id": "iXVchHQ4BrI",
-        "title": "Quick Game with Wesley",
+        "title": "Jogo Rápido com Wesley",
         "url": "https://www.youtube.com/watch?v=iXVchHQ4BrI",
         "live_status": null,
         "duration": 335,
@@ -24821,7 +24837,7 @@
       },
       {
         "id": "o8PUfEeSBKk",
-        "title": "Flamengo Beyond the Sport with Dona Lelê",
+        "title": "Flamengo Além do Esporte com Dona Lelê",
         "url": "https://www.youtube.com/watch?v=o8PUfEeSBKk",
         "live_status": null,
         "duration": 824,
@@ -24869,7 +24885,7 @@
       },
       {
         "id": "YIE5kh0S5WE",
-        "title": "Let's go, Fla! Diego and Bruna Ribas",
+        "title": "Partiu Fla! Diego e Bruna Ribas",
         "url": "https://www.youtube.com/watch?v=YIE5kh0S5WE",
         "live_status": null,
         "duration": 1353,
@@ -24893,7 +24909,7 @@
       },
       {
         "id": "bdO7xENBv6E",
-        "title": "\"Not on my watch!\" - Juan Maldonado on his argument with Maicosuel on Flala Vegeta Cortes",
+        "title": "\"Aqui não!\" - Juan Maldonado sobre  discussão com Maicosuel no Flala Vegeta Cortes",
         "url": "https://www.youtube.com/watch?v=bdO7xENBv6E",
         "live_status": null,
         "duration": 758,
@@ -24989,7 +25005,7 @@
       },
       {
         "id": "eU3UlbTQFho",
-        "title": "Behind the Scenes: Flamengo 1 x 0 Vasco",
+        "title": "Bastidores Flamengo 1 x 0 Vasco",
         "url": "https://www.youtube.com/watch?v=eU3UlbTQFho",
         "live_status": null,
         "duration": 861,
@@ -25149,7 +25165,7 @@
       },
       {
         "id": "EOawBD9c7U4",
-        "title": "Match Day do Nação",
+        "title": "Nation's Match Day",
         "url": "https://www.youtube.com/watch?v=EOawBD9c7U4",
         "live_status": null,
         "duration": 455,
@@ -25373,7 +25389,7 @@
       },
       {
         "id": "isS15x4w4Fk",
-        "title": "Perfil FlaTv com Matheus Gonçalves",
+        "title": "FlaTV Profile: Matheus Gonçalves",
         "url": "https://www.youtube.com/watch?v=isS15x4w4Fk",
         "live_status": null,
         "duration": 501,
@@ -25469,7 +25485,7 @@
       },
       {
         "id": "iOlcjvBX4t0",
-        "title": "Bastidores Flamengo 2 x 2 Resende",
+        "title": "Behind the Scenes: Flamengo 2 x 2 Resende",
         "url": "https://www.youtube.com/watch?v=iOlcjvBX4t0",
         "live_status": null,
         "duration": 612,
@@ -25717,7 +25733,7 @@
       },
       {
         "id": "aIsRJHHSjyw",
-        "title": "Bastidores - Madureira 1x2 Flamengo",
+        "title": "Behind the Scenes - Madureira 1-2 Flamengo",
         "url": "https://www.youtube.com/watch?v=aIsRJHHSjyw",
         "live_status": null,
         "duration": 693,
@@ -25773,7 +25789,7 @@
       },
       {
         "id": "eeOrXEKKnyA",
-        "title": "TREINO FLAMENGO – Início da preparação para o jogo contra o Madureira",
+        "title": "FLAMENGO TRAINING – Beginning of preparations for the match against Madureira",
         "url": "https://www.youtube.com/watch?v=eeOrXEKKnyA",
         "live_status": null,
         "duration": 333,
@@ -25781,7 +25797,7 @@
       },
       {
         "id": "skRS5kXoqjU",
-        "title": "Bastidores Campeonato Carioca 2022 - Flamengo 5 x 0 Nova Iguaçu",
+        "title": "Behind the Scenes 2022 Carioca Championship - Flamengo 5-0 Nova Iguaçu",
         "url": "https://www.youtube.com/watch?v=skRS5kXoqjU",
         "live_status": null,
         "duration": 796,
@@ -25797,7 +25813,7 @@
       },
       {
         "id": "6JEiJJzKmXk",
-        "title": "Behind the scenes - Flamengo 94x71 Lakeland Magic",
+        "title": "Bastidores - Flamengo 94x71 Lakeland Magic",
         "url": "https://www.youtube.com/watch?v=6JEiJJzKmXk",
         "live_status": null,
         "duration": 1195,
@@ -25861,7 +25877,7 @@
       },
       {
         "id": "VlawUrIn-wo",
-        "title": "Cerimônia em Memória dos Garotos do Ninho",
+        "title": "Ceremony in Memory of the Boys of the Nest",
         "url": "https://www.youtube.com/watch?v=VlawUrIn-wo",
         "live_status": null,
         "duration": 586,
@@ -25957,7 +25973,7 @@
       },
       {
         "id": "E9IK8_FS6qU",
-        "title": "Reapresentação do futebol feminino Sub-20 para 2022",
+        "title": "U-20 Women's Soccer Team Kickoff for 2022",
         "url": "https://www.youtube.com/watch?v=E9IK8_FS6qU",
         "live_status": null,
         "duration": 368,
@@ -26029,7 +26045,7 @@
       },
       {
         "id": "3fo02RJENT4",
-        "title": "Pratique Flamengo com Arthur Picoli no Polo Aquático",
+        "title": "Water Polo Training with Arthur Picoli at Flamengo",
         "url": "https://www.youtube.com/watch?v=3fo02RJENT4",
         "live_status": null,
         "duration": 1267,
@@ -26045,7 +26061,7 @@
       },
       {
         "id": "0W8X7AD2t-4",
-        "title": "Flamengo Beyond Sport with Michel Pessanha",
+        "title": "Flamengo Além do Esporte com Michel Pessanha",
         "url": "https://www.youtube.com/watch?v=0W8X7AD2t-4",
         "live_status": null,
         "duration": 1010,
@@ -26125,7 +26141,7 @@
       },
       {
         "id": "_0TAkdNyU-c",
-        "title": "Perfil FlaTv com Monalisa",
+        "title": "FlaTV Profile: Monalisa",
         "url": "https://www.youtube.com/watch?v=_0TAkdNyU-c",
         "live_status": null,
         "duration": 448,
@@ -26141,7 +26157,7 @@
       },
       {
         "id": "P96vq2YYKE0",
-        "title": "Bastidores - Flamengo 2x1 Portuguesa",
+        "title": "Behind the scenes - Flamengo 2-1 Portuguesa",
         "url": "https://www.youtube.com/watch?v=P96vq2YYKE0",
         "live_status": null,
         "duration": 976,
@@ -26189,7 +26205,7 @@
       },
       {
         "id": "OtbHCX1qQ3E",
-        "title": "\"In eight years at Flamengo, I never saw my teammates play poorly\" - Flala, Vegeta cortes with Mozer",
+        "title": "“Durante oito anos no Flamengo nunca vi meus colegas jogarem mal\" - Flala, Vegeta cortes com Mozer",
         "url": "https://www.youtube.com/watch?v=OtbHCX1qQ3E",
         "live_status": null,
         "duration": 601,
@@ -26237,7 +26253,7 @@
       },
       {
         "id": "X46WQwPh15U",
-        "title": "Flamengo Além do Esporte com o Casal FlaMureta",
+        "title": "Flamengo Beyond Sport with the FlaMureta Couple",
         "url": "https://www.youtube.com/watch?v=X46WQwPh15U",
         "live_status": null,
         "duration": 1074,
@@ -26269,7 +26285,7 @@
       },
       {
         "id": "8cRrW5osOfk",
-        "title": "Perfil FlaTV | Anny Marabá",
+        "title": "FlaTV Profile | Anny Marabá",
         "url": "https://www.youtube.com/watch?v=8cRrW5osOfk",
         "live_status": null,
         "duration": 398,
@@ -26341,7 +26357,7 @@
       },
       {
         "id": "eJwnZCt5nO8",
-        "title": "Autograph session with Zico",
+        "title": "Tarde de autógrafos com Zico",
         "url": "https://www.youtube.com/watch?v=eJwnZCt5nO8",
         "live_status": null,
         "duration": 476,
@@ -26437,7 +26453,7 @@
       },
       {
         "id": "yCYQszisg48",
-        "title": "Ana Luísa conhece Escola de Esportes da ginástica artística",
+        "title": "Ana Luísa visits the artistic gymnastics Sports School",
         "url": "https://www.youtube.com/watch?v=yCYQszisg48",
         "live_status": null,
         "duration": 794,
@@ -26701,7 +26717,7 @@
       },
       {
         "id": "CSCdlSfT3AU",
-        "title": "Quick Game with Túlio da Silva",
+        "title": "Jogo Rápido com Túlio da Silva",
         "url": "https://www.youtube.com/watch?v=CSCdlSfT3AU",
         "live_status": null,
         "duration": 518,
@@ -26837,7 +26853,7 @@
       },
       {
         "id": "hvl4eCsGFmM",
-        "title": "Flamengo Beyond the Sport - Mom Honors Willian Arão in Son's Name",
+        "title": "Flamengo Além do Esporte - Mãe Faz Homenagem a Willian Arão em Nome do Filho",
         "url": "https://www.youtube.com/watch?v=hvl4eCsGFmM",
         "live_status": null,
         "duration": 930,
@@ -26933,7 +26949,7 @@
       },
       {
         "id": "z9AJWvT2M3w",
-        "title": "Reeleito, Presidente Landim toma posse na Gávea",
+        "title": "Re-elected, President Landim takes office at Gávea",
         "url": "https://www.youtube.com/watch?v=z9AJWvT2M3w",
         "live_status": null,
         "duration": 495,
@@ -26957,7 +26973,7 @@
       },
       {
         "id": "CCrdEqTcV-8",
-        "title": "Event for New Benefactor, Emeritus, and Honorary Members",
+        "title": "Evento Novos Sócios Beneméritos, Eméritos e Honorários",
         "url": "https://www.youtube.com/watch?v=CCrdEqTcV-8",
         "live_status": null,
         "duration": 753,
@@ -27189,7 +27205,7 @@
       },
       {
         "id": "QGe8LMD16z8",
-        "title": "Bastidores - Flamengo 2x1 Ceará",
+        "title": "Behind the Scenes - Flamengo 2x1 Ceará",
         "url": "https://www.youtube.com/watch?v=QGe8LMD16z8",
         "live_status": null,
         "duration": 861,
@@ -27669,7 +27685,7 @@
       },
       {
         "id": "2OGbpOZW4fw",
-        "title": "Flala, Vegeta! com Igor 3K",
+        "title": "Flala, Vegeta! with Igor 3K",
         "url": "https://www.youtube.com/watch?v=2OGbpOZW4fw",
         "live_status": null,
         "duration": 3845,
@@ -27725,7 +27741,7 @@
       },
       {
         "id": "nbahfsluu-U",
-        "title": "Renato Gaúcho bate um papo com Denir",
+        "title": "Renato Gaúcho chats with Denir",
         "url": "https://www.youtube.com/watch?v=nbahfsluu-U",
         "live_status": null,
         "duration": 839,
@@ -27789,7 +27805,7 @@
       },
       {
         "id": "chnbBtpGkcs",
-        "title": "Bastidores Sub-20 - Flamengo3x0 Vasco",
+        "title": "U-20 Behind the Scenes - Flamengo 3-0 Vasco",
         "url": "https://www.youtube.com/watch?v=chnbBtpGkcs",
         "live_status": null,
         "duration": 815,
@@ -27821,7 +27837,7 @@
       },
       {
         "id": "bBybecbxI9M",
-        "title": "Flamengo Além do Esporte - com Gustavo e o Rubro Negrismo Além da Vida",
+        "title": "Flamengo Beyond Sports - Featuring Gustavo and a Love for Flamengo Beyond Life",
         "url": "https://www.youtube.com/watch?v=bBybecbxI9M",
         "live_status": null,
         "duration": 1046,
@@ -27861,7 +27877,7 @@
       },
       {
         "id": "5BcTN8y0bX4",
-        "title": "U-17 Stars Undergo Media Training",
+        "title": "Craques do Sub-17 fazem Media Training",
         "url": "https://www.youtube.com/watch?v=5BcTN8y0bX4",
         "live_status": null,
         "duration": 449,
@@ -27941,7 +27957,7 @@
       },
       {
         "id": "TUt3ybrxSxI",
-        "title": "A representative from Socios.com presents the $MENGO Fan Token.",
+        "title": "Representante da Socios.com apresenta o Fan Token $MENGO",
         "url": "https://www.youtube.com/watch?v=TUt3ybrxSxI",
         "live_status": null,
         "duration": 1007,
@@ -27997,7 +28013,7 @@
       },
       {
         "id": "hD0Nks6kZhI",
-        "title": "Behind the Scenes of the U-17 Copa do Brasil Semi-final - Palmeiras 3 x 5 Flamengo",
+        "title": "Bastidores Semi-final da Copa do Brasil Sub-17 - Palmeiras 3 X 5 Flamengo",
         "url": "https://www.youtube.com/watch?v=hD0Nks6kZhI",
         "live_status": null,
         "duration": 994,
@@ -28005,7 +28021,7 @@
       },
       {
         "id": "SP4HOuwkVUU",
-        "title": "FlaTV Profile - Mario Jorge",
+        "title": "Perfil FlaTV - Mario Jorge",
         "url": "https://www.youtube.com/watch?v=SP4HOuwkVUU",
         "live_status": null,
         "duration": 719,
@@ -28061,7 +28077,7 @@
       },
       {
         "id": "Y0omuyfK0dk",
-        "title": "Especial Dia das Crianças - Crianças do Morro São Carlos visitam Museu do Flamengo",
+        "title": "Children's Day Special - Kids from Morro São Carlos visit the Flamengo Museum",
         "url": "https://www.youtube.com/watch?v=Y0omuyfK0dk",
         "live_status": null,
         "duration": 443,
@@ -28189,7 +28205,7 @@
       },
       {
         "id": "zsCkCjZV5T4",
-        "title": "Flamengo Além do Esporte com Cavaleiro Rubro-Negro",
+        "title": "Flamengo Beyond the Sport with the Red-and-Black Knight",
         "url": "https://www.youtube.com/watch?v=zsCkCjZV5T4",
         "live_status": null,
         "duration": 1086,
@@ -28661,7 +28677,7 @@
       },
       {
         "id": "zLerTSBokfg",
-        "title": "TREINO FLAMENGO – Duelo contra o Palmeiras",
+        "title": "FLAMENGO TRAINING – Duel against Palmeiras",
         "url": "https://www.youtube.com/watch?v=zLerTSBokfg",
         "live_status": null,
         "duration": 546,
@@ -28821,7 +28837,7 @@
       },
       {
         "id": "fKJX1hUJdqY",
-        "title": "Flamengo Beyond Sport - The Story of Eloá",
+        "title": "Flamengo Além do Esporte - A História de Eloá",
         "url": "https://www.youtube.com/watch?v=fKJX1hUJdqY",
         "live_status": null,
         "duration": 795,
@@ -29181,7 +29197,7 @@
       },
       {
         "id": "f_iLHKAOVR0",
-        "title": "Behind the scenes - ABC 0x1 Flamengo",
+        "title": "Bastidores - ABC 0x1 Flamengo",
         "url": "https://www.youtube.com/watch?v=f_iLHKAOVR0",
         "live_status": null,
         "duration": 1143,
@@ -29245,7 +29261,7 @@
       },
       {
         "id": "tqiH5Afi5eE",
-        "title": "Behind the Scenes - U-17 Brasileiro Semifinal - Flamengo 2x1 São Paulo",
+        "title": "Bastidores - Semifinal do Brasileiro Sub-17 - Flamengo 2x1 São Paulo",
         "url": "https://www.youtube.com/watch?v=tqiH5Afi5eE",
         "live_status": null,
         "duration": 951,
@@ -29685,7 +29701,7 @@
       },
       {
         "id": "NRZ3dWXfb3g",
-        "title": "Flamengo Além do Esporte com Pedro",
+        "title": "Flamengo Beyond Sports with Pedro",
         "url": "https://www.youtube.com/watch?v=NRZ3dWXfb3g",
         "live_status": null,
         "duration": 997,
@@ -29773,7 +29789,7 @@
       },
       {
         "id": "6pTUHufuWQQ",
-        "title": "Nossas Atletas Medalhistas no Pan",
+        "title": "Our Pan American Medalist Athletes",
         "url": "https://www.youtube.com/watch?v=6pTUHufuWQQ",
         "live_status": null,
         "duration": 706,
@@ -29813,7 +29829,7 @@
       },
       {
         "id": "veq4bznLLgk",
-        "title": "Rumo a Tóquio com Flavia Saraiva",
+        "title": "Heading to Tokyo with Flavia Saraiva",
         "url": "https://www.youtube.com/watch?v=veq4bznLLgk",
         "live_status": null,
         "duration": 295,
@@ -29933,7 +29949,7 @@
       },
       {
         "id": "Q-E3ycFK7yI",
-        "title": "Desafio FlaTV com convocados Sub – 17",
+        "title": "FlaTV challenge with U-17 selected players",
         "url": "https://www.youtube.com/watch?v=Q-E3ycFK7yI",
         "live_status": null,
         "duration": 1061,
@@ -30037,7 +30053,7 @@
       },
       {
         "id": "D7UXreOCLrk",
-        "title": "Bastidores - Flamengo 2x0 Coritiba",
+        "title": "Behind the Scenes - Flamengo 2x0 Coritiba",
         "url": "https://www.youtube.com/watch?v=D7UXreOCLrk",
         "live_status": null,
         "duration": 1439,
@@ -30149,7 +30165,7 @@
       },
       {
         "id": "1nPvdPrECsE",
-        "title": "Bastidores - Coritiba 0x1 Flamengo",
+        "title": "Behind the Scenes - Coritiba 0x1 Flamengo",
         "url": "https://www.youtube.com/watch?v=1nPvdPrECsE",
         "live_status": null,
         "duration": 1242,
@@ -30213,7 +30229,7 @@
       },
       {
         "id": "vnZjsc_mYhM",
-        "title": "Flamengo Além do Esporte com Eduarda e Christiano",
+        "title": "Flamengo Beyond the Sport with Eduarda and Christiano",
         "url": "https://www.youtube.com/watch?v=vnZjsc_mYhM",
         "live_status": null,
         "duration": 906,
@@ -30373,7 +30389,7 @@
       },
       {
         "id": "4HLp2NLIjV4",
-        "title": "Flamengo Beyond Sport with Santa Cruz",
+        "title": "Flamengo Além do Esporte com Santa Cruz",
         "url": "https://www.youtube.com/watch?v=4HLp2NLIjV4",
         "live_status": null,
         "duration": 812,
@@ -30405,7 +30421,7 @@
       },
       {
         "id": "FFUv-QYToG8",
-        "title": "Youth Gems with Larissa Oliveira",
+        "title": "Joias da Base com Larissa Oliveira",
         "url": "https://www.youtube.com/watch?v=FFUv-QYToG8",
         "live_status": null,
         "duration": 323,
@@ -30469,7 +30485,7 @@
       },
       {
         "id": "2fhfRxnj_kc",
-        "title": "Riding Along with Smigol - Yuri de Oliveira",
+        "title": "De Carona com Smigol - Yuri de Oliveira",
         "url": "https://www.youtube.com/watch?v=2fhfRxnj_kc",
         "live_status": null,
         "duration": 827,
@@ -30701,7 +30717,7 @@
       },
       {
         "id": "rL_KgUyBOAc",
-        "title": "Flamengo Além do Esporte - com Dona Emília Marçal",
+        "title": "Flamengo Beyond Sports - with Dona Emília Marçal",
         "url": "https://www.youtube.com/watch?v=rL_KgUyBOAc",
         "live_status": null,
         "duration": 744,
@@ -30805,7 +30821,7 @@
       },
       {
         "id": "Pvzjas0mFO4",
-        "title": "Cine Fla with Ivanir Monteiro",
+        "title": "Cine Fla com Ivanir Monteiro",
         "url": "https://www.youtube.com/watch?v=Pvzjas0mFO4",
         "live_status": null,
         "duration": 1421,
@@ -30837,7 +30853,7 @@
       },
       {
         "id": "ie_tOk4_w_o",
-        "title": "Resenha do Craque com Gabriel Batista",
+        "title": "Pro Talk with Gabriel Batista",
         "url": "https://www.youtube.com/watch?v=ie_tOk4_w_o",
         "live_status": null,
         "duration": 816,
@@ -30909,7 +30925,7 @@
       },
       {
         "id": "3LBtO_oPt6k",
-        "title": "Bastidores - Unión La Calera 2x2 Flamengo",
+        "title": "Behind the Scenes - Unión La Calera 2x2 Flamengo",
         "url": "https://www.youtube.com/watch?v=3LBtO_oPt6k",
         "live_status": null,
         "duration": 917,
@@ -31045,7 +31061,7 @@
       },
       {
         "id": "Ao_wxjpS-zc",
-        "title": "Match Day do Nação - Dia das Mães",
+        "title": "Nação Match Day - Mother's Day",
         "url": "https://www.youtube.com/watch?v=Ao_wxjpS-zc",
         "live_status": null,
         "duration": 694,
@@ -31181,7 +31197,7 @@
       },
       {
         "id": "z2L638AJrGU",
-        "title": "Nação Solidária - Projeto Campo dos Sonhos",
+        "title": "Solidary Nation - Field of Dreams Project",
         "url": "https://www.youtube.com/watch?v=z2L638AJrGU",
         "live_status": null,
         "duration": 644,
@@ -31245,7 +31261,7 @@
       },
       {
         "id": "g466yAcCJQw",
-        "title": "Star Player Chat with Michael",
+        "title": "Resenha do Craque com Michael",
         "url": "https://www.youtube.com/watch?v=g466yAcCJQw",
         "live_status": null,
         "duration": 1086,
@@ -31253,7 +31269,7 @@
       },
       {
         "id": "sy0t-iPJVow",
-        "title": "Quick Play with Letícia Renata",
+        "title": "Jogo Rápido com Letícia Renata",
         "url": "https://www.youtube.com/watch?v=sy0t-iPJVow",
         "live_status": null,
         "duration": 443,
@@ -31301,7 +31317,7 @@
       },
       {
         "id": "x0hz37nARxI",
-        "title": "The Star’s Breakdown with Arrascaeta",
+        "title": "Resenha do Craque com Arrascaeta",
         "url": "https://www.youtube.com/watch?v=x0hz37nARxI",
         "live_status": null,
         "duration": 724,
@@ -31429,7 +31445,7 @@
       },
       {
         "id": "N4w7AyoJ5j8",
-        "title": "Resenha do Craque com Renê",
+        "title": "Star Player Chat with Renê",
         "url": "https://www.youtube.com/watch?v=N4w7AyoJ5j8",
         "live_status": null,
         "duration": 1147,
@@ -31509,7 +31525,7 @@
       },
       {
         "id": "fUcNVNyO-1g",
-        "title": "Resenha do Craque com Diego Ribas",
+        "title": "Star Player Chat with Diego Ribas",
         "url": "https://www.youtube.com/watch?v=fUcNVNyO-1g",
         "live_status": null,
         "duration": 1009,
@@ -31581,7 +31597,7 @@
       },
       {
         "id": "9xcgS5XTNck",
-        "title": "Special 20th Anniversary of the Volleyball Super League - Episode 02",
+        "title": "Especial 20 Anos da Superliga de Vôlei - Episódio 02",
         "url": "https://www.youtube.com/watch?v=9xcgS5XTNck",
         "live_status": null,
         "duration": 840,
@@ -31661,7 +31677,7 @@
       },
       {
         "id": "75wYCTLLDMQ",
-        "title": "FLAMENGO TRAINING – Libertadores da América Debut",
+        "title": "TREINO FLAMENGO – Estreia na Libertadores da América",
         "url": "https://www.youtube.com/watch?v=75wYCTLLDMQ",
         "live_status": null,
         "duration": 402,
@@ -32109,7 +32125,7 @@
       },
       {
         "id": "zqWCSfUXYPQ",
-        "title": "Bastidores - Boavista 1x1 Flamengo",
+        "title": "Behind the scenes - Boavista 1x1 Flamengo",
         "url": "https://www.youtube.com/watch?v=zqWCSfUXYPQ",
         "live_status": null,
         "duration": 1101,
@@ -32245,7 +32261,7 @@
       },
       {
         "id": "NqW0ANJMyjc",
-        "title": "Bastidores - Flamengo 4x1 Resende",
+        "title": "Behind the Scenes - Flamengo 4x1 Resende",
         "url": "https://www.youtube.com/watch?v=NqW0ANJMyjc",
         "live_status": null,
         "duration": 1176,
@@ -32533,7 +32549,7 @@
       },
       {
         "id": "vA2sXCLJd_g",
-        "title": "Artistic swimming duet in Gávea",
+        "title": "Dueto de nado artístico na Gávea",
         "url": "https://www.youtube.com/watch?v=vA2sXCLJd_g",
         "live_status": null,
         "duration": 434,
@@ -32589,7 +32605,7 @@
       },
       {
         "id": "CKbD1Dy276I",
-        "title": "Flamengo artistic swimming seeks new talent in underprivileged youth",
+        "title": "Nado artístico do Flamengo busca novos talentos em jovens carentes",
         "url": "https://www.youtube.com/watch?v=CKbD1Dy276I",
         "live_status": null,
         "duration": 442,
@@ -32677,7 +32693,7 @@
       },
       {
         "id": "5bo9rIQPfy8",
-        "title": "Jogo Rápido com Juma Fernandes",
+        "title": "Quick Game with Juma Fernandes",
         "url": "https://www.youtube.com/watch?v=5bo9rIQPfy8",
         "live_status": null,
         "duration": 318,
@@ -32789,7 +32805,7 @@
       },
       {
         "id": "Xqo6i1NlXKM",
-        "title": "Perfil FlaTV  - Novas contratações do Futebol Feminino",
+        "title": "FlaTV Profile - New Women's Soccer Signings",
         "url": "https://www.youtube.com/watch?v=Xqo6i1NlXKM",
         "live_status": null,
         "duration": 962,
@@ -32845,7 +32861,7 @@
       },
       {
         "id": "yLLXY-Fn1S8",
-        "title": "Encontro de Gerações - Virna e Aline Segato",
+        "title": "A Meeting of Generations - Virna and Aline Segato",
         "url": "https://www.youtube.com/watch?v=yLLXY-Fn1S8",
         "live_status": null,
         "duration": 1396,
@@ -33205,7 +33221,7 @@
       },
       {
         "id": "o6M7-4nEBrc",
-        "title": "TREINO FLAMENGO – Elenco faz preparação para confronto com Corinthians",
+        "title": "FLAMENGO TRAINING – Squad prepares for clash with Corinthians",
         "url": "https://www.youtube.com/watch?v=o6M7-4nEBrc",
         "live_status": null,
         "duration": 363,
@@ -33229,7 +33245,7 @@
       },
       {
         "id": "ydInBWfiwCY",
-        "title": "Batalhas Nado Artístico - Episódio 03",
+        "title": "Artistic Swimming Battles - Episode 03",
         "url": "https://www.youtube.com/watch?v=ydInBWfiwCY",
         "live_status": null,
         "duration": 1034,
@@ -33301,7 +33317,7 @@
       },
       {
         "id": "0Dth8QK2Bws",
-        "title": "Flamengo Além do Esporte com Tia Ainé",
+        "title": "Flamengo Beyond Sports with Tia Ainé",
         "url": "https://www.youtube.com/watch?v=0Dth8QK2Bws",
         "live_status": null,
         "duration": 656,
@@ -35405,7 +35421,7 @@
       },
       {
         "id": "z9KMNWjPUIA",
-        "title": "Rapid Fire with Juciely | FlaTV",
+        "title": "Jogo Rápido com Juciely | FlaTV",
         "url": "https://www.youtube.com/watch?v=z9KMNWjPUIA",
         "live_status": null,
         "duration": 268,
@@ -35413,7 +35429,7 @@
       },
       {
         "id": "-0ueUTSZimA",
-        "title": "TREINO DO FLAMENGO - Última atividade antes do jogo contra o Goiás",
+        "title": "FLAMENGO TRAINING - Final session before the match against Goiás",
         "url": "https://www.youtube.com/watch?v=-0ueUTSZimA",
         "live_status": null,
         "duration": 256,
@@ -35461,7 +35477,7 @@
       },
       {
         "id": "EnluYta-cso",
-        "title": "Fala, Celso Silva | FlaTV",
+        "title": "Talking to Celso Silva | FlaTV",
         "url": "https://www.youtube.com/watch?v=EnluYta-cso",
         "live_status": null,
         "duration": 754,
@@ -35549,7 +35565,7 @@
       },
       {
         "id": "6l3otyFBJUk",
-        "title": "Desafio Fla TV com Juciely e Amanda",
+        "title": "Fla TV Challenge with Juciely and Amanda",
         "url": "https://www.youtube.com/watch?v=6l3otyFBJUk",
         "live_status": null,
         "duration": 541,
@@ -36453,7 +36469,7 @@
       },
       {
         "id": "mwIFkWbyyOY",
-        "title": "Hey, Bernardinho!",
+        "title": "Fala, Bernardinho!",
         "url": "https://www.youtube.com/watch?v=mwIFkWbyyOY",
         "live_status": null,
         "duration": 1491,
@@ -36677,7 +36693,7 @@
       },
       {
         "id": "ZCGh0lLU7iw",
-        "title": "Maracanã 70th Anniversary Special: Episode 03 - The Fans",
+        "title": "Especial Maracanã 70 Anos: Episódio 03 - A Torcida",
         "url": "https://www.youtube.com/watch?v=ZCGh0lLU7iw",
         "live_status": null,
         "duration": 1752,
@@ -37125,7 +37141,7 @@
       },
       {
         "id": "kAj0tPy34dk",
-        "title": "My Unforgettable Game with Raul Plassmann",
+        "title": "Meu Jogo Inesquecível com Raul Plassmann",
         "url": "https://www.youtube.com/watch?v=kAj0tPy34dk",
         "live_status": null,
         "duration": 1014,
@@ -37293,7 +37309,7 @@
       },
       {
         "id": "r-KW_lOPxeE",
-        "title": "Nação Happy Hour with Rafinha",
+        "title": "Happy Hour do Nação com Rafinha",
         "url": "https://www.youtube.com/watch?v=r-KW_lOPxeE",
         "live_status": null,
         "duration": 1918,
@@ -37789,7 +37805,7 @@
       },
       {
         "id": "MZiqsyLq7c0",
-        "title": "Chat with Raul Plassmann",
+        "title": "Bate-papo com Raul Plassmann",
         "url": "https://www.youtube.com/watch?v=MZiqsyLq7c0",
         "live_status": null,
         "duration": 408,
@@ -37917,7 +37933,7 @@
       },
       {
         "id": "gPzxlShR1u8",
-        "title": "Behind the Scenes - Libertad (PAR) 2-5 Flamengo - U-20 Copa Libertadores",
+        "title": "Bastidores - Libertad (PAR) 2 x 5 Flamengo - Libertadores Sub-20",
         "url": "https://www.youtube.com/watch?v=gPzxlShR1u8",
         "live_status": null,
         "duration": 844,
@@ -38021,7 +38037,7 @@
       },
       {
         "id": "r1ivqm_DsWs",
-        "title": "U-20 Libertadores - Goalkeeper Special",
+        "title": "Libertadores Sub-20 - Especial goleiros",
         "url": "https://www.youtube.com/watch?v=r1ivqm_DsWs",
         "live_status": null,
         "duration": 479,
@@ -38293,7 +38309,7 @@
       },
       {
         "id": "Yjiv6TWvn_Y",
-        "title": "Diego Alves and Rodrigo Caio give tips to the team for the U-20 Libertadores",
+        "title": "Diego Alves e Rodrigo Caio dão dicas para o time na Libertadores Sub-20",
         "url": "https://www.youtube.com/watch?v=Yjiv6TWvn_Y",
         "live_status": null,
         "duration": 731,
@@ -38581,7 +38597,7 @@
       },
       {
         "id": "GmXb6MEHspM",
-        "title": "2020 Training and Travel Kit Launch",
+        "title": "Lançamento dos uniformes de treino e viagem 2020",
         "url": "https://www.youtube.com/watch?v=GmXb6MEHspM",
         "live_status": null,
         "duration": 458,
@@ -38637,7 +38653,7 @@
       },
       {
         "id": "D4HnNAhx39o",
-        "title": "O primeiro dia de Gustavo Henrique no Flamengo",
+        "title": "Gustavo Henrique's first day at Flamengo",
         "url": "https://www.youtube.com/watch?v=D4HnNAhx39o",
         "live_status": null,
         "duration": 663,
@@ -38709,7 +38725,7 @@
       },
       {
         "id": "rnGz16UtWTI",
-        "title": "Flamengo realiza o primeiro treino de 2020",
+        "title": "Flamengo holds its first training session of 2020",
         "url": "https://www.youtube.com/watch?v=rnGz16UtWTI",
         "live_status": null,
         "duration": 787,
@@ -39517,7 +39533,7 @@
       },
       {
         "id": "2pVCQHkGAoQ",
-        "title": "Flamengo 124 years",
+        "title": "Flamengo 124 anos",
         "url": "https://www.youtube.com/watch?v=2pVCQHkGAoQ",
         "live_status": null,
         "duration": 468,
@@ -39621,7 +39637,7 @@
       },
       {
         "id": "WCDmLxwKHvk",
-        "title": "Annual Meeting of Embassies and Consulates",
+        "title": "Encontro anual de Embaixadas e Consulados",
         "url": "https://www.youtube.com/watch?v=WCDmLxwKHvk",
         "live_status": null,
         "duration": 506,
@@ -40421,7 +40437,7 @@
       },
       {
         "id": "fL7Oe70ofjk",
-        "title": "Foi Inesquecível - Rogério Lourenço",
+        "title": "It Was Unforgettable - Rogério Lourenço",
         "url": "https://www.youtube.com/watch?v=fL7Oe70ofjk",
         "live_status": null,
         "duration": 184,
@@ -40501,7 +40517,7 @@
       },
       {
         "id": "RCwiCMT_wdY",
-        "title": "Treino do Flamengo - 16/09/2019",
+        "title": "Flamengo training session - 09/16/2019",
         "url": "https://www.youtube.com/watch?v=RCwiCMT_wdY",
         "live_status": null,
         "duration": 546,
@@ -40837,7 +40853,7 @@
       },
       {
         "id": "43h-yaj48Zc",
-        "title": "It was unforgettable - Renê",
+        "title": "Foi Inesquecível - Renê",
         "url": "https://www.youtube.com/watch?v=43h-yaj48Zc",
         "live_status": null,
         "duration": 187,
@@ -40845,7 +40861,7 @@
       },
       {
         "id": "5A7Td1N88fI",
-        "title": "Flamengo training - 08/24/2019",
+        "title": "Treino do Flamengo - 24/08/2019",
         "url": "https://www.youtube.com/watch?v=5A7Td1N88fI",
         "live_status": null,
         "duration": 308,
@@ -41069,7 +41085,7 @@
       },
       {
         "id": "VBcpyfOSCKs",
-        "title": "It Was Unforgettable - Zinho",
+        "title": "Foi Inesquecível - Zinho",
         "url": "https://www.youtube.com/watch?v=VBcpyfOSCKs",
         "live_status": null,
         "duration": 181,
@@ -41093,7 +41109,7 @@
       },
       {
         "id": "ML9pVjrbEA0",
-        "title": "Filipe Luís and Juan visit the Children's Hospital",
+        "title": "Filipe Luís e Juan visitam o Hospital da Criança",
         "url": "https://www.youtube.com/watch?v=ML9pVjrbEA0",
         "live_status": null,
         "duration": 265,
@@ -41157,7 +41173,7 @@
       },
       {
         "id": "KpXWBDxLP0w",
-        "title": "Homenagem ao ídolo Adílio",
+        "title": "Tribute to the idol Adílio",
         "url": "https://www.youtube.com/watch?v=KpXWBDxLP0w",
         "live_status": null,
         "duration": 791,
@@ -41269,7 +41285,7 @@
       },
       {
         "id": "D4491zMbQrs",
-        "title": "Treino do Flamengo - 20/07/2019",
+        "title": "Flamengo Training - 07/20/2019",
         "url": "https://www.youtube.com/watch?v=D4491zMbQrs",
         "live_status": null,
         "duration": 338,
@@ -41301,7 +41317,7 @@
       },
       {
         "id": "ZBjr_0dtTvs",
-        "title": "It Was Unforgettable - Charles Guerreiro",
+        "title": "Foi Inesquecível - Charles Guerreiro",
         "url": "https://www.youtube.com/watch?v=ZBjr_0dtTvs",
         "live_status": null,
         "duration": 170,
@@ -41621,7 +41637,7 @@
       },
       {
         "id": "2sjFAmS-N4E",
-        "title": "Flamengo is Two-Time U-20 Taça Guanabara Champion - Behind the Scenes",
+        "title": "Flamengo é bicampeão da Taça Guanabara Sub-20 - Bastidores",
         "url": "https://www.youtube.com/watch?v=2sjFAmS-N4E",
         "live_status": null,
         "duration": 526,
@@ -41629,7 +41645,7 @@
       },
       {
         "id": "8A0qN37_cK8",
-        "title": "Fluminense 0 x 0 Flamengo - Bastidores",
+        "title": "Fluminense 0 x 0 Flamengo - Behind the Scenes",
         "url": "https://www.youtube.com/watch?v=8A0qN37_cK8",
         "live_status": null,
         "duration": 883,
@@ -41677,7 +41693,7 @@
       },
       {
         "id": "96H_ZIX-GHo",
-        "title": "Angel's Challenges - Athirson",
+        "title": "Desafios do Anjinho - Athirson",
         "url": "https://www.youtube.com/watch?v=96H_ZIX-GHo",
         "live_status": null,
         "duration": 1238,
@@ -41821,7 +41837,7 @@
       },
       {
         "id": "F0MlT07xhBo",
-        "title": "PRESS CONFERENCE: RODOLFO LANDIM",
+        "title": "COLETIVA DE IMPRENSA: RODOLFO LANDIM",
         "url": "https://www.youtube.com/watch?v=F0MlT07xhBo",
         "live_status": null,
         "duration": 624,
@@ -41989,7 +42005,7 @@
       },
       {
         "id": "cEZflzJlkxo",
-        "title": "Flamengo 2 x 1 Chapecoense - Bastidores",
+        "title": "Flamengo 2 x 1 Chapecoense - Behind the Scenes",
         "url": "https://www.youtube.com/watch?v=cEZflzJlkxo",
         "live_status": null,
         "duration": 521,
@@ -42141,7 +42157,7 @@
       },
       {
         "id": "TTRhQB-FYbQ",
-        "title": "Histórias de Arquibancada - Eduardo Vinicius",
+        "title": "Bleacher Stories - Eduardo Vinicius",
         "url": "https://www.youtube.com/watch?v=TTRhQB-FYbQ",
         "live_status": null,
         "duration": 252,
@@ -42285,7 +42301,7 @@
       },
       {
         "id": "z8OyMv30gpE",
-        "title": "Go Paulinho! Carioca Final - Part 1",
+        "title": "Vai Paulinho! Final do Carioca  - Parte 1",
         "url": "https://www.youtube.com/watch?v=z8OyMv30gpE",
         "live_status": null,
         "duration": 771,
@@ -42437,7 +42453,7 @@
       },
       {
         "id": "5RW72QECDEk",
-        "title": "What's up, Sarah Menezes!",
+        "title": "Fala, Sarah Menezes!",
         "url": "https://www.youtube.com/watch?v=5RW72QECDEk",
         "live_status": null,
         "duration": 618,
@@ -42701,7 +42717,7 @@
       },
       {
         "id": "ILIsuvH5mVI",
-        "title": "Bleacher Tales - Dona Zica",
+        "title": "Histórias de Arquibancada - Dona Zica",
         "url": "https://www.youtube.com/watch?v=ILIsuvH5mVI",
         "live_status": null,
         "duration": 253,
@@ -42781,7 +42797,7 @@
       },
       {
         "id": "LRzUGA-cD2c",
-        "title": "Bleacher Stories - Francisco Moraes",
+        "title": "Histórias de Arquibancada - Francisco Moraes",
         "url": "https://www.youtube.com/watch?v=LRzUGA-cD2c",
         "live_status": null,
         "duration": 240,
@@ -43053,7 +43069,7 @@
       },
       {
         "id": "lHmbn4wgkQo",
-        "title": "ETERNOS GAROTOS DO NINHO !",
+        "title": "Eternal boys of the nest!",
         "url": "https://www.youtube.com/watch?v=lHmbn4wgkQo",
         "live_status": null,
         "duration": 300,
@@ -43973,7 +43989,7 @@
       },
       {
         "id": "x92mvahHAL4",
-        "title": "TRAINING AT THE NEST: DORIVAL JR. + GOALKEEPER TRAINING + FREE KICK PRACTICE",
+        "title": "TREINO NO NINHO: DORIVAL JR. + TREINO DE GOLEIROS + COBRANÇA DE FALTA",
         "url": "https://www.youtube.com/watch?v=x92mvahHAL4",
         "live_status": null,
         "duration": 175,
@@ -46157,7 +46173,7 @@
       },
       {
         "id": "SPDkmmDcvYo",
-        "title": "#ThankYouCaptain - Dads",
+        "title": "#ObrigadoC4pitão - Pais",
         "url": "https://www.youtube.com/watch?v=SPDkmmDcvYo",
         "live_status": null,
         "duration": 449,
@@ -46229,7 +46245,7 @@
       },
       {
         "id": "OxO2G-9H56M",
-        "title": "Mução calls Flamengo 2-0 Bahia",
+        "title": "Mução narra Flamengo 2x0 Bahia",
         "url": "https://www.youtube.com/watch?v=OxO2G-9H56M",
         "live_status": null,
         "duration": 285,
@@ -46357,7 +46373,7 @@
       },
       {
         "id": "5h9q0vuFC4o",
-        "title": "#ObrigadoC4pitão! - Anderson Varejão",
+        "title": "#ThankYouCaptain! - Anderson Varejão",
         "url": "https://www.youtube.com/watch?v=5h9q0vuFC4o",
         "live_status": null,
         "duration": 318,
@@ -46853,7 +46869,7 @@
       },
       {
         "id": "UHVMoN37rbM",
-        "title": "#ThankYouCaptain | Marquinhos",
+        "title": "#ObrigadoC4pitão | Marquinhos",
         "url": "https://www.youtube.com/watch?v=UHVMoN37rbM",
         "live_status": null,
         "duration": 255,
@@ -47245,7 +47261,7 @@
       },
       {
         "id": "3LYMvjoJxHw",
-        "title": "#ObrigadoC4pitão - Ricardo Fischer",
+        "title": "#ThankYouCaptain - Ricardo Fischer",
         "url": "https://www.youtube.com/watch?v=3LYMvjoJxHw",
         "live_status": null,
         "duration": 414,
@@ -47349,7 +47365,7 @@
       },
       {
         "id": "Dc-j7A0RltI",
-        "title": "Reinauguração da Mega Store Flamengo na Gávea",
+        "title": "Grand Reopening of the Flamengo Mega Store in Gávea",
         "url": "https://www.youtube.com/watch?v=Dc-j7A0RltI",
         "live_status": null,
         "duration": 162,
@@ -47957,7 +47973,7 @@
       },
       {
         "id": "HxzCMR6M5eU",
-        "title": "#ThankYouC4ptain - Olivinha",
+        "title": "#ObrigadoC4pitão - Olivinha",
         "url": "https://www.youtube.com/watch?v=HxzCMR6M5eU",
         "live_status": null,
         "duration": 447,
@@ -48821,7 +48837,7 @@
       },
       {
         "id": "3CEshW8QnBo",
-        "title": "#ThankYouCaptain - Vitor Amorim",
+        "title": "#ObrigadoC4pitão - Vitor Amorim",
         "url": "https://www.youtube.com/watch?v=3CEshW8QnBo",
         "live_status": null,
         "duration": 256,
@@ -50533,7 +50549,7 @@
       },
       {
         "id": "4EapxyRT10Q",
-        "title": "Sub-17 | Flamengo x Santos - Copa do Brasil",
+        "title": "U-17 | Flamengo vs. Santos - Brazil Cup",
         "url": "https://www.youtube.com/watch?v=4EapxyRT10Q",
         "live_status": null,
         "duration": 120,
@@ -51325,7 +51341,7 @@
       },
       {
         "id": "fW08Vz1RMqc",
-        "title": "Vinicius Junior talks about his first professional goal",
+        "title": "Vinicius Junior comenta o primeiro gol como profissional",
         "url": "https://www.youtube.com/watch?v=fW08Vz1RMqc",
         "live_status": null,
         "duration": 61,
@@ -51493,7 +51509,7 @@
       },
       {
         "id": "VydQsuAO0n8",
-        "title": "Reencontro do vôlei - Leila e Virna",
+        "title": "Volleyball reunion - Leila and Virna",
         "url": "https://www.youtube.com/watch?v=VydQsuAO0n8",
         "live_status": null,
         "duration": 235,
@@ -51653,7 +51669,7 @@
       },
       {
         "id": "9cfW02H-LeI",
-        "title": "Goals - Flamengo 6 x 0 Goias - U-20 Brazilian Championship",
+        "title": "Gols - Flamengo 6 x 0 Goias - Campeonato Brasileiro SUB-20",
         "url": "https://www.youtube.com/watch?v=9cfW02H-LeI",
         "live_status": null,
         "duration": 151,
@@ -52061,7 +52077,7 @@
       },
       {
         "id": "S5Az2swI8CI",
-        "title": "FLA TV on Premiere - Flamengo vs. Chapecoense - Pre-game",
+        "title": "FLA TV no Premiere - Flamengo x Chapecoense - Pré-jogo",
         "url": "https://www.youtube.com/watch?v=S5Az2swI8CI",
         "live_status": null,
         "duration": 1516,
@@ -52461,7 +52477,7 @@
       },
       {
         "id": "euj0U2ZStQ8",
-        "title": "Virna relembra título pelo vôlei do Flamengo",
+        "title": "Virna recalls title with Flamengo volleyball",
         "url": "https://www.youtube.com/watch?v=euj0U2ZStQ8",
         "live_status": null,
         "duration": 404,
@@ -54781,7 +54797,7 @@
       },
       {
         "id": "cSg-5fx49N8",
-        "title": "Pre-season | The Importance of Nutrition",
+        "title": "Pré-temporada | A importância da Nutrição",
         "url": "https://www.youtube.com/watch?v=cSg-5fx49N8",
         "live_status": null,
         "duration": 349,
@@ -55637,7 +55653,7 @@
       },
       {
         "id": "ckP1SEcrnj0",
-        "title": "CHAMPIONS! Behind the scenes - Flamengo 6 x 1 Vasco - U-17 Taça Rio",
+        "title": "CAMPEÃO! Bastidores - Flamengo 6 x 1 Vasco - Taça Rio Sub-17",
         "url": "https://www.youtube.com/watch?v=ckP1SEcrnj0",
         "live_status": null,
         "duration": 279,
@@ -57237,7 +57253,7 @@
       },
       {
         "id": "X-rsDufhUXk",
-        "title": "Press conference - Diego (09/12)",
+        "title": "Entrevista coletiva - Diego (12/09)",
         "url": "https://www.youtube.com/watch?v=X-rsDufhUXk",
         "live_status": null,
         "duration": 1025,
@@ -58437,7 +58453,7 @@
       },
       {
         "id": "vLtbiKdlPm0",
-        "title": "Bastidores da chegada de Diego - FlaTV no Premiere",
+        "title": "Behind the scenes of Diego's arrival - FlaTV on Premiere",
         "url": "https://www.youtube.com/watch?v=vLtbiKdlPm0",
         "live_status": null,
         "duration": 655,
@@ -59157,7 +59173,7 @@
       },
       {
         "id": "Sj-UQYju7CU",
-        "title": "Um anjinho rubro-negro chamado Elias",
+        "title": "A little red-and-black angel named Elias",
         "url": "https://www.youtube.com/watch?v=Sj-UQYju7CU",
         "live_status": null,
         "duration": 155,
@@ -61125,7 +61141,7 @@
       },
       {
         "id": "qlFDI4DJlWI",
-        "title": "Um dia de treino com os goleiros do Flamengo",
+        "title": "A day of training with the Flamengo goalkeepers",
         "url": "https://www.youtube.com/watch?v=qlFDI4DJlWI",
         "live_status": null,
         "duration": 235,
@@ -61317,7 +61333,7 @@
       },
       {
         "id": "ElNoufqw0BQ",
-        "title": "The recovery process for athletes after a game.",
+        "title": "O processo de recuperação de atletas após um jogo",
         "url": "https://www.youtube.com/watch?v=ElNoufqw0BQ",
         "live_status": null,
         "duration": 235,
@@ -62861,7 +62877,7 @@
       },
       {
         "id": "a--HeStqdLQ",
-        "title": "Behind the scenes of @Flamengo's #NBB6 championship title",
+        "title": "Bastidores do título do #NBB6 do @Flamengo",
         "url": "https://www.youtube.com/watch?v=a--HeStqdLQ",
         "live_status": null,
         "duration": 233,
@@ -64229,7 +64245,7 @@
       },
       {
         "id": "Qj9uaEY2VWg",
-        "title": "Press Conference: President Eduardo Bandeira de Mello gives an overview of the current situation.",
+        "title": "Coletiva de Imprensa: Presidente Eduardo Bandeira de Mello faz um balanço da atual situação",
         "url": "https://www.youtube.com/watch?v=Qj9uaEY2VWg",
         "live_status": null,
         "duration": 340,
@@ -65613,7 +65629,7 @@
       },
       {
         "id": "Ot-5hBxvUHc",
-        "title": "Relaxed atmosphere at this Wednesday's physical training session at the training center",
+        "title": "Descontração marca o treino físico desta quarta-feira no CT",
         "url": "https://www.youtube.com/watch?v=Ot-5hBxvUHc",
         "live_status": null,
         "duration": 333,
@@ -65829,7 +65845,7 @@
       },
       {
         "id": "HfxctXDjdvM",
-        "title": "Charanga Special 70th Anniversary - Part 1",
+        "title": "Especial Charanga 70 anos - Parte 1",
         "url": "https://www.youtube.com/watch?v=HfxctXDjdvM",
         "live_status": null,
         "duration": 129,
@@ -65981,7 +65997,7 @@
       },
       {
         "id": "2p5wCtGmrBU",
-        "title": "Behind the Scenes: With the fans' support, Flamengo defeats São Paulo",
+        "title": "Bastidores: Com apoio da torcida, Flamengo derrota São Paulo",
         "url": "https://www.youtube.com/watch?v=2p5wCtGmrBU",
         "live_status": null,
         "duration": 235,
@@ -66077,7 +66093,7 @@
       },
       {
         "id": "9Z5pfMWajXc",
-        "title": "Iranildo: \"You have to run twice as hard for the fans\"",
+        "title": "Iranildo: \"Tem que correr dobrado pela torcida\"",
         "url": "https://www.youtube.com/watch?v=9Z5pfMWajXc",
         "live_status": null,
         "duration": 232,
@@ -66413,7 +66429,7 @@
       },
       {
         "id": "DIKSDTLcB-o",
-        "title": "Behind the Scenes: Flamengo 2-1 Atlético-MG",
+        "title": "Bastidores: Flamengo 2 a 1 Atlético-MG",
         "url": "https://www.youtube.com/watch?v=DIKSDTLcB-o",
         "live_status": null,
         "duration": 586,
@@ -66469,7 +66485,7 @@
       },
       {
         "id": "ZB0iCDtSnB4",
-        "title": "Renato shows all his class and beats Douglas in free kicks and penalties",
+        "title": "Renato mostra toda sua categoria e vence Douglas nas faltas e nos pênaltis",
         "url": "https://www.youtube.com/watch?v=ZB0iCDtSnB4",
         "live_status": null,
         "duration": 301,
@@ -66589,7 +66605,7 @@
       },
       {
         "id": "Olvvv5yg9qY",
-        "title": "Renato stirs up trouble in the locker room after Tuesday's physical training",
+        "title": "Renato apronta no vestiário após treino físico desta terça",
         "url": "https://www.youtube.com/watch?v=Olvvv5yg9qY",
         "live_status": null,
         "duration": 340,
@@ -66997,7 +67013,7 @@
       },
       {
         "id": "mE0MooPaWCQ",
-        "title": "The Emperor's Return: Chapter 01",
+        "title": "O retorno do Imperador: Capitulo 01",
         "url": "https://www.youtube.com/watch?v=mE0MooPaWCQ",
         "live_status": null,
         "duration": 117,
@@ -67653,7 +67669,7 @@
       },
       {
         "id": "NvATRJ5y5UU",
-        "title": "Paulo Victor's stunning free-kick goal against Bottinelli",
+        "title": "Golaço de falta de Paulo Victor em Bottinelli",
         "url": "https://www.youtube.com/watch?v=NvATRJ5y5UU",
         "live_status": null,
         "duration": 95,
@@ -67741,7 +67757,7 @@
       },
       {
         "id": "y_mqleb7Fa8",
-        "title": "Changing the car oil with Amaral at the wheel",
+        "title": "Trocando o óleo do carro com o volante Amaral",
         "url": "https://www.youtube.com/watch?v=y_mqleb7Fa8",
         "live_status": null,
         "duration": 239,
@@ -68181,7 +68197,7 @@
       },
       {
         "id": "rm42rcsSHdo",
-        "title": "Luiz Antônio crashes Renato Abreu's press conference at the training center",
+        "title": "Luiz Antônio invade a entrevista coletiva de Renato Abreu no CT",
         "url": "https://www.youtube.com/watch?v=rm42rcsSHdo",
         "live_status": null,
         "duration": 148,
@@ -70639,7 +70655,7 @@
       },
       {
         "id": "RrcTQoOY-x4",
-        "title": "MENGOCAST WITH GABRIEL O PENSADOR IS LIVE, NATION! 🎵🔴⚫ #flamengo #flamengotv",
+        "title": "MENGOCAST COM GABRIEL PENSADOR NO AR, NAÇÃO! 🎵🔴⚫ #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/RrcTQoOY-x4",
         "live_status": null,
         "duration": null,
@@ -70935,7 +70951,7 @@
       },
       {
         "id": "sdZrSj7mbbI",
-        "title": "TÁ COM SAUDADE DO FLABASQUETE? ENTÃO CORRE PARA O FLAPRESS E SAIBA DE TODAS AS NOVIDADES DO MENGÃO!",
+        "title": "Missing FlaBasquete? Then head over to FlaPress and catch up on all the latest news about Flamengo!",
         "url": "https://www.youtube.com/shorts/sdZrSj7mbbI",
         "live_status": null,
         "duration": null,
@@ -70951,7 +70967,7 @@
       },
       {
         "id": "QSi1ywwQmrk",
-        "title": "CONHECEMOS O CAMINHO! EMERSHOW E FALSO 9 ANALISAM O \"SEGUNDO TEMPO\" DO CONFRONTO DA LIBERTADORES",
+        "title": "WE KNOW THE WAY! EMERSHOW AND FALSE 9 ANALYZE THE \"SECOND HALF\" OF THE LIBERTADORES CLASH",
         "url": "https://www.youtube.com/shorts/QSi1ywwQmrk",
         "live_status": null,
         "duration": null,
@@ -71103,7 +71119,7 @@
       },
       {
         "id": "DemlInARRLA",
-        "title": "É NOITE DE COPA! FALSO 9 E EMERSHOW EXPLICAM COMO JOGA O PRÓXIMO ADVERSÁRIO DO MENGÃO.",
+        "title": "IT'S CUP NIGHT! FALSO 9 AND EMERSHOW EXPLAIN HOW MENGÃO'S NEXT OPPONENT PLAYS.",
         "url": "https://www.youtube.com/shorts/DemlInARRLA",
         "live_status": null,
         "duration": null,
@@ -71111,7 +71127,7 @@
       },
       {
         "id": "lqd1JXigC4Y",
-        "title": "😯😯 ELES FORAM CELEBRAR O DIA DOS PAIS NO MARACANÃ E OLHA SÓ O QUE ACONTECEU...",
+        "title": "😯😯 THEY WENT TO CELEBRATE FATHER'S DAY AT MARACANÃ AND LOOK WHAT HAPPENED...",
         "url": "https://www.youtube.com/shorts/lqd1JXigC4Y",
         "live_status": null,
         "duration": null,
@@ -71303,7 +71319,7 @@
       },
       {
         "id": "pcQyeyjJVFs",
-        "title": "Você pode ser o criador do #MantodaNação, mas o prazo já está terminando.",
+        "title": "You can be the creator of the #JerseyOfTheNation, but the deadline is already running out.",
         "url": "https://www.youtube.com/shorts/pcQyeyjJVFs",
         "live_status": null,
         "duration": null,
@@ -71487,7 +71503,7 @@
       },
       {
         "id": "HQMwtQjslZE",
-        "title": "Ever thought about seeing your own jersey design take over the stands? #JerseyOfTheNation",
+        "title": "Já pensou em ver uma camisa feita por você tomando conta da arquibancada? #MantodaNação",
         "url": "https://www.youtube.com/shorts/HQMwtQjslZE",
         "live_status": null,
         "duration": null,
@@ -71887,7 +71903,7 @@
       },
       {
         "id": "noYqBGUsaqU",
-        "title": "FALA, LUIS! 🏀🎙️O NOVO CONTRATADO DO MENGÃO DEIXOU O RECADO PRA MAIOR TORCIDA DO MUNDO! 🔴⚫",
+        "title": "LUIS SPEAKS! 🏀🎙️ THE NEW MENGÃO SIGNING HAS A MESSAGE FOR THE BEST FANS IN THE WORLD! 🔴⚫",
         "url": "https://www.youtube.com/shorts/noYqBGUsaqU",
         "live_status": null,
         "duration": null,
@@ -71911,7 +71927,7 @@
       },
       {
         "id": "zrOnECe_XXw",
-        "title": "SEU DESENHO PODE VIRAR O MANTO DA NAÇÃO! 🔴⚫",
+        "title": "YOUR DESIGN COULD BECOME THE NATION'S JERSEY! 🔴⚫",
         "url": "https://www.youtube.com/shorts/zrOnECe_XXw",
         "live_status": null,
         "duration": null,
@@ -72031,7 +72047,7 @@
       },
       {
         "id": "o35xf_iTesc",
-        "title": "ALL THE DETAILS OF THE RUBRO-NEGRO VICTORY IN ANOTHER OFF-SEASON CHALLENGE! 🔴⚫ #flamengo",
+        "title": "TODOS OS DETALHES DA VITÓRIA RUBRO-NEGRA EM MAIS UM DESAFIO DA INTERTEMPORADA! 🔴⚫ #flamengo",
         "url": "https://www.youtube.com/shorts/o35xf_iTesc",
         "live_status": null,
         "duration": null,
@@ -72383,7 +72399,7 @@
       },
       {
         "id": "Qy8Z9CorMDw",
-        "title": "IT WAS NEVER A GOODBYE. ALWAYS A SEE YOU LATER 😈 YAGO IS BAAAAACK! #FlaBasketball",
+        "title": "NUNCA FOI UM ADEUS. SEMPRE FOI UM ATÉ LOGO 😈 O YAGO TÁ DE VOLTAAAAAAAAAAA! #FlaBasquete",
         "url": "https://www.youtube.com/shorts/Qy8Z9CorMDw",
         "live_status": null,
         "duration": null,
@@ -72463,7 +72479,7 @@
       },
       {
         "id": "0Lt9exYWDvY",
-        "title": "O ABENÇOADO É CAMPEÃO DA NBA E TORCEDOR ASSUMIDO DO MENGÃO! 🏆🔴⚫ #flamengo #flamengotv",
+        "title": "The blessed one is an NBA champion and a self-confessed Flamengo fan! 🏆🔴⚫ #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/0Lt9exYWDvY",
         "live_status": null,
         "duration": null,
@@ -72479,7 +72495,7 @@
       },
       {
         "id": "S3nFTp_Mx7w",
-        "title": "THE FANS ROASTED THE KING ON THE DEBUT LIVE STREAM OF SELEFLA 🔴⚫🤣 #flamengo #flamengotv",
+        "title": "A GALERA PEGOU NO PÉ DO REI NA LIVE DE ESTREIA DO SELEFLA 🔴⚫🤣 #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/S3nFTp_Mx7w",
         "live_status": null,
         "duration": null,
@@ -72527,7 +72543,7 @@
       },
       {
         "id": "ScmYhl_SzpE",
-        "title": "MEMORY CHALLENGE ON FLAMENGO TV! 🔴⚫ #flamengo #flamengotv",
+        "title": "DESAFIO DA MEMÓRIA NA FLAMENGO TV! 🔴⚫ #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/ScmYhl_SzpE",
         "live_status": null,
         "duration": null,
@@ -72543,7 +72559,7 @@
       },
       {
         "id": "ctPmjbylWbM",
-        "title": "HOJE TEM ESTREIA DO SELEFLA NA FLAMENGO TV! FLAMENGO + COPA + VIDEOGAME = SELEFLA ❤️🖤🎮 #flamengo",
+        "title": "TODAY IS THE PREMIERE OF SELEFLA ON FLAMENGO TV! FLAMENGO + WORLD CUP + VIDEOGAMES = SELEFLA ❤️🖤🎮...",
         "url": "https://www.youtube.com/shorts/ctPmjbylWbM",
         "live_status": null,
         "duration": null,
@@ -72623,7 +72639,7 @@
       },
       {
         "id": "ZMyqLDkZ9kQ",
-        "title": "MEMENGO NO AR, NAÇÃO! VOCÊ PENSA QUE O FLAMENGO É TIME? O FLAMENGO É SELEÇÃO!",
+        "title": "Flamengo is on the air, nation! You think Flamengo is just a team? Flamengo is a national team!",
         "url": "https://www.youtube.com/shorts/ZMyqLDkZ9kQ",
         "live_status": null,
         "duration": null,
@@ -72631,7 +72647,7 @@
       },
       {
         "id": "-6e9x_TDtBs",
-        "title": "POR POUCO O FLAMENGO NÃO PERDEU UM TORCEDOR ILUSTRE! 😂❤️🖤 #flamengo #flamengotv",
+        "title": "Flamengo almost lost a famous fan! 😂❤️🖤 #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/-6e9x_TDtBs",
         "live_status": null,
         "duration": null,
@@ -72639,7 +72655,7 @@
       },
       {
         "id": "B94ACzSbLv8",
-        "title": "MENGOCAST ESPECIAL DEMAIS COM NEGUINHO DA BEIJA-FLOR! ❤️🖤 #flamengo #flamengotv",
+        "title": "EXTRA SPECIAL MENGOCAST WITH NEGUINHO DA BEIJA-FLOR! ❤️🖤 #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/B94ACzSbLv8",
         "live_status": null,
         "duration": null,
@@ -72655,7 +72671,7 @@
       },
       {
         "id": "J_N1w0q5h-8",
-        "title": "OS CONVOCADOS. A SELEFLA VAI ENTRAR EM CAMPO! 🇧🇷🇺🇾🇪🇨🇨🇴 #flamengo #flamengotv",
+        "title": "THE SELECTED PLAYERS. THE SELECTION IS ABOUT TO TAKE THE FIELD! 🇧🇷🇺🇾🇪🇨🇨🇴 #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/J_N1w0q5h-8",
         "live_status": null,
         "duration": null,
@@ -72775,7 +72791,7 @@
       },
       {
         "id": "vG_Jy6h0ltc",
-        "title": "FLAPRESS IS LIVE, NAÇÃO! FEATURING SOCCER, SWIMMING, U-20 WOMEN'S SOCCER, AND EVERYTHING THAT HAP...",
+        "title": "FLAPRESS NO AR, NAÇÃO! COM FUTEBOL, NATAÇÃO, SUB-20 FEMININO E TUDO QUE ROLOU NA SEMANA DO MENGÃO!",
         "url": "https://www.youtube.com/shorts/vG_Jy6h0ltc",
         "live_status": null,
         "duration": null,
@@ -72807,7 +72823,7 @@
       },
       {
         "id": "IyiD5r0j9mQ",
-        "title": "A VOLTA POR CIMA DE LÉO PEREIRA NO FLAMENGO ❤️🖤 #flamengo #flamengotv",
+        "title": "LÉO PEREIRA'S COMEBACK AT FLAMENGO ❤️🖤 #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/IyiD5r0j9mQ",
         "live_status": null,
         "duration": null,
@@ -73623,7 +73639,7 @@
       },
       {
         "id": "EdvOAKaWBjo",
-        "title": "CHEGAMOS, 🇦🇷! O FLABASQUETE JÁ ESTÁ EM BUENOS AIRES PRO FINAL FOUR DA BCLA!  #flamengo  #flamengotv",
+        "title": "WE'VE ARRIVED, 🇦🇷! FLABASQUETE IS ALREADY IN BUENOS AIRES FOR THE BCLA FINAL FOUR! #flamengo #fla...",
         "url": "https://www.youtube.com/shorts/EdvOAKaWBjo",
         "live_status": null,
         "duration": null,
@@ -73639,7 +73655,7 @@
       },
       {
         "id": "Wv9TKl0slaw",
-        "title": "BASTIDORES DO MANTO 1. BRANCO 2026 🔴⚫ #flamengo #flamengotv",
+        "title": "BEHIND THE SCENES OF THE WHITE JERSEY 2026 🔴⚫ #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/Wv9TKl0slaw",
         "live_status": null,
         "duration": null,
@@ -73663,7 +73679,7 @@
       },
       {
         "id": "RfEuJjEYfM8",
-        "title": "FLAPRESS NO AR COM TUDO DA SEMANA DO MENGÃO! 🔴⚫ #flamengo #flamengotv",
+        "title": "FLAPRESS IS ON AIR WITH ALL THE HIGHLIGHTS FROM MENGÃO'S WEEK! 🔴⚫ #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/RfEuJjEYfM8",
         "live_status": null,
         "duration": null,
@@ -73815,7 +73831,7 @@
       },
       {
         "id": "wCwRfIjoMGc",
-        "title": "EXPOSED TÁTICO DE FLUMINENSE X FLAMENGO NO AR, NAÇÃO! #flamengo #flamengotv",
+        "title": "Tactical analysis of Fluminense vs. Flamengo is now on air, fans! #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/wCwRfIjoMGc",
         "live_status": null,
         "duration": null,
@@ -73831,7 +73847,7 @@
       },
       {
         "id": "omSb2M8iwiA",
-        "title": "ISSO AQUI É FLAMENGO DE CUSCO x FLAMENGO, COM VITÓRIA DO MENGÃO NA ESTREIA DA LIBERTADORES 2026! 🔴⚫",
+        "title": "THIS IS FLAMENGO DE CUSCO VS. FLAMENGO, WITH A VICTORY FOR MENGÃO IN THEIR 2026 LIBERTADORES DEBU...",
         "url": "https://www.youtube.com/shorts/omSb2M8iwiA",
         "live_status": null,
         "duration": null,
@@ -73967,7 +73983,7 @@
       },
       {
         "id": "r97HDvkB294",
-        "title": "DIFÍCIL DE PEGAR! MAIS 3 PONTOS! #flamengo #flamengotv",
+        "title": "HARD TO CATCH! 3 MORE POINTS! #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/r97HDvkB294",
         "live_status": null,
         "duration": null,
@@ -74039,7 +74055,7 @@
       },
       {
         "id": "I1WIODWvOlQ",
-        "title": "BASTIDORES INÉDITOS E A RESENHA DE LEI COM JOÃO E REI, ACOMPANHADOS DO FERNANDÃO NO MENGOCAST! 🔴⚫",
+        "title": "UNRELEASED BEHIND-THE-SCENES FOOTAGE AND A REVIEW OF THE LAW WITH JOÃO AND REI, ACCOMPANIED BY FE...",
         "url": "https://www.youtube.com/shorts/I1WIODWvOlQ",
         "live_status": null,
         "duration": null,
@@ -74079,7 +74095,7 @@
       },
       {
         "id": "nj6HRNgNpgI",
-        "title": "TREINO DO MENGÃO DE UM JEITO QUE VOCÊ NUNCA VIU (NEM OUVIU) É NA FLAMENGO TV! #treino #flamengo",
+        "title": "Flamengo's training session like you've never seen (or heard) before is on Flamengo TV! #training...",
         "url": "https://www.youtube.com/shorts/nj6HRNgNpgI",
         "live_status": null,
         "duration": null,
@@ -74087,7 +74103,7 @@
       },
       {
         "id": "ZVKf1oQIkw4",
-        "title": "PARCERIAS ESTRATÉGICAS. ENTENDA COMO O MENGÃO ESCOLHE AS MARCAS QUE ESTAMPAM NOSSO MANTO! #flamengo",
+        "title": "Strategic Partnerships. Understand how Flamengo chooses the brands that appear on our jersey! #fl...",
         "url": "https://www.youtube.com/shorts/ZVKf1oQIkw4",
         "live_status": null,
         "duration": null,
@@ -74127,7 +74143,7 @@
       },
       {
         "id": "HDVg6GjoYfU",
-        "title": "TREINO DE UM JEITO DIFERENTE HOJE, COM JORGINHO MICROFONADO 🤣💪 #treino #flamengo #flamengotv",
+        "title": "Training in a different way today, with Jorginho on the microphone 🤣💪 #training #flamengo #flamen...",
         "url": "https://www.youtube.com/shorts/HDVg6GjoYfU",
         "live_status": null,
         "duration": null,
@@ -74143,7 +74159,7 @@
       },
       {
         "id": "5Jh9ZiX1STM",
-        "title": "BAP FALA SOBRE O PROCESSO DE SCOUT NO FLAMENGO. ASSISTA A  RESENHA COMPLETA NA FLAMWNGO TV 🔴⚫",
+        "title": "BAP talks about the scouting process at Flamengo. Watch the full review on Flamengo TV 🔴⚫",
         "url": "https://www.youtube.com/shorts/5Jh9ZiX1STM",
         "live_status": null,
         "duration": null,
@@ -74183,7 +74199,7 @@
       },
       {
         "id": "erI4psjGohg",
-        "title": "RESENHA COM O BAP NO MENGOCAST DESTA SEMANA! 🔴⚫ #flamengo #flamengotv #bap #mengocast",
+        "title": "Review with Bap on this week's Mengocast! 🔴⚫ #flamengo #flamengotv #bap #mengocast",
         "url": "https://www.youtube.com/shorts/erI4psjGohg",
         "live_status": null,
         "duration": null,
@@ -74191,7 +74207,7 @@
       },
       {
         "id": "0Ar2eHjEbok",
-        "title": "DIEGO ALVES: GOLEIRO PEGADOR DE PÊNALTI 🧤🔴⚫ #flamengo #flamengotv #goleiro",
+        "title": "DIEGO ALVES: GOALKEEPER WHO SAVES PENALTIES 🧤🔴⚫ #flamengo #flamengotv #goalkeeper",
         "url": "https://www.youtube.com/shorts/0Ar2eHjEbok",
         "live_status": null,
         "duration": null,
@@ -74207,7 +74223,7 @@
       },
       {
         "id": "snpKuJ9CROU",
-        "title": "JOÃO GUILHERME E REIKRAUSS RECEBEM TORÓ NO MENGOCAST! 🎙️🔴⚫ #mengocast #flamengo #flamengotv",
+        "title": "João Guilherme and Reikrauss welcome Toró to Mengocast! 🎙️🔴⚫ #mengocast #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/snpKuJ9CROU",
         "live_status": null,
         "duration": null,
@@ -74231,7 +74247,7 @@
       },
       {
         "id": "EP_H0XKIyg8",
-        "title": "O JOGO TATICAMENTE PERFEITO! 🔴⚫ #flamengo #flamengotv #mengocast",
+        "title": "The tactically perfect game! 🔴⚫ #flamengo #flamengotv #mengocast",
         "url": "https://www.youtube.com/shorts/EP_H0XKIyg8",
         "live_status": null,
         "duration": null,
@@ -74271,7 +74287,7 @@
       },
       {
         "id": "kyTTdfiIV2w",
-        "title": "ISSO AQUI É FLAMENGO DO CONFRONTO CORINTHIANS X FLAMENGO NO AR, NAÇÃO! #flamengo #flamengotv",
+        "title": "THIS IS FLAMENGO BROADCAST OF THE CORINTHIANS VS. FLAMENGO MATCH ON AIR, NATION! #flamengo #flame...",
         "url": "https://www.youtube.com/shorts/kyTTdfiIV2w",
         "live_status": null,
         "duration": null,
@@ -74343,7 +74359,7 @@
       },
       {
         "id": "L6iMcBhSmXw",
-        "title": "ISSO AQUI É #FLAMENGO CONTRA O RACISMO",
+        "title": "THIS IS #FLAMENGO AGAINST RACISM",
         "url": "https://www.youtube.com/shorts/L6iMcBhSmXw",
         "live_status": null,
         "duration": null,
@@ -74439,7 +74455,7 @@
       },
       {
         "id": "VHE8-N904QQ",
-        "title": "INTERVIEW WITH ALFREDO ALMEIDA, DIRECTOR OF FLAMENGO'S YOUTH ACADEMY, ON FLAMENGO TV! #flamengo #...",
+        "title": "ENTREVISTA COM ALFREDO ALMEIDA, DIRETOR DA BASE DO FLAMENGO, NA FLAMENGO TV! #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/VHE8-N904QQ",
         "live_status": null,
         "duration": null,
@@ -74455,7 +74471,7 @@
       },
       {
         "id": "YeN2USxP1k8",
-        "title": "O QUE É O DNA RUBRO-NEGRO? ❤️🖤  #flamengo #flamengotv",
+        "title": "What is the Flamengo DNA? ❤️🖤 #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/YeN2USxP1k8",
         "live_status": null,
         "duration": null,
@@ -74567,7 +74583,7 @@
       },
       {
         "id": "rmA7X_a90_Q",
-        "title": "Did Thiago Lacerda's Flamengo lineup load up? ⚽🔴⚫ #flamengo #flamengotv",
+        "title": "CARREGOU AÍ A ESCALAÇÃO DE FLAMENGO DO THIAGO LACERDA? ⚽🔴⚫ #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/rmA7X_a90_Q",
         "live_status": null,
         "duration": null,
@@ -74615,7 +74631,7 @@
       },
       {
         "id": "eJ2zRpKfp5U",
-        "title": "ANOTHER MEMENGO ON AIR!! 🤣❤️🖤 #flamengo #flamengotv",
+        "title": "MAIS UM MEMENGO NO AR!! 🤣❤️🖤 #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/eJ2zRpKfp5U",
         "live_status": null,
         "duration": null,
@@ -74631,7 +74647,7 @@
       },
       {
         "id": "QwZw97HM37s",
-        "title": "Thiago Lacerda recalls his first memories at Maracanã on this week's Mengocast! 🔴⚫",
+        "title": "THIAGO LACERDA RELEMBRA SUAS PRIMEIRAS MEMÓRIAS NO MARACANÃ NO MENGOCAST DESTA SEMANA! 🔴⚫",
         "url": "https://www.youtube.com/shorts/QwZw97HM37s",
         "live_status": null,
         "duration": null,
@@ -74639,7 +74655,7 @@
       },
       {
         "id": "ToDsgKv_Uuw",
-        "title": "Tactical analysis of Botafogo vs. Flamengo with Victor Faldo Nove, on Flamengo TV! #flamengo #fla...",
+        "title": "EXPOSED TÁTICO DE BOTAFOGO x FLAMENGO COM VICTOR FALDO NOVE, NA FLAMENGO TV! #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/ToDsgKv_Uuw",
         "live_status": null,
         "duration": null,
@@ -74647,7 +74663,7 @@
       },
       {
         "id": "u048elBIPlE",
-        "title": "ANOTHER UPDATE ON THE BOYS FROM THE TRAINING CENTER IN QUITO IS ON AIR, NATION! #flamengo #flamen...",
+        "title": "MAIS UM BOLETIM SOBRE OS GAROTOS DO NINHO EM QUITO NO AR, NAÇÃO! #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/u048elBIPlE",
         "live_status": null,
         "duration": null,
@@ -74663,7 +74679,7 @@
       },
       {
         "id": "PQy8FCaeTho",
-        "title": "MAIS UM BASTIDOR DOS GAROTOS DO NINHO NA LIBERTADORES SUB-20 NO AR, NAÇÃO! ❤️🖤 #flamengo",
+        "title": "ANOTHER BEHIND-THE-SCENES LOOK AT THE YOUTH ACADEMY TEAM IN THE U-20 LIBERTADORES CUP IS UP, FANS...",
         "url": "https://www.youtube.com/shorts/PQy8FCaeTho",
         "live_status": null,
         "duration": null,
@@ -74727,7 +74743,7 @@
       },
       {
         "id": "V4URINpUmpo",
-        "title": "SAÚL E ZICO DESCOBRINDO QUE TÊM MUITO MAIS EM COMUM DO QUE SÓ O AMOR PELO FUTEBOL! ⚽🔴⚫ #flamengo",
+        "title": "SAÚL AND ZICO DISCOVERING THEY HAVE MUCH MORE IN COMMON THAN JUST THEIR LOVE FOR FOOTBALL! ⚽🔴⚫ #f...",
         "url": "https://www.youtube.com/shorts/V4URINpUmpo",
         "live_status": null,
         "duration": null,
@@ -74895,7 +74911,7 @@
       },
       {
         "id": "SDJeWYMdv0Q",
-        "title": "MARCA E SE DIVERTE! TERCEIRO GOL DO MENGÃO NA ESTREIA DA LIBERTADORES SUB-20 FOI DO ALAN SANTOS! 🔴⚫",
+        "title": "SCORE AND HAVE FUN! ALAN SANTOS SCORES FLAMENGO'S THIRD GOAL IN THEIR U-20 LIBERTADORES DEBUT! 🔴⚫",
         "url": "https://www.youtube.com/shorts/SDJeWYMdv0Q",
         "live_status": null,
         "duration": null,
@@ -75039,7 +75055,7 @@
       },
       {
         "id": "M5cedFykSuQ",
-        "title": "A review of Galinho with Flabasquete, Nation! 🏀🔴⚫ #flamengo #flamengotv",
+        "title": "RESENHA DO GALINHO COM O FLABASQUETE, NAÇÃO! 🏀🔴⚫ #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/M5cedFykSuQ",
         "live_status": null,
         "duration": null,
@@ -75047,7 +75063,7 @@
       },
       {
         "id": "gP4Zayeicqk",
-        "title": "O DIA EM QUE OLIVINHA ANOTOU 96 PONTOS EM UMA ATUAÇÃO HISTÓRICA 🏀🔥 #flamengo #flabasquete",
+        "title": "The day Olivinha scored 96 points in a historic performance 🏀🔥 #flamengo #flabasquete",
         "url": "https://www.youtube.com/shorts/gP4Zayeicqk",
         "live_status": null,
         "duration": null,
@@ -75279,7 +75295,7 @@
       },
       {
         "id": "oYkNBg3JXi4",
-        "title": "MENGOCAST COM MOZER NA FLAMENGO TV! 🔴⚫ #flamengo #flamengotv",
+        "title": "MENGOCAST WITH MOZER ON FLAMENGO TV! 🔴⚫ #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/oYkNBg3JXi4",
         "live_status": null,
         "duration": null,
@@ -75495,7 +75511,7 @@
       },
       {
         "id": "koA0rIU0-nk",
-        "title": "ARRIVAL AT MARACANÃ! TODAY IS FLAMENGO DAY ❤️🖤 #flamengo #flamengotv",
+        "title": "CHEGADA NO MARACA! HOJE É DIA DE FLAMENGO ❤️🖤 #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/koA0rIU0-nk",
         "live_status": null,
         "duration": null,
@@ -75511,7 +75527,7 @@
       },
       {
         "id": "OpawWlLzYqc",
-        "title": "Tactical analysis of the Flamengo vs. Internacional match, for the second round of the 2026 Brazi...",
+        "title": "EXPOSED TÁTICO DO CONFRONTO FLAMENGO X INTERNACIONAL, PELA SEGUNDA RODADA DO BRASILEIRÃO 2026 🔴⚫",
         "url": "https://www.youtube.com/shorts/OpawWlLzYqc",
         "live_status": null,
         "duration": null,
@@ -75535,7 +75551,7 @@
       },
       {
         "id": "6p-n7Rsr6gI",
-        "title": "PRONUNCIAMENTO DO PRESIDENTE BAP EM DEFESA DOS CLUBES ASSOCIATIVOS. ASSISTA COMPLETO NA FLAMENGO TV!",
+        "title": "Statement by President BAP in defense of association-based clubs. Watch the full video on Flameng...",
         "url": "https://www.youtube.com/shorts/6p-n7Rsr6gI",
         "live_status": null,
         "duration": null,
@@ -75543,7 +75559,7 @@
       },
       {
         "id": "X4Xr8bvyUUY",
-        "title": "ESCOLHA PELA FELICIDADE! #flamengo #flamengotv",
+        "title": "CHOOSE HAPPINESS! #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/X4Xr8bvyUUY",
         "live_status": null,
         "duration": null,
@@ -75559,7 +75575,7 @@
       },
       {
         "id": "B7GHR0YmDYs",
-        "title": "\"SÓ QUEM É RUBRO-NEGRO PODE COMPREENDER\" ❤️🖤 #flamengo #flamengotv",
+        "title": "\"Only a Flamengo fan can understand\" ❤️🖤 #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/B7GHR0YmDYs",
         "live_status": null,
         "duration": null,
@@ -75567,7 +75583,7 @@
       },
       {
         "id": "zD7azG4JxaY",
-        "title": "RONDINELLI CONTA NA RESENHA DO GALINHO COMO VIROU ZAGUEIRO! 🔴⚫ #flamengo #flamengotv",
+        "title": "Rondinelli tells on Galinho's review how he became a defender! 🔴⚫ #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/zD7azG4JxaY",
         "live_status": null,
         "duration": null,
@@ -75623,7 +75639,7 @@
       },
       {
         "id": "DLcFJ_6RE4M",
-        "title": "O FLAMENGO TAMBÉM PRECISA DE VOCÊ, LUCAS PAQUETÁ! AINDA BEM QUE VOLTOU! 🔙 #flamengo #flamengotv",
+        "title": "Flamengo needs you too, Lucas Paquetá! Thank goodness you're back! 🔙 #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/DLcFJ_6RE4M",
         "live_status": null,
         "duration": null,
@@ -75727,7 +75743,7 @@
       },
       {
         "id": "xHyZInV6M2Q",
-        "title": "RESENHA DO GALINHO: RONDINELLI FALA SOBRE FORMAÇÃO DA GERAÇÃO ZICO! 🔴⚫ #flamengo #flamengotv",
+        "title": "RONDINELLI'S REVIEW: RONDINELLI TALKS ABOUT THE FORMATION OF THE ZICO GENERATION! 🔴⚫ #flamengo #f...",
         "url": "https://www.youtube.com/shorts/xHyZInV6M2Q",
         "live_status": null,
         "duration": null,
@@ -75743,7 +75759,7 @@
       },
       {
         "id": "4p8XNZbocvk",
-        "title": "O SONHO DA MEDALHA OLÍMPICA 🥇 #mengocast #flamengo #flamengotv",
+        "title": "The dream of an Olympic medal 🥇 #mengocast #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/4p8XNZbocvk",
         "live_status": null,
         "duration": null,
@@ -75807,7 +75823,7 @@
       },
       {
         "id": "ke7csK_Q7JI",
-        "title": "A HISTÓRIA DE COMO VANGELYS COMEÇOU NO REMO 😂🚣‍♀️ #mengocast #flamengo #flamengotv",
+        "title": "The story of how Vangelys started in rowing 😂🚣‍♀️ #mengocast #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/ke7csK_Q7JI",
         "live_status": null,
         "duration": null,
@@ -76031,7 +76047,7 @@
       },
       {
         "id": "apKqqUvz2ts",
-        "title": "FLAPRESS IS ON AIR WITH EVERYTHING ABOUT THE START OF MENGÃO'S SEASON! #flamengo #flamengotv #fla...",
+        "title": "FLAPRESS NO AR COM TUDO SOBRE O INÍCIO DA TEMPORADA DO MENGÃO! #flamengo #flamengotv #flapress",
         "url": "https://www.youtube.com/shorts/apKqqUvz2ts",
         "live_status": null,
         "duration": null,
@@ -76063,7 +76079,7 @@
       },
       {
         "id": "JFNzG5FrVtc",
-        "title": "GOAL FOR FLAMENGO! 🔴⚫ #flamengo #flamengotv",
+        "title": "¡GOL DEL FLAMENGO! 🔴⚫ #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/JFNzG5FrVtc",
         "live_status": null,
         "duration": null,
@@ -76095,7 +76111,7 @@
       },
       {
         "id": "ii2TK5FGbBc",
-        "title": "NA BUSCA PELO SONHO DA MEDALHA OLÍMPICA 🥋🏅 #mengocast #flamengo #flamengotv",
+        "title": "In pursuit of the Olympic medal dream 🥋🏅 #mengocast #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/ii2TK5FGbBc",
         "live_status": null,
         "duration": null,
@@ -76223,7 +76239,7 @@
       },
       {
         "id": "CJOeNYs_tD8",
-        "title": "I miss a packed Maracanã with the fans singing so much ❤️🖤 #flamengo #flamengotv",
+        "title": "QUE SAUDADE DE UM MARACA LOTADO COM A NAÇÃO CANTANDO ❤️🖤 #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/CJOeNYs_tD8",
         "live_status": null,
         "duration": null,
@@ -76287,7 +76303,7 @@
       },
       {
         "id": "nZBVFdsDdHk",
-        "title": "Flamengo's greatest treasure: its fans ❤️🖤 #flamengo #flamengotv",
+        "title": "O MAIOR TESOURO DO FLAMENGO: A SUA TORCIDA ❤️🖤 #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/nZBVFdsDdHk",
         "live_status": null,
         "duration": null,
@@ -76871,7 +76887,7 @@
       },
       {
         "id": "HPRYmzRhO_c",
-        "title": "#bastidores DA CONQUISTA DO TETRA DA LIBERTADORES 12H NA #flamengotv 📹🔴⚫ #flamengo",
+        "title": "#BehindTheScenes of Winning the Fourth Libertadores Cup 12 PM on #FlamengoTV 📹🔴⚫ #Flamengo",
         "url": "https://www.youtube.com/shorts/HPRYmzRhO_c",
         "live_status": null,
         "duration": null,
@@ -76951,7 +76967,7 @@
       },
       {
         "id": "AQzoQXiCJwM",
-        "title": "FLAPRESS CONTA TUDO SOBRE A CONQUISTA DA LIBERTADORES E EXPECTATIVA PARA O TÍTULO DO BRASILEIRÃO!🏆🔴⚫",
+        "title": "FLAPRESS REPORTS ALL ABOUT WINNING THE LIBERTADORES CUP AND EXPECTATIONS FOR THE BRAZILIAN CHAMPI...",
         "url": "https://www.youtube.com/shorts/AQzoQXiCJwM",
         "live_status": null,
         "duration": null,
@@ -77007,7 +77023,7 @@
       },
       {
         "id": "Ru0RbMRTubI",
-        "title": "RESENHA PRÉ-JOGO COM A TORCIDA QUE É TETRACAMPEÃO! 🔴⚫ #torcida #flamengo #flamengotv",
+        "title": "Pre-game review with the fans who are four-time champions! 🔴⚫ #fans #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/Ru0RbMRTubI",
         "live_status": null,
         "duration": null,
@@ -77015,7 +77031,7 @@
       },
       {
         "id": "CNn28TmKiek",
-        "title": "DÁ-LHE, DÁ-LHE, DÁ-LHE, MENGO! 🎵❤️🖤 #flamengo #flamengotv",
+        "title": "Go Flamengo! 🎵❤️🖤 #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/CNn28TmKiek",
         "live_status": null,
         "duration": null,
@@ -77151,7 +77167,7 @@
       },
       {
         "id": "zslEHVM0dVg",
-        "title": "QUIZ BY @marcovitor15 WITH THE FANS IN LIMA: DID THEY GUESS ALL THE PLAYERS RIGHT? 😂 #flamengo",
+        "title": "QUIZ DO @marcovitor15 COM A TORCIDA EM LIMA: SERÁ QUE ACERTARAM TODOS OS JOGADORES? 😂 #flamengo",
         "url": "https://www.youtube.com/shorts/zslEHVM0dVg",
         "live_status": null,
         "duration": null,
@@ -77183,7 +77199,7 @@
       },
       {
         "id": "au7MlZEmytE",
-        "title": "VAMOS EM BUSCA DA GLÓRIA ETERNA PELA QUARTA VEZ!!! FALTAM 3 DIAS PARA A FINAL DA LIBERTADORES ⏳",
+        "title": "LET'S GO FOR ETERNAL GLORY FOR THE FOURTH TIME!!! 3 DAYS UNTIL THE LIBERTADORES FINAL ⏳",
         "url": "https://www.youtube.com/shorts/au7MlZEmytE",
         "live_status": null,
         "duration": null,
@@ -77263,7 +77279,7 @@
       },
       {
         "id": "jPsRHA6QcMA",
-        "title": "FLAPRESS NA QUARTA POR UM MOTIVO ESPECIAL! DANI BOAVENTURA CONTA TUDO PRA VOCÊS! 🔴⚫ #flapress",
+        "title": "FLAPRESS ON WEDNESDAY FOR A SPECIAL REASON! DANI BOAVENTURA TELLS YOU ALL ABOUT IT! 🔴⚫ #flapress",
         "url": "https://www.youtube.com/shorts/jPsRHA6QcMA",
         "live_status": null,
         "duration": null,
@@ -77271,7 +77287,7 @@
       },
       {
         "id": "F5F-BQDH9-M",
-        "title": "A NOSSA PAIXÃO É O FLAMENGO! FALTAM 4 DIAS PARA A GRANDE FINAL! 🏆🔴⚫ #flamengo #flamengotv",
+        "title": "OUR PASSION IS FLAMENGO! 4 DAYS UNTIL THE GRAND FINAL! 🏆🔴⚫ #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/F5F-BQDH9-M",
         "live_status": null,
         "duration": null,
@@ -77311,7 +77327,7 @@
       },
       {
         "id": "tHJ-UDvBvPg",
-        "title": "6 DIAS! A FINAL TÁ LOGO ALI! 🔴⚫🏆 #flamengo #flamengotv",
+        "title": "6 DAYS! THE FINAL IS JUST AROUND THE CORNER! 🔴⚫🏆 #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/tHJ-UDvBvPg",
         "live_status": null,
         "duration": null,
@@ -77319,7 +77335,7 @@
       },
       {
         "id": "OTXu5uahpS8",
-        "title": "AQUELA RESENHINHA PRÉ-JOGO COM O @marcovitor15 🔴⚫#flamengo #flamengotv",
+        "title": "That pre-game chat with @marcovitor15 🔴⚫ #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/OTXu5uahpS8",
         "live_status": null,
         "duration": null,
@@ -77343,7 +77359,7 @@
       },
       {
         "id": "cgb4v2sho-4",
-        "title": "ETERNO APOLINHO, SÂO JUDAS TADEU NOS GUIOU E TROUXE A VITÓRIA! 🔴⚫ #flamengo #flamengotv",
+        "title": "Eternal Apollo, Saint Jude Thaddeus guided us and brought us victory! 🔴⚫ #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/cgb4v2sho-4",
         "live_status": null,
         "duration": null,
@@ -77407,7 +77423,7 @@
       },
       {
         "id": "jf4NtMIhUqY",
-        "title": "SAÚL CONTA COMO TEM SIDO A CONEXÃO COM A TORCIDA DESDE QUE CHEGOU NO MENGÃO ❤🖤 #mengocast #flamengo",
+        "title": "SAÚL TALKS ABOUT HIS CONNECTION WITH THE FANS SINCE HE ARRIVED AT FLAMENGO ❤🖤 #mengocast #flamengo",
         "url": "https://www.youtube.com/shorts/jf4NtMIhUqY",
         "live_status": null,
         "duration": null,
@@ -77415,7 +77431,7 @@
       },
       {
         "id": "hezjTdTdoc0",
-        "title": "LÉO PEREIRA: VOLANTE ➡ LATERAL ➡ ZAGUEIRO ✅ #resenhadogalinho #flamengo #flamengotv",
+        "title": "LÉO PEREIRA: MIDFIELDER ➡ FULL-BACK ➡ CENTER-BACK ✅ #resenhadogalinho #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/hezjTdTdoc0",
         "live_status": null,
         "duration": null,
@@ -77423,7 +77439,7 @@
       },
       {
         "id": "Ix47zDea_OM",
-        "title": "DIA DA CONSCIÊNCIA NEGRA 🔴⚫ #flamengo #flamengotv",
+        "title": "Black Awareness Day 🔴⚫ #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/Ix47zDea_OM",
         "live_status": null,
         "duration": null,
@@ -77759,7 +77775,7 @@
       },
       {
         "id": "kksgsi2WfPY",
-        "title": "XANDE DE PILARES: SALGUEIRENSE  E FLAMENGUISTA!! #mengocast #flamengo #flamengotv",
+        "title": "XANDE DE PILARES: SALGUEIRENSE AND FLAMENGO FAN!! #mengocast #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/kksgsi2WfPY",
         "live_status": null,
         "duration": null,
@@ -77775,7 +77791,7 @@
       },
       {
         "id": "BKN6juIsl2I",
-        "title": "#mengocast COM JADE BARBOSA DO TIME FLAMENGO 🔴⚫ #flamengo #flamengotv",
+        "title": "#mengocast WITH JADE BARBOSA FROM FLAMENGO TEAM 🔴⚫ #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/BKN6juIsl2I",
         "live_status": null,
         "duration": null,
@@ -77983,7 +77999,7 @@
       },
       {
         "id": "pI6BKc0WUX0",
-        "title": "ARRASCA EXPECTATION FOR THE FLAMENGO x RACING CONFRONTATION IN THE LIBERTADORES SEMIFINAL 🔴⚫",
+        "title": "EXPECTATIVA DO ARRASCA PARA O CONFRONTO FLAMENGO x RACING PELA SEMIFINAL DA LIBERTADORES 🔴⚫",
         "url": "https://www.youtube.com/shorts/pI6BKc0WUX0",
         "live_status": null,
         "duration": null,
@@ -78175,7 +78191,7 @@
       },
       {
         "id": "EC7F-Qjrbto",
-        "title": "MENGOCAST COM MARCELO CAMPOS PINTO, CONSULTOR DO FLAMENGO 🔴⚫ #mengocast #flamengotv #flamengo",
+        "title": "MENGOCAST WITH MARCELO CAMPOS PINTO, FLAMENGO CONSULTANT 🔴⚫ #mengocast #flamengotv #flamengo",
         "url": "https://www.youtube.com/shorts/EC7F-Qjrbto",
         "live_status": null,
         "duration": null,
@@ -78223,7 +78239,7 @@
       },
       {
         "id": "dD9ueG_KwiY",
-        "title": "FÉ NO MENGO! VAI SER NA RAÇA! 🔴⚫ #memengo #flamengotv #flamengo",
+        "title": "FAITH IN MENGO! IT WILL BE BY RACE! 🔴⚫ #memengo #flamengotv #flamengo",
         "url": "https://www.youtube.com/shorts/dD9ueG_KwiY",
         "live_status": null,
         "duration": null,
@@ -78231,7 +78247,7 @@
       },
       {
         "id": "eCtRm_dA298",
-        "title": "MARCELO CAMPOS PINTO EXPLICA QUE CLUBES PODEM VETAR SITUAÇÕES, SEGUNDO O ESTATUTO DA LIBRA.",
+        "title": "MARCELO CAMPOS PINTO EXPLAINS THAT CLUBS CAN VETO SITUATIONS, ACCORDING TO THE LIBRA STATUTE.",
         "url": "https://www.youtube.com/shorts/eCtRm_dA298",
         "live_status": null,
         "duration": null,
@@ -78271,7 +78287,7 @@
       },
       {
         "id": "49NBdmfZee0",
-        "title": "SEXTA COM MENGOCAST! 🔴⚫ NESTA SEXTA (10), ÀS 13H, MARCELO CAMPOS PINTO FALA SOBRE FLAMENGO E LIBRA!",
+        "title": "FRIDAY WITH MENGOCAST! 🔴⚫ THIS FRIDAY (10), AT 1 PM, MARCELO CAMPOS PINTO TALKS ABOUT FLAMENGO AN...",
         "url": "https://www.youtube.com/shorts/49NBdmfZee0",
         "live_status": null,
         "duration": null,
@@ -78311,7 +78327,7 @@
       },
       {
         "id": "q46t4ln8t04",
-        "title": "CONFIRA A APRESENTAÇÃO DO COMPARATIVO ENTRE AS PROPOSTAS PARA A DIVISÃO DAS RECEITAS DE TRANSMISSÃO.",
+        "title": "CHECK OUT THE PRESENTATION OF THE COMPARISON BETWEEN THE PROPOSALS FOR THE DIVISION OF TRANSMISSI...",
         "url": "https://www.youtube.com/shorts/q46t4ln8t04",
         "live_status": null,
         "duration": null,
@@ -78319,7 +78335,7 @@
       },
       {
         "id": "nGpcHAlmSBQ",
-        "title": "QUEM ROSSI E RAUL JÁ ENFRENTARAM EM CAMPO? 🥅🔴⚫ #resenhadogalinho #flamengotv #flamengo",
+        "title": "WHO HAVE ROSSI AND RAUL FACED ON THE FIELD? 🥅🔴⚫ #resenhadogalinho #flamengotv #flamengo",
         "url": "https://www.youtube.com/shorts/nGpcHAlmSBQ",
         "live_status": null,
         "duration": null,
@@ -78343,7 +78359,7 @@
       },
       {
         "id": "Jt3YtPf_t6c",
-        "title": "O SONHO DE CONQUISTAR A LIBERTADORES COM O FLAMENGO ❤️🖤 #mengocast #flamengotv #flamengo",
+        "title": "THE DREAM OF WINNING THE LIBERTADORES WITH FLAMENGO ❤️🖤 #mengocast #flamengotv #flamengo",
         "url": "https://www.youtube.com/shorts/Jt3YtPf_t6c",
         "live_status": null,
         "duration": null,
@@ -78359,7 +78375,7 @@
       },
       {
         "id": "FKCCTXUXQK4",
-        "title": "EMERSON ROYAL FALA SOBRE COMO É TER FILIPE LUÍS COMO TREINADOR 🔴⚫ #mengocast #flamengotv",
+        "title": "EMERSON ROYAL TALKS ABOUT WHAT IT'S LIKE TO HAVE FILIPE LUÍS AS A COACH 🔴⚫ #mengocast #flamengotv",
         "url": "https://www.youtube.com/shorts/FKCCTXUXQK4",
         "live_status": null,
         "duration": null,
@@ -78375,7 +78391,7 @@
       },
       {
         "id": "ng6XOXra8k4",
-        "title": "A LAÍS VASQUES TÁ CONFIANDO DEMAIS! 😂",
+        "title": "LAÍS VASQUES IS BEING TOO TRUSTING! 😂",
         "url": "https://www.youtube.com/shorts/ng6XOXra8k4",
         "live_status": null,
         "duration": null,
@@ -78407,7 +78423,7 @@
       },
       {
         "id": "wNKXcu_iGwc",
-        "title": "ORGULHO DE SER FLAMENGO ❤️🖤 #flamengo #flamengotv #mengocast",
+        "title": "PROUD TO BE FLAMENGO ❤️🖤 #flamengo #flamengotv #mengocast",
         "url": "https://www.youtube.com/shorts/wNKXcu_iGwc",
         "live_status": null,
         "duration": null,
@@ -78415,7 +78431,7 @@
       },
       {
         "id": "9yzFusnnceI",
-        "title": "CONTINUAR TRABALHANDO E DEMONSTRANDO CONFIANÇA DENTRO DE CAMPO 💪🔴⚫ #treino #flamengo #flamengotv",
+        "title": "KEEP WORKING AND SHOWING CONFIDENCE ON THE FIELD 💪🔴⚫ #training #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/9yzFusnnceI",
         "live_status": null,
         "duration": null,
@@ -78431,7 +78447,7 @@
       },
       {
         "id": "QXZfO4oKGIM",
-        "title": "1 ANO DE FILIPE LUÍS NO FLAMENGO! ❤️🖤 #flamengo #flamengotv",
+        "title": "1 YEAR OF FILIPE LUÍS AT FLAMENGO! ❤️🖤 #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/QXZfO4oKGIM",
         "live_status": null,
         "duration": null,
@@ -78447,7 +78463,7 @@
       },
       {
         "id": "Si4iW0GC2D4",
-        "title": "PÓS-JOGO CONTRA O GRÊMIO ERA DM NA CERTA 😂 #flamengo #flamengotv #mengocast",
+        "title": "POST-GAME AGAINST GRÊMIO IT WAS DEFINITELY A DM 😂 #flamengo #flamengotv #mengocast",
         "url": "https://www.youtube.com/shorts/Si4iW0GC2D4",
         "live_status": null,
         "duration": null,
@@ -78479,7 +78495,7 @@
       },
       {
         "id": "-FK00muCprI",
-        "title": "ISAQUIAS CONTA UM POUCO DE SUA ROTINA, DA SUA HISTÓRIA NO ESPORTE E DOS SEUS PROJETOS PARA O FUTURO!",
+        "title": "ISAQUIAS TELLS US A LITTLE ABOUT HIS ROUTINE, HIS HISTORY IN SPORTS AND HIS PROJECTS FOR THE FUTURE!",
         "url": "https://www.youtube.com/shorts/-FK00muCprI",
         "live_status": null,
         "duration": null,
@@ -78487,7 +78503,7 @@
       },
       {
         "id": "horMdmGyCjs",
-        "title": "MELHORES JOGOS DO SÁVIO VESTINDO O MANTO SAGRADO ❤️🖤 #flamengo #flamengotv #mengocast",
+        "title": "BEST GAMES OF SÁVIO WEARING THE SACRED MANTLE ❤️🖤 #flamengo #flamengotv #mengocast",
         "url": "https://www.youtube.com/shorts/horMdmGyCjs",
         "live_status": null,
         "duration": null,
@@ -78503,7 +78519,7 @@
       },
       {
         "id": "Qscn4muoZcU",
-        "title": "SÁVIO CONTA COMO ERA ESTAR EM CAMPO COM ROMÁRIO ⚽🔴⚫ #flamengo #flamengotv #mengocast",
+        "title": "SÁVIO TELLS WHAT IT WAS LIKE TO BE ON THE FIELD WITH ROMÁRIO ⚽🔴⚫ #flamengo #flamengotv #mengocast",
         "url": "https://www.youtube.com/shorts/Qscn4muoZcU",
         "live_status": null,
         "duration": null,
@@ -78599,7 +78615,7 @@
       },
       {
         "id": "_liTPB0ypG0",
-        "title": "FÉ NO MENGO ❤🖤 #flamengo #flamengotv",
+        "title": "FAITH IN MENGO ❤🖤 #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/_liTPB0ypG0",
         "live_status": null,
         "duration": null,
@@ -78615,7 +78631,7 @@
       },
       {
         "id": "poKH3lZKYpA",
-        "title": "A HISTÓRIA DE AGUSTÍN ROSSI 🥅🔴⚫ #flamengo #flamengotv",
+        "title": "THE STORY OF AGUSTIN ROSSI 🥅🔴⚫ #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/poKH3lZKYpA",
         "live_status": null,
         "duration": null,
@@ -78623,7 +78639,7 @@
       },
       {
         "id": "5lQSoToM1q0",
-        "title": "Peçanha esteve no Maraca cobrando a Nação.Acesse peticao.flamengo.com.br e assine! #NacaoNaONU",
+        "title": "Peçanha was at Maraca demanding the Nation. Visit peticao.flamengo.com.br and sign! #NacaoNaONU",
         "url": "https://www.youtube.com/shorts/5lQSoToM1q0",
         "live_status": null,
         "duration": null,
@@ -78687,7 +78703,7 @@
       },
       {
         "id": "fVtigUfpvrw",
-        "title": "Nosso Rei está nos convocando nessa missão! Acesse peticao.flamengo.com.br e assine! #NacaoNaONU",
+        "title": "Our King is calling us to this mission! Visit peticao.flamengo.com.br and sign! #NacaoNaONU",
         "url": "https://www.youtube.com/shorts/fVtigUfpvrw",
         "live_status": null,
         "duration": null,
@@ -78927,7 +78943,7 @@
       },
       {
         "id": "2O6HHzLB2ms",
-        "title": "O #flabasquete EMBARCANDO PARA SINGAPURA PARA DISPUTAR A COPA INTERCONTINENTAL DE BASQUETE 🏀🔴⚫",
+        "title": "#flabasquete LEAVING FOR SINGAPORE TO COMPETE IN THE INTERCONTINENTAL BASKETBALL CUP 🏀🔴⚫",
         "url": "https://www.youtube.com/shorts/2O6HHzLB2ms",
         "live_status": null,
         "duration": null,
@@ -78967,7 +78983,7 @@
       },
       {
         "id": "DcA07I_1IxM",
-        "title": "A força da Nação! ❤️🖤 Acesse peticao.flamengo.com.br e assine! #NacaoNaONU",
+        "title": "The strength of the Nation! ❤️🖤 Visit peticao.flamengo.com.br and sign! #NacaoNaONU",
         "url": "https://www.youtube.com/shorts/DcA07I_1IxM",
         "live_status": null,
         "duration": null,
@@ -79015,7 +79031,7 @@
       },
       {
         "id": "h6s8zE6b4j0",
-        "title": "VICTORIA STADLER DO NOSSO TIME DE VÔLEI É MENGÃO DESDE PEQUENINHA ❤🖤 #resenhadogalinho #flamengo",
+        "title": "VICTORIA STADLER FROM OUR VOLLEYBALL TEAM HAS BEEN A MENGÃO SINCE SHE WAS LITTLE ❤🖤 #resenhadogal...",
         "url": "https://www.youtube.com/shorts/h6s8zE6b4j0",
         "live_status": null,
         "duration": null,
@@ -79047,7 +79063,7 @@
       },
       {
         "id": "Fjx0dnTh1Fw",
-        "title": "O Jorginho já assinou, só falta você! Acesse peticao.flamengo.com.br e assine a petição #NacaoNaONU",
+        "title": "Jorginho has already signed, all that's missing is you! Visit peticao.flamengo.com.br and sign th...",
         "url": "https://www.youtube.com/shorts/Fjx0dnTh1Fw",
         "live_status": null,
         "duration": null,
@@ -79103,7 +79119,7 @@
       },
       {
         "id": "M_o_kNdOvxY",
-        "title": "RAÇA, ENTREGA E RESPONSABILIDADE COM O MANTO ❤🖤 #flamengo #mengocast",
+        "title": "RACE, DELIVERY AND RESPONSIBILITY WITH THE MANTLE ❤🖤 #flamengo #mengocast",
         "url": "https://www.youtube.com/shorts/M_o_kNdOvxY",
         "live_status": null,
         "duration": null,
@@ -79143,7 +79159,7 @@
       },
       {
         "id": "OA9W4m3R3vQ",
-        "title": "CONSELHO QUE ATHIRSON RECEBEU DO ZICO 😉🔴⚫ #flamengo #flamengotv #mengocast",
+        "title": "ADVICE ATHIRSON RECEIVED FROM ZICO 😉🔴⚫ #flamengo #flamengotv #mengocast",
         "url": "https://www.youtube.com/shorts/OA9W4m3R3vQ",
         "live_status": null,
         "duration": null,
@@ -79167,7 +79183,7 @@
       },
       {
         "id": "Wgy4zFVjKrI",
-        "title": "MENGÃO CAMPEÃO DO BRASILEIRO DE GINÁSTICA ARTÍSTICA POR EQUIPE! PARABÉNS, MENINAS! 💪❤🖤🤸‍♀",
+        "title": "MENGÃO BRAZILIAN ARTISTIC GYMNASTICS TEAM CHAMPIONSHIP! CONGRATULATIONS, GIRLS! 💪❤🖤🤸‍♀",
         "url": "https://www.youtube.com/shorts/Wgy4zFVjKrI",
         "live_status": null,
         "duration": null,
@@ -79175,7 +79191,7 @@
       },
       {
         "id": "6eore54rDLI",
-        "title": "PARTIU MUNDIAL! DIZ AÍ, NAÇÃO: QUEM VOCÊS GOSTARIAM (OU NÃO) DE VIAJAR DO LADO PRA ESPANHA 😂",
+        "title": "IT'S OFF TO THE WORLD! TELL ME, NATION: WHO WOULD YOU LIKE (OR WOULDN'T) TO TRAVEL TO SPAIN NEXT ...",
         "url": "https://www.youtube.com/shorts/6eore54rDLI",
         "live_status": null,
         "duration": null,
@@ -79183,7 +79199,7 @@
       },
       {
         "id": "tP8Gpa97J0U",
-        "title": "\"ASSIM VOCÊ VAI PRA SELEÇÃO BRASILEIRA\" HISTÓRIA DE ATHIRSON E ROMÁRIO 😂🔴⚫",
+        "title": "\"THIS IS HOW YOU'LL GO TO THE BRAZILIAN NATIONAL TEAM\" STORY OF ATHIRSON AND ROMÁRIO 😂🔴⚫",
         "url": "https://www.youtube.com/shorts/tP8Gpa97J0U",
         "live_status": null,
         "duration": null,
@@ -79199,7 +79215,7 @@
       },
       {
         "id": "DP3kDlNMdwE",
-        "title": "JÁ PENSOU ATHIRSON E ARRASCAETA JOGANDO JUNTOS? 🤯🔴⚫ #flamengo #flamengotv #mengocast",
+        "title": "HAVE YOU EVER THOUGHT ABOUT ATHIRSON AND ARRASCAETA PLAYING TOGETHER? 🤯🔴⚫ #flamengo #flamengotv #...",
         "url": "https://www.youtube.com/shorts/DP3kDlNMdwE",
         "live_status": null,
         "duration": null,
@@ -79215,7 +79231,7 @@
       },
       {
         "id": "3al7CRbsgxM",
-        "title": "POR DENTRO DO NINHO MOSTRANDO UM POUCO MAIS DA PARTE DE HOTELARIA E RECREAÇÃO DO NOSSO CT 🔴⚫",
+        "title": "INSIDE THE NEST SHOWING A LITTLE MORE OF THE HOTEL AND RECREATION PART OF OUR CT 🔴⚫",
         "url": "https://www.youtube.com/shorts/3al7CRbsgxM",
         "live_status": null,
         "duration": null,
@@ -79247,7 +79263,7 @@
       },
       {
         "id": "Rc_xOLQQIEM",
-        "title": "UMA CARREIRA GIGANTE! UMA ATLETA GIGANTE! VOCÊ É UM FENÔMENO, RAFA SILVA! 🥋❤🖤 #timeflamengo",
+        "title": "A GIANT CAREER! A GIANT ATHLETE! YOU ARE A PHENOMENON, RAFA SILVA! 🥋❤🖤 #timeflamengo",
         "url": "https://www.youtube.com/shorts/Rc_xOLQQIEM",
         "live_status": null,
         "duration": null,
@@ -79255,7 +79271,7 @@
       },
       {
         "id": "oUMi4Io5_LQ",
-        "title": "''TEM FLAMENGUISTA EM TODO LUGAR'' ❤🖤 #flamengo #mengocast",
+        "title": "\"THERE ARE FLAMENGO FANS EVERYWHERE\" ❤🖤 #flamengo #mengocast",
         "url": "https://www.youtube.com/shorts/oUMi4Io5_LQ",
         "live_status": null,
         "duration": null,
@@ -79359,7 +79375,7 @@
       },
       {
         "id": "qv4_F-oxtYk",
-        "title": "FILIPE LUÍS TELLS HOW HIS ARRIVAL AT MENGÃO WAS! ❤🖤 #flamengo #flamengotv #resenhadogalinho",
+        "title": "FILIPE LUÍS CONTA COMO FOI SUA CHEGADA NO MENGÃO! ❤🖤 #flamengo #flamengotv #resenhadogalinho",
         "url": "https://www.youtube.com/shorts/qv4_F-oxtYk",
         "live_status": null,
         "duration": null,
@@ -79367,7 +79383,7 @@
       },
       {
         "id": "YODNjRwq9g4",
-        "title": "HONRAR O MANTO É O PRINCIPAL DENTRO DE CAMPO! 🔴⚫ #flamengo #flamengotv #resenhadogalinho",
+        "title": "HONORING THE MANTLE IS THE MAIN THING ON THE FIELD! 🔴⚫ #flamengo #flamengotv #resenhadogalinho",
         "url": "https://www.youtube.com/shorts/YODNjRwq9g4",
         "live_status": null,
         "duration": null,
@@ -79431,7 +79447,7 @@
       },
       {
         "id": "TjGTfgOxzoE",
-        "title": "FLAMENGO CANNOT HAVE AN OWNER 🔴⚫ #flamengo #mengocast #flamengotv",
+        "title": "O FLAMENGO NÃO PODE TER DONO 🔴⚫ #flamengo #mengocast #flamengotv",
         "url": "https://www.youtube.com/shorts/TjGTfgOxzoE",
         "live_status": null,
         "duration": null,
@@ -79447,7 +79463,7 @@
       },
       {
         "id": "-HhHDBF5YLo",
-        "title": "ROSSI E SAMUEL LINO CONTAM COM A NAÇÃO PARA GARANTIR MAIS TRÊS PONTOS NO BRASILEIRÃO",
+        "title": "ROSSI AND SAMUEL LINO COUNT ON THE NATION TO GUARANTEE THREE MORE POINTS IN THE BRAZILIAN CHAMPIO...",
         "url": "https://www.youtube.com/shorts/-HhHDBF5YLo",
         "live_status": null,
         "duration": null,
@@ -79463,7 +79479,7 @@
       },
       {
         "id": "15NFuvZpxBA",
-        "title": "COMEMOREM, CRIASSS!! É BICAMPEÃO MUNDIALLL! 🔴⚫ #flamengo #flamengotv #garotosdoninho",
+        "title": "CELEBRATE, CHILDREN!! IT'S A TWO-TIME WORLD CHAMPIONSHIP! 🔴⚫ #flamengo #flamengotv #garotosdoninho",
         "url": "https://www.youtube.com/shorts/15NFuvZpxBA",
         "live_status": null,
         "duration": null,
@@ -79583,7 +79599,7 @@
       },
       {
         "id": "2qqmNn_k8jI",
-        "title": "SAMANTHA, VOCÊ É UMA VENCEDORA! ORGULHO GIGANTE TE VER REPRESENTANDO O MAIS QUERIDO DO MUNDO! 🔴⚫",
+        "title": "SAMANTHA, YOU ARE A WINNER! I'M SO PROUD TO SEE YOU REPRESENTING THE MOST LOVED IN THE WORLD! 🔴⚫",
         "url": "https://www.youtube.com/shorts/2qqmNn_k8jI",
         "live_status": null,
         "duration": null,
@@ -79751,7 +79767,7 @@
       },
       {
         "id": "pqUn_dt-BHo",
-        "title": "NAÇÃO, VEM DESCOBRIR COMO CHEGAR NO ESTACIONAMENTO DO MARACA EM DIA DE JOGO  🅿🔴⚫ #flamengo",
+        "title": "NATION, COME DISCOVER HOW TO GET TO THE MARACANÃ PARKING LOT ON GAME DAY 🅿🔴⚫ #flamengo",
         "url": "https://www.youtube.com/shorts/pqUn_dt-BHo",
         "live_status": null,
         "duration": null,
@@ -79759,7 +79775,7 @@
       },
       {
         "id": "NcE-uhK5keY",
-        "title": "REBECA ANDRADE É DIFERENCIADA ✨🤸‍♀️🏅 #flamengo #olímpicos #timeflamengo",
+        "title": "REBECA ANDRADE IS EXCEPTIONAL ✨🤸‍♀️🏅 #flamengo #olympics #teamflamengo",
         "url": "https://www.youtube.com/shorts/NcE-uhK5keY",
         "live_status": null,
         "duration": null,
@@ -80063,7 +80079,7 @@
       },
       {
         "id": "JH7Nugs_OGw",
-        "title": "MENGOCAST ESPECIAL: O FLAMENGO NASCEU MESMO EM 2019? #flamengo #mengocast #patrimoniooriginaldanacao",
+        "title": "MENGOCAST SPECIAL: WAS FLAMENGO REALLY BORN IN 2019? #flamengo #mengocast #originalheritageofthen...",
         "url": "https://www.youtube.com/shorts/JH7Nugs_OGw",
         "live_status": null,
         "duration": null,
@@ -81703,7 +81719,7 @@
       },
       {
         "id": "UNf7q3KY04s",
-        "title": "INTRUDER AT FLAMENGO?! THE BEST SELECTION OF FLAMENGO MEMES IS ON AIR! #flamengo #flamengotv",
+        "title": "INTRUSO NO MEMENGO?! A MELHOR SELEÇÃO DE MEMES RUBRO-NEGROS TÁ NO AR!  #flamengo #flamengotv",
         "url": "https://www.youtube.com/shorts/UNf7q3KY04s",
         "live_status": null,
         "duration": null,
@@ -81895,7 +81911,7 @@
       },
       {
         "id": "VTHP1JMMD_w",
-        "title": "THE HARDEST MOMENT OF CEBOLINHA'S LIFE! #flamengo #flamengotv #soccer",
+        "title": "O MOMENTO MAIS DIFÍCIL DA VIDA DO CEBOLINHA!  #flamengo #flamengotv #futebol",
         "url": "https://www.youtube.com/shorts/VTHP1JMMD_w",
         "live_status": null,
         "duration": null,
@@ -81967,7 +81983,7 @@
       },
       {
         "id": "NdU3pC0Fn1M",
-        "title": "O JOGO DE DESPEDIDA ♥️🖤  #flamengo",
+        "title": "THE FAREWELL MATCH ♥️🖤 #flamengo",
         "url": "https://www.youtube.com/shorts/NdU3pC0Fn1M",
         "live_status": null,
         "duration": null,
@@ -82103,7 +82119,7 @@
       },
       {
         "id": "5smh7tQmKC4",
-        "title": "ZICO EM TEMPOS DE SELEÇÃO BRASILEIRA ⚽⚽",
+        "title": "ZICO DURING HIS TIME WITH THE BRAZILIAN NATIONAL TEAM ⚽⚽",
         "url": "https://www.youtube.com/shorts/5smh7tQmKC4",
         "live_status": null,
         "duration": null,
@@ -82207,7 +82223,7 @@
       },
       {
         "id": "kJTfzfuyjho",
-        "title": "📺🔴⚫ #FLAMENGO BROADCASTS ITS GAMES ABROAD!",
+        "title": "📺🔴⚫ #FLAMENGO TRANSMITE SEUS JOGOS PARA O EXTERIOR!",
         "url": "https://www.youtube.com/shorts/kJTfzfuyjho",
         "live_status": null,
         "duration": null,
@@ -83111,7 +83127,7 @@
       },
       {
         "id": "LqlyWLlRDvs",
-        "title": "Botafogo 1-2 Flamengo - Carioca Women's Championship - Semifinal - Second Leg | 2-1 - Crivelari",
+        "title": "Botafogo 1x2 Flamengo - Campeonato Carioca Feminino - Semifinal - Jogo de volta | 2x1 - Crivelari",
         "url": "https://www.youtube.com/shorts/LqlyWLlRDvs",
         "live_status": null,
         "duration": null,
@@ -83151,7 +83167,7 @@
       },
       {
         "id": "BJjSzAifFnA",
-        "title": "David Luiz talks about the experience of being coached by Filipe Luís. #flatv #flamengo",
+        "title": "David Luiz falou sobre a experiência de ser treinado pelo técnico Filipe Luís.  #flatv #flamengo",
         "url": "https://www.youtube.com/shorts/BJjSzAifFnA",
         "live_status": null,
         "duration": null,
@@ -83255,7 +83271,7 @@
       },
       {
         "id": "TE0CIwkyI1E",
-        "title": "Petkovic falou sobre a relevância do #Flamengo na carreira dele no programa Lance Livre da #FlaTV",
+        "title": "Petkovic talked about the relevance of #Flamengo in his career on the #FlaTV program Lance Livre",
         "url": "https://www.youtube.com/shorts/TE0CIwkyI1E",
         "live_status": null,
         "duration": null,
@@ -83351,7 +83367,7 @@
       },
       {
         "id": "h7m9KXQhTCg",
-        "title": "Flamengo 4x2 Juventude - Campeonato Brasileiro | 4x2 - Plata",
+        "title": "Flamengo 4x2 Juventude - Brazilian Championship | 4x2 - Silver",
         "url": "https://www.youtube.com/shorts/h7m9KXQhTCg",
         "live_status": null,
         "duration": null,
@@ -83511,7 +83527,7 @@
       },
       {
         "id": "uBsu17er_Cs",
-        "title": "Flamengo 2x1 Fluminense  - Campeonato Carioca Feminino | 2x0 - Djeni",
+        "title": "Flamengo 2-1 Fluminense - Women's Carioca Championship | 2-0 - Djeni",
         "url": "https://www.youtube.com/shorts/uBsu17er_Cs",
         "live_status": null,
         "duration": null,
@@ -83527,7 +83543,7 @@
       },
       {
         "id": "AYGHATq3xjI",
-        "title": "Flamengo 1x0 Portuguesa - Sub-16 | 0x1- Diego #gols  #flamengo",
+        "title": "Flamengo 1-0 Portuguesa - U-16 | 1-0 Diego #goals #flamengo",
         "url": "https://www.youtube.com/shorts/AYGHATq3xjI",
         "live_status": null,
         "duration": null,
@@ -84295,7 +84311,7 @@
       },
       {
         "id": "Og_s5ItAA_Q",
-        "title": "Flamengo 5-0 Madureira | U-15 - 3-0 - Luiz Guilherme #goals #flamengo #youthacademy",
+        "title": "Flamengo 5x0 Madureira | Sub-15 - 3x0 - Luiz Guilherme #gols #flamengo #base",
         "url": "https://www.youtube.com/shorts/Og_s5ItAA_Q",
         "live_status": null,
         "duration": null,
@@ -85551,7 +85567,7 @@
       },
       {
         "id": "CZ1gfO6peYQ",
-        "title": "Flamengo 2-0 São Paulo | Second goal - Ingrid #Brasileirão #U20 #WomensSoccer #flatv #fla #goals",
+        "title": "Flamengo 2x0 São Paulo | segundo gol - Ingrid #Brasileirão #Sub-20 #Feminino #flatv #fla #gols",
         "url": "https://www.youtube.com/shorts/CZ1gfO6peYQ",
         "live_status": null,
         "duration": null,
@@ -86351,7 +86367,7 @@
       },
       {
         "id": "eLbQSew4zEk",
-        "title": "Confira o gol do Bruno Henrique na vitória do Flamengo sobre o Vasco pelo Campeonato Brasileiro",
+        "title": "Check out Bruno Henrique's goal in Flamengo's win over Vasco in the Brasileiro Championship",
         "url": "https://www.youtube.com/shorts/eLbQSew4zEk",
         "live_status": null,
         "duration": null,
@@ -86879,7 +86895,7 @@
       },
       {
         "id": "Gv0xeZukwTY",
-        "title": "Veja o primeiro gol do Mengão na vitória por 4 a 0 contra o Bolívar, pela Conmebol Libertadores 2024",
+        "title": "Watch Mengão's first goal in the 4-0 victory against Bolívar, in the Conmebol Libertadores 2024",
         "url": "https://www.youtube.com/shorts/Gv0xeZukwTY",
         "live_status": null,
         "duration": null,
@@ -87127,7 +87143,7 @@
       },
       {
         "id": "tzp4Xju1NX4",
-        "title": "Saiba como surgiu o apelido “Deus da Raça” do zagueiro Rondinelli. Veja em http://flatvmais.com.br",
+        "title": "Learn how defender Rondinelli earned the nickname \"God of the Race.\" See it at http://flatvmais.c...",
         "url": "https://www.youtube.com/shorts/tzp4Xju1NX4",
         "live_status": null,
         "duration": null,
@@ -87151,7 +87167,7 @@
       },
       {
         "id": "Djc2a7vUAFY",
-        "title": "O Especial \"Rondinelli - 70 anos do Deus da Raça\" já está disponível na #FlaTV+.",
+        "title": "The \"Rondinelli - 70 years of the God of Grit\" special is now available on #FlaTV+.",
         "url": "https://www.youtube.com/shorts/Djc2a7vUAFY",
         "live_status": null,
         "duration": null,
@@ -87199,7 +87215,7 @@
       },
       {
         "id": "4bXyOgt1638",
-        "title": "O técnico Filipe Luís cobra muito o comportamento dos seus atletas #GarotosdoNinho",
+        "title": "Coach Filipe Luís demands high standards of behavior from his players #GarotosdoNinho",
         "url": "https://www.youtube.com/shorts/4bXyOgt1638",
         "live_status": null,
         "duration": null,
@@ -88007,7 +88023,7 @@
       },
       {
         "id": "vFGBzhXMxQM",
-        "title": "Watch Flamengo's second goal in the win against Fluminense in the first leg of the Carioca Semi-f...",
+        "title": "Veja o segundo gol do Flamengo na vitória sobre o Fluminense pelo primeiro  jogo da Semi do Carioca",
         "url": "https://www.youtube.com/shorts/vFGBzhXMxQM",
         "live_status": null,
         "duration": null,
@@ -88567,7 +88583,7 @@
       },
       {
         "id": "XF1GzF8tdO8",
-        "title": "O uruguaio Matías Viña não escondeu a ansiedade para estrear com o Manto Sagrado",
+        "title": "Uruguayan Matías Viña makes no secret of his excitement to debut in the sacred jersey",
         "url": "https://www.youtube.com/shorts/XF1GzF8tdO8",
         "live_status": null,
         "duration": null,
@@ -90679,7 +90695,7 @@
       },
       {
         "id": "K7oRURmvN7A",
-        "title": "Nosso novo reforço do #FlaBasquete, Didi Louzada, está no Perfil FlaTV #crf #flatv #flamengo",
+        "title": "Our new #FlaBasquete signing, Didi Louzada, is on FlaTV Profile #crf #flatv #flamengo",
         "url": "https://www.youtube.com/shorts/K7oRURmvN7A",
         "live_status": null,
         "duration": null,
@@ -91335,7 +91351,7 @@
       },
       {
         "id": "sfIp5xBc8qM",
-        "title": "Confira o \"Meninas da Gávea\" com Celso Silva, técnico do sub-20 feminino",
+        "title": "Check out \"Meninas da Gávea\" with Celso Silva, coach of the women's under-20 team.",
         "url": "https://www.youtube.com/shorts/sfIp5xBc8qM",
         "live_status": null,
         "duration": null,
@@ -91551,7 +91567,7 @@
       },
       {
         "id": "IkJpb2-IFGA",
-        "title": "Você sabia que a dupla Claudinho e Buchecha tem uma música dedicada ao #Flamengo?",
+        "title": "Did you know the duo Claudinho e Buchecha has a song dedicated to #Flamengo?",
         "url": "https://www.youtube.com/shorts/IkJpb2-IFGA",
         "live_status": null,
         "duration": null,
@@ -92711,7 +92727,7 @@
       },
       {
         "id": "tRUNm-gRD0I",
-        "title": "Our homegrown talent, Victor Hugo, points out, for those who don't know, that he is not a defensi...",
+        "title": "Nosso Cria, Victor Hugo, alerta, para quem não sabe, que ele não é Volante.",
         "url": "https://www.youtube.com/shorts/tRUNm-gRD0I",
         "live_status": null,
         "duration": null,
@@ -92719,7 +92735,7 @@
       },
       {
         "id": "rW4_W9xlSA4",
-        "title": "Watch Louvain's amazing goal in Flamengo's victory in the Brasileirão U-20 Feminino.",
+        "title": "Veja o golaço da Louvain na vitória do Flamengo no Brasileirão Sub-20 Feminino.",
         "url": "https://www.youtube.com/shorts/rW4_W9xlSA4",
         "live_status": null,
         "duration": null,
@@ -92767,7 +92783,7 @@
       },
       {
         "id": "O-ymJsA9CgM",
-        "title": "Athirson comments on the advice he received from Frenchman Zinedine Zidane.",
+        "title": "Athirson comenta o conselho que recebeu do francês Zinedine Zidane",
         "url": "https://www.youtube.com/shorts/O-ymJsA9CgM",
         "live_status": null,
         "duration": null,
@@ -92807,7 +92823,7 @@
       },
       {
         "id": "1Awa_KDn8wE",
-        "title": "Check out Marcos's goal in the Garotos do Ninho U-15 victory",
+        "title": "Confira o gol de Marcos na vitória dos Garotos do Ninho Sub-15",
         "url": "https://www.youtube.com/shorts/1Awa_KDn8wE",
         "live_status": null,
         "duration": null,
@@ -94607,6 +94623,14 @@
       }
     ],
     "streams": [
+      {
+        "id": "2RFADXlBiCI",
+        "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 13/10/26",
+        "url": "https://www.youtube.com/watch?v=2RFADXlBiCI",
+        "live_status": "is_upcoming",
+        "duration": null,
+        "thumbnail": null
+      },
       {
         "id": "aFhr0As0Gjk",
         "title": "🔴 AO VIVO: FLAMENGO x FLUMINENSE | COM IMAGENS E NARRAÇÃO EM PORTUGUÊS | BRASILEIRÃO (11/10/26)",
@@ -97921,7 +97945,7 @@
       },
       {
         "id": "Irf6ErKmbK8",
-        "title": "🔴  AO VIVO: FLABASQUETE | COLETIVA PRÉ-JOGO | FINAL FOUR BCLA (17/04/25)",
+        "title": "🔴 LIVE: FLABASQUETE | PRE-GAME PRESS CONFERENCE | BCLA FINAL FOUR (04/17/25)",
         "url": "https://www.youtube.com/watch?v=Irf6ErKmbK8",
         "live_status": "was_live",
         "duration": 1831,
@@ -98609,7 +98633,7 @@
       },
       {
         "id": "uqzgcixVzj0",
-        "title": "Arrascaeta Press Conference | Live - 01/17",
+        "title": "Coletiva com Arrascaeta | Ao vivo - 17/01",
         "url": "https://www.youtube.com/watch?v=uqzgcixVzj0",
         "live_status": "was_live",
         "duration": 1700,
@@ -98657,7 +98681,7 @@
       },
       {
         "id": "4BRLztKMLJQ",
-        "title": "Coletiva com Michael | Ao vivo - 15/01",
+        "title": "Press Conference with Michael | Live - 01/15",
         "url": "https://www.youtube.com/watch?v=4BRLztKMLJQ",
         "live_status": "was_live",
         "duration": 3866,
@@ -98961,7 +98985,7 @@
       },
       {
         "id": "1EtcxuCIkkQ",
-        "title": "Flamengo Adidas Cup U-16 | São Paulo vs. Midtjylland - LIVE - 12/10",
+        "title": "Flamengo Adidas Cup Sub-16 | São Paulo x Midtjylland - AO VIVO - 10/12",
         "url": "https://www.youtube.com/watch?v=1EtcxuCIkkQ",
         "live_status": "was_live",
         "duration": 6854,
@@ -99337,7 +99361,7 @@
       },
       {
         "id": "BJ_IF8z6qGk",
-        "title": "Resenha do Jogo com Rossi | AO VIVO - 12/11",
+        "title": "Post-Match Review with Rossi | LIVE - 11/12",
         "url": "https://www.youtube.com/watch?v=BJ_IF8z6qGk",
         "live_status": "was_live",
         "duration": 1678,
@@ -99529,7 +99553,7 @@
       },
       {
         "id": "LIpugyMkvBo",
-        "title": "Resenha do Jogo com Gonzalo Plata | AO VIVO - 28/10",
+        "title": "Post-Match Review with Gonzalo Plata | LIVE - 10/28",
         "url": "https://www.youtube.com/watch?v=LIpugyMkvBo",
         "live_status": "was_live",
         "duration": 1205,
@@ -100233,7 +100257,7 @@
       },
       {
         "id": "XDKlNnuzAPI",
-        "title": "Resenha do Jogo com Bruno Henrique | AO VIVO - 30/08",
+        "title": "Game Review with Bruno Henrique | LIVE - 08/30",
         "url": "https://www.youtube.com/watch?v=XDKlNnuzAPI",
         "live_status": "was_live",
         "duration": 1870,
@@ -100289,7 +100313,7 @@
       },
       {
         "id": "FTMBXMOlSno",
-        "title": "Resenha do Jogo com Michael | 26/08",
+        "title": "Game Review with Michael | 08/26",
         "url": "https://www.youtube.com/watch?v=FTMBXMOlSno",
         "live_status": "was_live",
         "duration": 1645,
@@ -100569,7 +100593,7 @@
       },
       {
         "id": "KWrPS0VSP6s",
-        "title": "Resenha do Jogo com Arrascaeta | 01/08",
+        "title": "Review of the match with Arrascaeta | 01/08",
         "url": "https://www.youtube.com/watch?v=KWrPS0VSP6s",
         "live_status": "was_live",
         "duration": 1082,
@@ -101001,7 +101025,7 @@
       },
       {
         "id": "iwt8KlViNS0",
-        "title": "Resenha do Jogo com Pedro | AO VIVO - 24/06",
+        "title": "Game Review with Pedro | LIVE - 06/24",
         "url": "https://www.youtube.com/watch?v=iwt8KlViNS0",
         "live_status": "was_live",
         "duration": 1290,
@@ -101545,7 +101569,7 @@
       },
       {
         "id": "FAEwKh6B1t4",
-        "title": "Flamengo's Youth Team | Fabiano Médici and Pedro Menezes - LIVE - 06/05",
+        "title": "Garotos do Ninho | Fabiano Médici e Pedro Menezes - AO VIVO - 06/05",
         "url": "https://www.youtube.com/watch?v=FAEwKh6B1t4",
         "live_status": "was_live",
         "duration": 3845,
@@ -102897,7 +102921,7 @@
       },
       {
         "id": "7Drx12ORFq4",
-        "title": "Liga Nacional de Polo Aquático - Final Feminina | Flamengo x Pinheiros - AO VIVO",
+        "title": "Women's National Water Polo League - Final | Flamengo vs. Pinheiros - LIVE",
         "url": "https://www.youtube.com/watch?v=7Drx12ORFq4",
         "live_status": "was_live",
         "duration": 5026,
@@ -103073,7 +103097,7 @@
       },
       {
         "id": "Dy1UFfDsXrc",
-        "title": "Boys from the Ninho (Flamengo's training center) with Hélio Fleischhauer (PDI Coordinator)",
+        "title": "Garotos do Ninho com Hélio Fleischhauer (Coordenador do PDI)",
         "url": "https://www.youtube.com/watch?v=Dy1UFfDsXrc",
         "live_status": "was_live",
         "duration": 3000,
@@ -103177,7 +103201,7 @@
       },
       {
         "id": "X07Oby-yJYk",
-        "title": "Meninas da Gávea | Catarina Garcia (Doctor) and Letícia Ribas (Physical Therapist)",
+        "title": "Meninas da Gávea | Catarina Garcia (Médica) e Letícia Ribas (Fisioterapeuta)",
         "url": "https://www.youtube.com/watch?v=X07Oby-yJYk",
         "live_status": "was_live",
         "duration": 6771,
@@ -103785,7 +103809,7 @@
       },
       {
         "id": "O7NvyuB_fwY",
-        "title": "Teqball Tour Rio de Janeiro - Quarter-finals | Men's Doubles",
+        "title": "Teqball Tour Rio de Janeiro - Quartas de Final | Duplas Masculinas",
         "url": "https://www.youtube.com/watch?v=O7NvyuB_fwY",
         "live_status": "was_live",
         "duration": 3296,
@@ -103921,7 +103945,7 @@
       },
       {
         "id": "oq_eccrtV6g",
-        "title": "Meninas da Gávea - Pimenta and Gica",
+        "title": "Meninas da Gávea - Pimenta e Gica",
         "url": "https://www.youtube.com/watch?v=oq_eccrtV6g",
         "live_status": "was_live",
         "duration": 6981,
@@ -103969,7 +103993,7 @@
       },
       {
         "id": "39ctSfcQj-o",
-        "title": "Game Review with Matheus Cunha",
+        "title": "Resenha do Jogo com Matheus Cunha",
         "url": "https://www.youtube.com/watch?v=39ctSfcQj-o",
         "live_status": "was_live",
         "duration": 1460,
@@ -104049,7 +104073,7 @@
       },
       {
         "id": "EEztlEv9L48",
-        "title": "Women's Water Polo Brazil Open - Semifinal | Flamengo vs. ABDA - LIVE",
+        "title": "Brasil Open de Polo Aquático Feminino - Semifinal | Flamengo x ABDA - AO VIVO",
         "url": "https://www.youtube.com/watch?v=EEztlEv9L48",
         "live_status": "was_live",
         "duration": 5291,
@@ -104081,7 +104105,7 @@
       },
       {
         "id": "x2azeixcRLI",
-        "title": "Women's Water Polo Brazil Open | Flamengo vs. Sesi - SP",
+        "title": "Brasil Open de Polo Aquático Feminino | Flamengo x Sesi - SP",
         "url": "https://www.youtube.com/watch?v=x2azeixcRLI",
         "live_status": "was_live",
         "duration": 6406,
@@ -105089,7 +105113,7 @@
       },
       {
         "id": "_Osjm6xmkGg",
-        "title": "Review of the Star Player with Everton Cebolinha",
+        "title": "Resenha do Craque com Everton Cebolinha",
         "url": "https://www.youtube.com/watch?v=_Osjm6xmkGg",
         "live_status": "was_live",
         "duration": 1240,
@@ -105633,7 +105657,7 @@
       },
       {
         "id": "_p9AiGXvNwM",
-        "title": "FlaTV Analysis | 02/20",
+        "title": "Análise FlaTV | 20/02",
         "url": "https://www.youtube.com/watch?v=_p9AiGXvNwM",
         "live_status": "was_live",
         "duration": 2580,
@@ -107465,7 +107489,7 @@
       },
       {
         "id": "-GTwljA6Q7A",
-        "title": "Flala, Vegeta! com Zopilote AO VIVO",
+        "title": "Flala, Vegeta! with Zopilote LIVE",
         "url": "https://www.youtube.com/watch?v=-GTwljA6Q7A",
         "live_status": "was_live",
         "duration": 4591,
@@ -107481,7 +107505,7 @@
       },
       {
         "id": "mAhi1FWNjN4",
-        "title": "Flamengo x Pinheiros | Liga Nacional de Polo Aquático - Final Feminina AO VIVO",
+        "title": "Flamengo vs. Pinheiros | National Water Polo League - Women's Final LIVE",
         "url": "https://www.youtube.com/watch?v=mAhi1FWNjN4",
         "live_status": "was_live",
         "duration": 5100,
@@ -107497,7 +107521,7 @@
       },
       {
         "id": "Zwu_VBdFPzQ",
-        "title": "Flamengo vs. ABDA | National Water Polo League - Women's Semifinals",
+        "title": "Flamengo x ABDA | Liga Nacional de Polo Aquático - Semifinais Femininas",
         "url": "https://www.youtube.com/watch?v=Zwu_VBdFPzQ",
         "live_status": "was_live",
         "duration": 5141,
@@ -107529,7 +107553,7 @@
       },
       {
         "id": "Hx3QlZ5WUpU",
-        "title": "Flamengo x Fluminense | Campeonato Brasileiro Interclubes Sub-20 Feminino - Semifinal AO VIVO",
+        "title": "Flamengo vs Fluminense | Brazilian Interclub Championship U-20 Women's - Semifinal LIVE",
         "url": "https://www.youtube.com/watch?v=Hx3QlZ5WUpU",
         "live_status": "was_live",
         "duration": 6031,
@@ -108025,7 +108049,7 @@
       },
       {
         "id": "w7XH3zz5yNs",
-        "title": "Flala, Vegeta! com Fio AO VIVO",
+        "title": "Talking to Vegeta! With Fio LIVE",
         "url": "https://www.youtube.com/watch?v=w7XH3zz5yNs",
         "live_status": "was_live",
         "duration": 4016,
@@ -108257,7 +108281,7 @@
       },
       {
         "id": "W3votyJlQ0k",
-        "title": "FlaTV no Egito AO VIVO",
+        "title": "FlaTV in Egypt LIVE",
         "url": "https://www.youtube.com/watch?v=W3votyJlQ0k",
         "live_status": "was_live",
         "duration": 1446,
@@ -108281,7 +108305,7 @@
       },
       {
         "id": "81Uxu9dBcOM",
-        "title": "FlaTV no Egito AO VIVO",
+        "title": "FlaTV LIVE in Egypt",
         "url": "https://www.youtube.com/watch?v=81Uxu9dBcOM",
         "live_status": "was_live",
         "duration": 2316,
@@ -108289,7 +108313,7 @@
       },
       {
         "id": "fVvr1KvYojk",
-        "title": "Flamengo’s Tribute to the Garotos do Ninho",
+        "title": "Homenagem do Flamengo aos Garotos do Ninho",
         "url": "https://www.youtube.com/watch?v=fVvr1KvYojk",
         "live_status": "was_live",
         "duration": 991,
@@ -108489,7 +108513,7 @@
       },
       {
         "id": "WgvIhx59Qzc",
-        "title": "Flala, Vegeta! com Adriano “Joselito” do Hermes e Renato AO VIVO",
+        "title": "Flala, Vegeta! with Adriano “Joselito” from Hermes & Renato LIVE",
         "url": "https://www.youtube.com/watch?v=WgvIhx59Qzc",
         "live_status": "was_live",
         "duration": 4446,
@@ -108649,7 +108673,7 @@
       },
       {
         "id": "d6diRMBI-eI",
-        "title": "Niterói x Flamengo AO VIVO | Campeonato Estadual de Vôlei Masculino",
+        "title": "Niterói vs. Flamengo LIVE | Men's State Volleyball Championship",
         "url": "https://www.youtube.com/watch?v=d6diRMBI-eI",
         "live_status": "was_live",
         "duration": 6436,
@@ -109441,7 +109465,7 @@
       },
       {
         "id": "vYuEGWD_TNM",
-        "title": "Resenha do Craque com Gabi - Especial 100 gols AO VIVO",
+        "title": "Resenha do Craque with Gabi - 100 Goal Special LIVE",
         "url": "https://www.youtube.com/watch?v=vYuEGWD_TNM",
         "live_status": "was_live",
         "duration": 3616,
@@ -109489,7 +109513,7 @@
       },
       {
         "id": "4-WUhs6sc9Q",
-        "title": "Programa No Detalhe: melhores momentos e coletiva Chapecoense 2 x 2 Flamengo",
+        "title": "No Detalhe Program: Highlights and Press Conference Chapecoense 2-2 Flamengo",
         "url": "https://www.youtube.com/watch?v=4-WUhs6sc9Q",
         "live_status": "was_live",
         "duration": 981,
@@ -109729,7 +109753,7 @@
       },
       {
         "id": "7AlngWtNl9s",
-        "title": "Flamengo vs. Nova Iguaçu LIVE | U-15 Taça Guanabara",
+        "title": "Flamengo x Nova Iguaçu AO VIVO | Taça Guanabara Sub-15",
         "url": "https://www.youtube.com/watch?v=7AlngWtNl9s",
         "live_status": "was_live",
         "duration": 6621,
@@ -110361,7 +110385,7 @@
       },
       {
         "id": "ECeAYh087q4",
-        "title": "Flamengo X Teresópolis AO VIVO | Taça da Liga Feminina de Fut7",
+        "title": "Flamengo vs. Teresópolis LIVE | Women’s 7-a-side League Cup",
         "url": "https://www.youtube.com/watch?v=ECeAYh087q4",
         "live_status": "was_live",
         "duration": 4371,
@@ -110697,7 +110721,7 @@
       },
       {
         "id": "Xrltm2eldrg",
-        "title": "Pinheiros vs. Flamengo LIVE | Women's Brazil Water Polo Trophy",
+        "title": "Pinheiros x Flamengo AO VIVO | Trofeu Brasil de Polo Aquatico Feminino",
         "url": "https://www.youtube.com/watch?v=Xrltm2eldrg",
         "live_status": "was_live",
         "duration": 5590,
@@ -110713,7 +110737,7 @@
       },
       {
         "id": "ZhUDMXmr2YQ",
-        "title": "Flamengo x Paineras AO VIVO | Trofeu Brasil de Polo Aquatico Masculino",
+        "title": "Flamengo vs. Pinheiros LIVE | Brazil Men's Water Polo Trophy",
         "url": "https://www.youtube.com/watch?v=ZhUDMXmr2YQ",
         "live_status": "was_live",
         "duration": 5136,
@@ -110745,7 +110769,7 @@
       },
       {
         "id": "KsDSF4xPOjQ",
-        "title": "Flamengo x TTC AO VIVO | Trofeu Brasil de Polo Aquatico Feminino",
+        "title": "Flamengo vs. TTC LIVE | Women's Brazil Water Polo Trophy",
         "url": "https://www.youtube.com/watch?v=KsDSF4xPOjQ",
         "live_status": "was_live",
         "duration": 5281,
@@ -111001,7 +111025,7 @@
       },
       {
         "id": "OUlXvwbvo4k",
-        "title": "Flamengo vs. Vasco LIVE | Copa Rio Fut7 Semifinal",
+        "title": "Flamengo x Vasco AO VIVO | Semifinal Copa Rio Fut7",
         "url": "https://www.youtube.com/watch?v=OUlXvwbvo4k",
         "live_status": "was_live",
         "duration": 5601,
@@ -111369,7 +111393,7 @@
       },
       {
         "id": "zTqY0wMR5EE",
-        "title": "Fluminense vs. Flamengo LIVE | U-15 Rio Cup",
+        "title": "Fluminense x Flamengo AO VIVO | Copa Rio Sub-15",
         "url": "https://www.youtube.com/watch?v=zTqY0wMR5EE",
         "live_status": "was_live",
         "duration": 4302,
@@ -111433,7 +111457,7 @@
       },
       {
         "id": "gpJ6M2uPQss",
-        "title": "Flamengo vs. Americano LIVE | Carioca Fut7 Championship",
+        "title": "Flamengo x Americano AO VIVO | Campeonato Carioca Fut7",
         "url": "https://www.youtube.com/watch?v=gpJ6M2uPQss",
         "live_status": "was_live",
         "duration": 5946,
@@ -111513,7 +111537,7 @@
       },
       {
         "id": "jEQpVVvKsis",
-        "title": "Flamengo vs. Chapecoense LIVE | 7-a-side Super Cup",
+        "title": "Flamengo x Chapecoense AO VIVO | Supercopa de Fut 7",
         "url": "https://www.youtube.com/watch?v=jEQpVVvKsis",
         "live_status": "was_live",
         "duration": 6003,
@@ -112081,7 +112105,7 @@
       },
       {
         "id": "nHOTyTolfOU",
-        "title": "Artistic Gymnastics Training",
+        "title": "Treino da Ginástica Artística",
         "url": "https://www.youtube.com/watch?v=nHOTyTolfOU",
         "live_status": "was_live",
         "duration": 6520,
@@ -113273,7 +113297,7 @@
       },
       {
         "id": "GBoiDNuyS20",
-        "title": "Desafio PES João Mércio x Sócio-Torcedor (Ao Vivo)",
+        "title": "PES Challenge: João Mércio vs. Member-Fan (Live)",
         "url": "https://www.youtube.com/watch?v=GBoiDNuyS20",
         "live_status": "was_live",
         "duration": 4275,
@@ -114161,7 +114185,7 @@
       },
       {
         "id": "U64GqXUE1Dw",
-        "title": "COLETIVA DE IMPRENSA: BRUNO HENRIQUE",
+        "title": "PRESS CONFERENCE: BRUNO HENRIQUE",
         "url": "https://www.youtube.com/watch?v=U64GqXUE1Dw",
         "live_status": "was_live",
         "duration": 621,
@@ -114785,7 +114809,7 @@
       },
       {
         "id": "BrWzyDzRPDA",
-        "title": "COLETIVA DE IMPRENSA: EVERTON RIBEIRO",
+        "title": "PRESS CONFERENCE: EVERTON RIBEIRO",
         "url": "https://www.youtube.com/watch?v=BrWzyDzRPDA",
         "live_status": "was_live",
         "duration": 612,
@@ -114929,7 +114953,7 @@
       },
       {
         "id": "Iy4LjPC5rKA",
-        "title": "COLETIVA DE IMPRENSA: PARÁ (18/03/2019)",
+        "title": "PRESS CONFERENCE: PARÁ (03/18/2019)",
         "url": "https://www.youtube.com/watch?v=Iy4LjPC5rKA",
         "live_status": "was_live",
         "duration": 950,
@@ -115769,7 +115793,7 @@
       },
       {
         "id": "uideYE9qY1I",
-        "title": "Coletiva de Imprensa - Despedida Vinicius Jr (Ao Vivo)",
+        "title": "Press Conference - Vinicius Jr. Farewell (Live)",
         "url": "https://www.youtube.com/watch?v=uideYE9qY1I",
         "live_status": "was_live",
         "duration": 1573,
@@ -116105,7 +116129,7 @@
       },
       {
         "id": "ggVBY9T9UnM",
-        "title": "Coletiva de Imprensa - Paulo César Carpegiani (15/02/2018)",
+        "title": "Press Conference - Paulo César Carpegiani (02/15/2018)",
         "url": "https://www.youtube.com/watch?v=ggVBY9T9UnM",
         "live_status": "was_live",
         "duration": 854,
@@ -124512,6 +124536,14 @@
           "url": "https://www.youtube.com/watch?v=-8XWPIriKN0",
           "live_status": null,
           "duration": 551,
+          "thumbnail": null
+        },
+        {
+          "id": "DKUhmeRT0pM",
+          "title": "THIS IS FLAMENGO | FLAMENGO 1 x 0 FLUMINENSE | BRASILEIRÃO (10/11/26)",
+          "url": "https://www.youtube.com/watch?v=DKUhmeRT0pM",
+          "live_status": null,
+          "duration": 550,
           "thumbnail": null
         }
       ]
