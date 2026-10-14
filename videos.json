@@ -4,12 +4,18 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-13T23:17:46.470570+00:00",
+  "updatedAt": "2026-10-14T10:11:01.027696+00:00",
   "videos": [
+    {
+      "id": "nfC822gcr6I",
+      "title": "DIRETO DA ARGENTINA: TUDO SOBRE ESTUDIANTES X FLAMENGO E BRUNO HENRIQUE PRESTES A FAZER HISTÓRIA",
+      "published": "2026-10-14T01:50:30+00:00",
+      "isShort": false
+    },
     {
       "id": "biES6WZjIRg",
       "title": "🔴AO VIVO: CAMPEONATO CARIOCA DE VÔLEI FEMININO - FINAL | FLUMINENSE x SESC FLAMENGO | 13/10/26",
-      "published": "2026-10-13T14:15:22+00:00",
+      "published": "2026-10-13T23:56:15+00:00",
       "isShort": false
     },
     {
@@ -88,12 +94,6 @@
       "id": "b462y83XAps",
       "title": "De Paquetá para Carrascal: +3 pontos pro Mengão!",
       "published": "2026-10-11T23:57:50+00:00",
-      "isShort": false
-    },
-    {
-      "id": "rgA0k5UwasY",
-      "title": "Orgulho do professor! 😁",
-      "published": "2026-10-11T23:47:38+00:00",
       "isShort": false
     }
   ]
