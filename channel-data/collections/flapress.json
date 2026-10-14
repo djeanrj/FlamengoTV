@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T07:34:22.149501+00:00",
+  "updatedAt": "2026-10-14T13:41:53.345790+00:00",
   "title": "FlaPress",
   "playlistId": "PLRTMoJ6RWDVBmx2j2eV-yJR9dRqnc_EaJ",
   "entries": [
@@ -833,6 +833,14 @@
       "url": "https://www.youtube.com/watch?v=mFjv8cESxLs",
       "live_status": null,
       "duration": 1447,
+      "thumbnail": null
+    },
+    {
+      "id": "nfC822gcr6I",
+      "title": "LIVE FROM ARGENTINA: EVERYTHING ON ESTUDIANTES VS. FLAMENGO AND BRUNO HENRIQUE ON THE VERGE OF MA...",
+      "url": "https://www.youtube.com/watch?v=nfC822gcr6I",
+      "live_status": null,
+      "duration": 1248,
       "thumbnail": null
     }
   ]
