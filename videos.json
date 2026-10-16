@@ -4,18 +4,42 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-16T00:26:33.267871+00:00",
+  "updatedAt": "2026-10-16T11:21:44.500706+00:00",
   "videos": [
     {
-      "id": "FfJ7BMxJlmU",
-      "title": "🔴 AO VIVO: FINAL DO CAMPEONATO CARIOCA DE BASQUETE - FLAMENGO x FLUMINENSE | 15/10/26",
-      "published": "2026-10-14T18:42:30+00:00",
+      "id": "7tk_qaeYBHY",
+      "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 16/10/26",
+      "published": "2026-10-16T03:59:01+00:00",
+      "isShort": false
+    },
+    {
+      "id": "uPE2Dmf3scI",
+      "title": "LEONARDO JARDIM | COLETIVA PÓS-JOGO | ESTUDIANTES 0 X 0 FLAMENGO | LIBERTADORES (15/10/26)",
+      "published": "2026-10-16T03:48:00+00:00",
       "isShort": false
     },
     {
       "id": "kPtsS-7Zslk",
       "title": "🔴 AO VIVO: ESTUDIANTES x FLAMENGO | PRÉ-JOGO + NARRAÇÃO | CONMEBOL LIBERTADORES (15/09/26)",
-      "published": "2026-10-13T20:14:09+00:00",
+      "published": "2026-10-16T02:52:43+00:00",
+      "isShort": false
+    },
+    {
+      "id": "sUu4G1ggkv0",
+      "title": "50x #FlaBasquete 🏆🏀",
+      "published": "2026-10-16T01:28:00+00:00",
+      "isShort": false
+    },
+    {
+      "id": "FfJ7BMxJlmU",
+      "title": "🔴 AO VIVO: FINAL DO CAMPEONATO CARIOCA DE BASQUETE - FLAMENGO x FLUMINENSE | 15/10/26",
+      "published": "2026-10-16T00:34:04+00:00",
+      "isShort": false
+    },
+    {
+      "id": "5J89CMnsUVQ",
+      "title": "O Mengão chegou! 😤",
+      "published": "2026-10-16T00:20:12+00:00",
       "isShort": false
     },
     {
@@ -70,30 +94,6 @@
       "id": "hGN2vyiqVSk",
       "title": "ESTUDIANTES x FLAMENGO: FRAGILIDADES E FORÇAS DO RIVAL NA SEMIFINAL DA LIBERTADORES | EXPOSED TÁTICO",
       "published": "2026-10-14T21:00:08+00:00",
-      "isShort": false
-    },
-    {
-      "id": "7ApXL1MRqV8",
-      "title": "Foco na recuperação! 💪🇺🇾",
-      "published": "2026-10-14T20:39:17+00:00",
-      "isShort": false
-    },
-    {
-      "id": "idj9fI1Yc00",
-      "title": "Chegou o Comigo Mengão, o Crédito Consignado CLT da Nação.​ Simule grátis em: comigomengao.com.br",
-      "published": "2026-10-14T20:22:54+00:00",
-      "isShort": false
-    },
-    {
-      "id": "mOwn6CpY1OM",
-      "title": "🔴 AO VIVO: TREINO DO FLAMENGO - DIRETO DE BUENOS AIRES | 14/10/26",
-      "published": "2026-10-14T19:32:14+00:00",
-      "isShort": false
-    },
-    {
-      "id": "3rvzF6W2Q0Y",
-      "title": "🔴 AO VIVO: FLAMENGO x BAURU | NBB - 18/10",
-      "published": "2026-10-14T18:56:58+00:00",
       "isShort": false
     }
   ]
