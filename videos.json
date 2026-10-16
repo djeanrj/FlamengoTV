@@ -4,8 +4,20 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-16T19:56:50.399156+00:00",
+  "updatedAt": "2026-10-16T22:50:41.686621+00:00",
   "videos": [
+    {
+      "id": "X_FhwT18yRI",
+      "title": "🔴 AO VIVO: FLAMENGO x MARICÁ | CAMPEONATO CARIOCA SUB-20 (17/10/26)",
+      "published": "2026-10-16T22:16:21+00:00",
+      "isShort": false
+    },
+    {
+      "id": "AmA4BlEi-nY",
+      "title": "SEM PARAR! APÓS VOLTA DA ARGENTINA, FLAMENGO TREINA NO NINHO",
+      "published": "2026-10-16T20:00:32+00:00",
+      "isShort": false
+    },
     {
       "id": "UL99AggRpBY",
       "title": "O MENGOCAST COM TAINARA SANTOS TÁ NO AR! 🏐🔴⚫️",
@@ -82,18 +94,6 @@
       "id": "WbtX7CtFlPY",
       "title": "MENGÃO PRONTO PARA A SEMIFINAL!",
       "published": "2026-10-15T13:35:20+00:00",
-      "isShort": false
-    },
-    {
-      "id": "B0qX9p0algg",
-      "title": "REIKRAUSS PELAS RUAS DE BUENOS AIRES! SERÁ QUE OS ARGENTINOS CONHECEM OS JOGADORES DO MENGÃO?",
-      "published": "2026-10-15T13:21:29+00:00",
-      "isShort": false
-    },
-    {
-      "id": "tGA59pnlQY8",
-      "title": "Chegou o Comigo Mengão, o Crédito Consignado CLT da Nação.",
-      "published": "2026-10-15T00:00:22+00:00",
       "isShort": false
     }
   ]
