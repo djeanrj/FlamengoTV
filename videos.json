@@ -4,12 +4,18 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-17T18:30:01.681695+00:00",
+  "updatedAt": "2026-10-17T21:27:24.121455+00:00",
   "videos": [
     {
       "id": "X_FhwT18yRI",
       "title": "🔴 AO VIVO: FLAMENGO x MARICÁ | CAMPEONATO CARIOCA SUB-20 (17/10/26)",
-      "published": "2026-10-16T22:16:21+00:00",
+      "published": "2026-10-17T20:19:06+00:00",
+      "isShort": false
+    },
+    {
+      "id": "HIqX74NJWi8",
+      "title": "MEMES E EM CASA A GENTE RESOLVE | MEMENGO #74",
+      "published": "2026-10-17T19:00:33+00:00",
       "isShort": false
     },
     {
@@ -88,12 +94,6 @@
       "id": "YsoYHtoNRoE",
       "title": "Como surgiu a charanga do Flamengo? | Corre o tempo no olhar",
       "published": "2026-10-15T20:51:11+00:00",
-      "isShort": false
-    },
-    {
-      "id": "D42Yn73E51c",
-      "title": "A TORCIDA QUE MUDOU O FUTEBOL | CORRE O TEMPO NO OLHAR #7",
-      "published": "2026-10-15T18:58:17+00:00",
       "isShort": false
     }
   ]
