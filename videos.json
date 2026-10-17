@@ -4,18 +4,24 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-17T15:32:51.832275+00:00",
+  "updatedAt": "2026-10-17T18:30:01.681695+00:00",
   "videos": [
-    {
-      "id": "5apWWZtiIVk",
-      "title": "ISSO AQUI É FLAMENGO | ESTUDIANTES 0 X 0 FLAMENGO | LIBERTADORES (15/10/26)",
-      "published": "2026-10-17T01:00:01+00:00",
-      "isShort": false
-    },
     {
       "id": "X_FhwT18yRI",
       "title": "🔴 AO VIVO: FLAMENGO x MARICÁ | CAMPEONATO CARIOCA SUB-20 (17/10/26)",
       "published": "2026-10-16T22:16:21+00:00",
+      "isShort": false
+    },
+    {
+      "id": "D-fkt-mktFY",
+      "title": "BAHIA X FLAMENGO:  TÁTICA E FRAGILIDADES DO ADVERSÁRIO NO BRASILEIRO | EXPOSED TÁTICO",
+      "published": "2026-10-17T16:19:21+00:00",
+      "isShort": false
+    },
+    {
+      "id": "5apWWZtiIVk",
+      "title": "ISSO AQUI É FLAMENGO | ESTUDIANTES 0 X 0 FLAMENGO | LIBERTADORES (15/10/26)",
+      "published": "2026-10-17T01:00:01+00:00",
       "isShort": false
     },
     {
@@ -88,12 +94,6 @@
       "id": "D42Yn73E51c",
       "title": "A TORCIDA QUE MUDOU O FUTEBOL | CORRE O TEMPO NO OLHAR #7",
       "published": "2026-10-15T18:58:17+00:00",
-      "isShort": false
-    },
-    {
-      "id": "6iVu388TylU",
-      "title": "Chegou o Crédito Consignado CLT da Nação. Simule grátis em: comigomengao.com.br #ComigoMengão",
-      "published": "2026-10-15T16:00:29+00:00",
       "isShort": false
     }
   ]
