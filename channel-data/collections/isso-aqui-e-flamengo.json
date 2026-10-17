@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T23:35:04.322548+00:00",
+  "updatedAt": "2026-10-17T04:20:25.975995+00:00",
   "title": "Isso aqui é Flamengo",
   "playlistId": "PLRTMoJ6RWDVCqCHsn1WjnL3EP14RfITUB",
   "entries": [
@@ -797,16 +797,24 @@
     },
     {
       "id": "wcxVYc_PuEA",
-      "title": "ISSO AQUI É FLAMENGO | ESTUDIANTES 0 X 0 FLAMENGO | LIBERTADORES (16/10/26)",
+      "title": null,
       "url": "https://www.youtube.com/watch?v=wcxVYc_PuEA",
       "live_status": null,
-      "duration": 672,
+      "duration": null,
       "thumbnail": null
     },
     {
       "id": "dm3I1vXs1Us",
-      "title": "THIS IS FLAMENGO | ESTUDIANTES 0-0 FLAMENGO | LIBERTADORES (10/26/15)",
+      "title": null,
       "url": "https://www.youtube.com/watch?v=dm3I1vXs1Us",
+      "live_status": null,
+      "duration": null,
+      "thumbnail": null
+    },
+    {
+      "id": "5apWWZtiIVk",
+      "title": "THIS IS FLAMENGO | ESTUDIANTES 0 X 0 FLAMENGO | LIBERTADORES (10/15/26)",
+      "url": "https://www.youtube.com/watch?v=5apWWZtiIVk",
       "live_status": null,
       "duration": 655,
       "thumbnail": null
