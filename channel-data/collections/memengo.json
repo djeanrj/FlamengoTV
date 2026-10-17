@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T13:44:29.452964+00:00",
+  "updatedAt": "2026-10-17T17:08:48.563812+00:00",
   "title": "Memengo",
   "playlistId": "PLRTMoJ6RWDVAlahq0WQdYi7Rq51wQ8Yrf",
   "entries": [
@@ -593,6 +593,14 @@
       "url": "https://www.youtube.com/watch?v=D4Q-RuQ9Xgw",
       "live_status": null,
       "duration": 682,
+      "thumbnail": null
+    },
+    {
+      "id": "HIqX74NJWi8",
+      "title": "MEMES E EM CASA A GENTE RESOLVE | MEMENGO #74",
+      "url": "https://www.youtube.com/watch?v=HIqX74NJWi8",
+      "live_status": null,
+      "duration": 710,
       "thumbnail": null
     }
   ]
