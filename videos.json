@@ -4,8 +4,14 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-18T09:36:38.191292+00:00",
+  "updatedAt": "2026-10-18T14:00:55.289886+00:00",
   "videos": [
+    {
+      "id": "3rvzF6W2Q0Y",
+      "title": "🔴 AO VIVO: FLAMENGO x BAURU | NBB - 18/10",
+      "published": "2026-10-14T18:56:58+00:00",
+      "isShort": false
+    },
     {
       "id": "cWOnYvU9878",
       "title": "50x CAMPEÃO | BASTIDORES DO BASQUETE | FLABASQUETE 84 X 77 FLUMINENSE | CAMP. CARIOCA (15/10/26)",
@@ -88,12 +94,6 @@
       "id": "sUu4G1ggkv0",
       "title": "50x #FlaBasquete 🏆🏀",
       "published": "2026-10-16T01:28:00+00:00",
-      "isShort": false
-    },
-    {
-      "id": "FfJ7BMxJlmU",
-      "title": "🔴 AO VIVO: FINAL DO CAMPEONATO CARIOCA DE BASQUETE - FLAMENGO x FLUMINENSE | 15/10/26",
-      "published": "2026-10-16T00:34:04+00:00",
       "isShort": false
     }
   ]
