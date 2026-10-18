@@ -4,8 +4,14 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-18T17:21:54.360792+00:00",
+  "updatedAt": "2026-10-18T20:41:00.363183+00:00",
   "videos": [
+    {
+      "id": "KuBYWT9cHPM",
+      "title": "🔴 AO VIVO: BAHIA x FLAMENGO | PRÉ-JOGO + NARRAÇÃO | BRASILEIRÃO (18/10/26)",
+      "published": "2026-10-16T14:59:18+00:00",
+      "isShort": false
+    },
     {
       "id": "3rvzF6W2Q0Y",
       "title": "🔴 AO VIVO: FLAMENGO x BAURU | NBB - 18/10",
@@ -70,12 +76,6 @@
       "id": "qT8gNSHxKQQ",
       "title": "TAINARA SANTOS - MENGOCAST #68",
       "published": "2026-10-16T16:00:35+00:00",
-      "isShort": false
-    },
-    {
-      "id": "KuBYWT9cHPM",
-      "title": "🔴 AO VIVO: BAHIA x FLAMENGO | PRÉ-JOGO + NARRAÇÃO | BRASILEIRÃO (18/10/26)",
-      "published": "2026-10-16T14:59:18+00:00",
       "isShort": false
     },
     {
