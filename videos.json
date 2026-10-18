@@ -4,8 +4,14 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-17T21:27:24.121455+00:00",
+  "updatedAt": "2026-10-18T00:01:43.050890+00:00",
   "videos": [
+    {
+      "id": "Bj25JuvcEso",
+      "title": "FOCO TOTAL NO BAHIA! PREPARAÇÃO INTENSA PARA MAIS UMA RODADA DO BRASILEIRO",
+      "published": "2026-10-17T22:10:56+00:00",
+      "isShort": false
+    },
     {
       "id": "X_FhwT18yRI",
       "title": "🔴 AO VIVO: FLAMENGO x MARICÁ | CAMPEONATO CARIOCA SUB-20 (17/10/26)",
@@ -88,12 +94,6 @@
       "id": "5J89CMnsUVQ",
       "title": "O Mengão chegou! 😤",
       "published": "2026-10-16T00:20:12+00:00",
-      "isShort": false
-    },
-    {
-      "id": "YsoYHtoNRoE",
-      "title": "Como surgiu a charanga do Flamengo? | Corre o tempo no olhar",
-      "published": "2026-10-15T20:51:11+00:00",
       "isShort": false
     }
   ]
