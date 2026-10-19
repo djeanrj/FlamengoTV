@@ -4,8 +4,26 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-19T13:23:08.069837+00:00",
+  "updatedAt": "2026-10-19T19:54:46.792090+00:00",
   "videos": [
+    {
+      "id": "4i2wMzvMrXg",
+      "title": "CARRASCRAQUE EM FLAMENGO E BAHIA! 🇨🇴🤯",
+      "published": "2026-10-19T19:25:52+00:00",
+      "isShort": false
+    },
+    {
+      "id": "2voyISTHIHM",
+      "title": "Seguimos trabalhando pelos nossos objetivos 💪😤",
+      "published": "2026-10-19T17:50:15+00:00",
+      "isShort": false
+    },
+    {
+      "id": "4t0tNthi6Hk",
+      "title": "EM NOME DO JOGO | TECNOLOGIA NO FUTEBOL COM ALTAMIRO BOTTINO E TÉO BENJAMIN",
+      "published": "2026-10-19T17:15:04+00:00",
+      "isShort": false
+    },
     {
       "id": "dQRglj3ZDDc",
       "title": "Teve dança na Bahia! 🕺",
@@ -67,12 +85,6 @@
       "isShort": false
     },
     {
-      "id": "YONNBgKnoT0",
-      "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 19/10/26",
-      "published": "2026-10-19T00:20:27+00:00",
-      "isShort": false
-    },
-    {
       "id": "3rvzF6W2Q0Y",
       "title": "🔴 AO VIVO: FLAMENGO x BAURU | NBB - 18/10",
       "published": "2026-10-18T17:16:59+00:00",
@@ -82,18 +94,6 @@
       "id": "5snGi1bAqOE",
       "title": "Conte comigo, Nação! Crédito CLT em até 48 meses. Simule grátis: comigomengao.com.br #ComigoMengão",
       "published": "2026-10-18T16:00:07+00:00",
-      "isShort": false
-    },
-    {
-      "id": "cWOnYvU9878",
-      "title": "50x CAMPEÃO | BASTIDORES DO BASQUETE | FLABASQUETE 84 X 77 FLUMINENSE | CAMP. CARIOCA (15/10/26)",
-      "published": "2026-10-18T01:19:58+00:00",
-      "isShort": false
-    },
-    {
-      "id": "Bj25JuvcEso",
-      "title": "FOCO TOTAL NO BAHIA! PREPARAÇÃO INTENSA PARA MAIS UMA RODADA DO BRASILEIRO",
-      "published": "2026-10-17T22:10:56+00:00",
       "isShort": false
     }
   ]
