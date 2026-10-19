@@ -4,8 +4,14 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-19T19:54:46.792090+00:00",
+  "updatedAt": "2026-10-19T23:39:28.697062+00:00",
   "videos": [
+    {
+      "id": "Sa9UAXNadyY",
+      "title": "EM NOME DO JOGO: TECNOLOGIA NO FUTEBOL COM ALTAMIRO BOTTINO E TÉO BENJAMIN.",
+      "published": "2026-10-19T20:13:15+00:00",
+      "isShort": false
+    },
     {
       "id": "4i2wMzvMrXg",
       "title": "CARRASCRAQUE EM FLAMENGO E BAHIA! 🇨🇴🤯",
@@ -88,12 +94,6 @@
       "id": "3rvzF6W2Q0Y",
       "title": "🔴 AO VIVO: FLAMENGO x BAURU | NBB - 18/10",
       "published": "2026-10-18T17:16:59+00:00",
-      "isShort": false
-    },
-    {
-      "id": "5snGi1bAqOE",
-      "title": "Conte comigo, Nação! Crédito CLT em até 48 meses. Simule grátis: comigomengao.com.br #ComigoMengão",
-      "published": "2026-10-18T16:00:07+00:00",
       "isShort": false
     }
   ]
