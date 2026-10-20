@@ -4,8 +4,14 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-20T19:15:14.073057+00:00",
+  "updatedAt": "2026-10-20T22:19:20.651706+00:00",
   "videos": [
+    {
+      "id": "QZKAYfSf4A0",
+      "title": "BH E HERNANE BROCADOR FALAM SOBRE O COMEÇO DA CARREIRA NO FUTEBOL DE VÁRZEA NO RESENHA DO GALINHO",
+      "published": "2026-10-20T20:56:02+00:00",
+      "isShort": false
+    },
     {
       "id": "ZmlAR05J-YA",
       "title": "SEMANA DECISIVA! FLAMENGO SE PREPARA PARA A VOLTA DA SEMIFINAL",
@@ -88,12 +94,6 @@
       "id": "dQRglj3ZDDc",
       "title": "Teve dança na Bahia! 🕺",
       "published": "2026-10-19T13:08:37+00:00",
-      "isShort": false
-    },
-    {
-      "id": "fpGytQQ1Pps",
-      "title": "BAHIA 0 X 3 FLAMENGO | MELHORES MOMENTOS | BRASILEIRÃO (18/10/26)",
-      "published": "2026-10-19T02:13:25+00:00",
       "isShort": false
     }
   ]
