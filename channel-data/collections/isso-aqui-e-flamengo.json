@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T21:04:15.424359+00:00",
+  "updatedAt": "2026-10-20T00:20:22.014877+00:00",
   "title": "Isso aqui é Flamengo",
   "playlistId": "PLRTMoJ6RWDVCqCHsn1WjnL3EP14RfITUB",
   "entries": [
@@ -821,10 +821,18 @@
     },
     {
       "id": "iMreQwAjmi4",
-      "title": "ISSO AQUI É FLAMENGO | BAHIA 0 X 3 FLAMENGO | BRASILEIRÃO (18/10/2026)",
+      "title": null,
       "url": "https://www.youtube.com/watch?v=iMreQwAjmi4",
       "live_status": null,
-      "duration": 628,
+      "duration": null,
+      "thumbnail": null
+    },
+    {
+      "id": "b3te6OuA58w",
+      "title": "ISSO AQUI É FLAMENGO | BAHIA 0 X 3 FLAMENGO | BRASILEIRÃO (18/10/2026)",
+      "url": "https://www.youtube.com/watch?v=b3te6OuA58w",
+      "live_status": null,
+      "duration": 623,
       "thumbnail": null
     }
   ]
