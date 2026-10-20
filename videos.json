@@ -4,8 +4,20 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-19T23:39:28.697062+00:00",
+  "updatedAt": "2026-10-20T10:02:48.962590+00:00",
   "videos": [
+    {
+      "id": "VZxOdKLixG4",
+      "title": "DIA DE ATIVIDADES NO NINHO! SESSÃO DE FOTOS DO ERICK",
+      "published": "2026-10-20T01:00:01+00:00",
+      "isShort": false
+    },
+    {
+      "id": "b3te6OuA58w",
+      "title": "ISSO AQUI É FLAMENGO | BAHIA 0 X 3 FLAMENGO | BRASILEIRÃO (18/10/2026)",
+      "published": "2026-10-19T23:42:02+00:00",
+      "isShort": false
+    },
     {
       "id": "Sa9UAXNadyY",
       "title": "EM NOME DO JOGO: TECNOLOGIA NO FUTEBOL COM ALTAMIRO BOTTINO E TÉO BENJAMIN.",
@@ -82,18 +94,6 @@
       "id": "OAa5ffdvV8E",
       "title": "9️⃣ GOLS COM O MANTO SAGRADO. 9️⃣ DE PÊNALTI!",
       "published": "2026-10-19T00:31:08+00:00",
-      "isShort": false
-    },
-    {
-      "id": "zY4wk5i4Pa4",
-      "title": "VITÓRIA do MEU, do SEU, do NOSSO MENGÃO. O TAL DO LÍDER! MENGOOOOOOOOOO! ➕3️⃣",
-      "published": "2026-10-19T00:22:48+00:00",
-      "isShort": false
-    },
-    {
-      "id": "3rvzF6W2Q0Y",
-      "title": "🔴 AO VIVO: FLAMENGO x BAURU | NBB - 18/10",
-      "published": "2026-10-18T17:16:59+00:00",
       "isShort": false
     }
   ]
