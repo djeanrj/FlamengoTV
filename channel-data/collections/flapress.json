@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T23:52:41.223010+00:00",
+  "updatedAt": "2026-10-21T04:39:29.466110+00:00",
   "title": "FlaPress",
   "playlistId": "PLRTMoJ6RWDVBmx2j2eV-yJR9dRqnc_EaJ",
   "entries": [
@@ -913,6 +913,22 @@
       "url": "https://www.youtube.com/watch?v=uwTV2aDFy1Q",
       "live_status": null,
       "duration": 1248,
+      "thumbnail": null
+    },
+    {
+      "id": "PD9TZgwjKfo",
+      "title": null,
+      "url": "https://www.youtube.com/watch?v=PD9TZgwjKfo",
+      "live_status": null,
+      "duration": null,
+      "thumbnail": null
+    },
+    {
+      "id": "6sTH9tBOB4s",
+      "title": "ALL ABOUT FLAMENGO VS. ESTUDIANTES ON FLAPRESS",
+      "url": "https://www.youtube.com/watch?v=6sTH9tBOB4s",
+      "live_status": null,
+      "duration": 1271,
       "thumbnail": null
     }
   ]
