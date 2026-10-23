@@ -4,18 +4,24 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-23T01:29:52.033783+00:00",
+  "updatedAt": "2026-10-23T07:30:07.807373+00:00",
   "videos": [
     {
-      "id": "xC3O0-cUd4Q",
-      "title": "É O MENGO NA ÁREA! 🟥⬛️",
-      "published": "2026-10-22T23:26:38+00:00",
+      "id": "fGU86yTChyI",
+      "title": "LEONARDO JARDIM | COLETIVA PÓS-JOGO | FLAMENGO 0 (2) X (3) 0 ESTUDIANTES | LIBERTADORES (22/10/2026)",
+      "published": "2026-10-23T04:17:52+00:00",
       "isShort": false
     },
     {
       "id": "JiR8dCMsJRw",
       "title": "🔴 AO VIVO: FLAMENGO x ESTUDIANTES | PRÉ-JOGO + NARRAÇÃO | SEMIFINAL DA LIBERTADORES (22/09/26)",
-      "published": "2026-10-20T17:20:03+00:00",
+      "published": "2026-10-23T03:31:38+00:00",
+      "isShort": false
+    },
+    {
+      "id": "xC3O0-cUd4Q",
+      "title": "É O MENGO NA ÁREA! 🟥⬛️",
+      "published": "2026-10-22T23:26:38+00:00",
       "isShort": false
     },
     {
@@ -88,12 +94,6 @@
       "id": "ZmlAR05J-YA",
       "title": "SEMANA DECISIVA! FLAMENGO SE PREPARA PARA A VOLTA DA SEMIFINAL",
       "published": "2026-10-20T19:00:08+00:00",
-      "isShort": false
-    },
-    {
-      "id": "V0mN3ISn00E",
-      "title": "O professor Jardim sabe muito!",
-      "published": "2026-10-20T18:33:47+00:00",
       "isShort": false
     }
   ]
