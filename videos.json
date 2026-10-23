@@ -4,8 +4,26 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-23T13:24:57.703651+00:00",
+  "updatedAt": "2026-10-23T18:19:56.126556+00:00",
   "videos": [
+    {
+      "id": "Qd3sh4anc2E",
+      "title": "POSTURA DE FLAMENGO! 😤",
+      "published": "2026-10-23T17:20:09+00:00",
+      "isShort": false
+    },
+    {
+      "id": "GIakNMKx9HQ",
+      "title": "DÁ O PAPO, MINHA CAPITÃ! ❤️🖤",
+      "published": "2026-10-23T17:05:31+00:00",
+      "isShort": false
+    },
+    {
+      "id": "6oQXVNsW-Ik",
+      "title": "BABU SANTANA - MENGOCAST #69",
+      "published": "2026-10-23T16:46:38+00:00",
+      "isShort": false
+    },
     {
       "id": "fGU86yTChyI",
       "title": "LEONARDO JARDIM | COLETIVA PÓS-JOGO | FLAMENGO 0 (2) X (3) 0 ESTUDIANTES | LIBERTADORES (22/10/2026)",
@@ -76,24 +94,6 @@
       "id": "ZQTVOOEFAQc",
       "title": "POESIA EM FORMA 🎶",
       "published": "2026-10-21T13:47:18+00:00",
-      "isShort": false
-    },
-    {
-      "id": "6sTH9tBOB4s",
-      "title": "TUDO SOBRE FLAMENGO X ESTUDIANTES NO FLAPRESS",
-      "published": "2026-10-21T00:41:05+00:00",
-      "isShort": false
-    },
-    {
-      "id": "QZKAYfSf4A0",
-      "title": "BH E HERNANE BROCADOR FALAM SOBRE O COMEÇO DA CARREIRA NO FUTEBOL DE VÁRZEA NO RESENHA DO GALINHO",
-      "published": "2026-10-20T20:56:02+00:00",
-      "isShort": false
-    },
-    {
-      "id": "ZmlAR05J-YA",
-      "title": "SEMANA DECISIVA! FLAMENGO SE PREPARA PARA A VOLTA DA SEMIFINAL",
-      "published": "2026-10-20T19:00:08+00:00",
       "isShort": false
     }
   ]
