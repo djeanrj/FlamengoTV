@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T16:34:56.734458+00:00",
+  "updatedAt": "2026-10-28T01:20:00.622287+00:00",
   "title": "Isso aqui é Flamengo",
   "playlistId": "PLRTMoJ6RWDVCqCHsn1WjnL3EP14RfITUB",
   "entries": [
@@ -833,6 +833,14 @@
       "url": "https://www.youtube.com/watch?v=b3te6OuA58w",
       "live_status": null,
       "duration": 623,
+      "thumbnail": null
+    },
+    {
+      "id": "qvw0pAWuZLM",
+      "title": "THIS IS FLAMENGO | FLAMENGO 3 X 2 ATLÉTICO-MG | BRASILEIRÃO (10/26/2026)",
+      "url": "https://www.youtube.com/watch?v=qvw0pAWuZLM",
+      "live_status": null,
+      "duration": 574,
       "thumbnail": null
     }
   ]

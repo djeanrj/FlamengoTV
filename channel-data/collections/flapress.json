@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T16:34:56.734458+00:00",
+  "updatedAt": "2026-10-28T01:20:00.622287+00:00",
   "title": "FlaPress",
   "playlistId": "PLRTMoJ6RWDVBmx2j2eV-yJR9dRqnc_EaJ",
   "entries": [
@@ -929,6 +929,14 @@
       "url": "https://www.youtube.com/watch?v=6sTH9tBOB4s",
       "live_status": null,
       "duration": 1271,
+      "thumbnail": null
+    },
+    {
+      "id": "o2FavLVy3t0",
+      "title": "WHAT YOU DIDN'T SEE FROM THE WIN AGAINST ATLÉTICO-MG AND EVERYTHING ON VASCO VS. FLAMENGO ON FLAP...",
+      "url": "https://www.youtube.com/watch?v=o2FavLVy3t0",
+      "live_status": null,
+      "duration": 1672,
       "thumbnail": null
     }
   ]
