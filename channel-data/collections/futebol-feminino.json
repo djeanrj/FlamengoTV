@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-10-30T19:21:24.369723+00:00",
+  "updatedAt": "2026-10-30T23:44:45.458050+00:00",
   "title": "Futebol Feminino",
   "playlistId": "PLRTMoJ6RWDVCzmg_E3jsQhnvHi4ZW2wS6",
   "entries": [
+    {
+      "id": "zxjfJPPe_vg",
+      "title": "🔴 AO VIVO: FLAMENGO MARICÁ x HEIPS | CAMPEONATO CARIOCA FEMININO (31/10/26)",
+      "url": "https://www.youtube.com/watch?v=zxjfJPPe_vg",
+      "live_status": "is_upcoming",
+      "duration": null,
+      "thumbnail": null
+    },
     {
       "id": "3gRGsFb-lTU",
       "title": "🔴 AO VIVO: FLAMENGO MARICÁ x ARARUAMA | CAMPEONATO CARIOCA FEMININO (28/10/26)",

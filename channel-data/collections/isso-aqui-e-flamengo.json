@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T19:21:24.369723+00:00",
+  "updatedAt": "2026-10-30T23:44:45.458050+00:00",
   "title": "Isso aqui é Flamengo",
   "playlistId": "PLRTMoJ6RWDVCqCHsn1WjnL3EP14RfITUB",
   "entries": [
@@ -841,6 +841,22 @@
       "url": "https://www.youtube.com/watch?v=qvw0pAWuZLM",
       "live_status": null,
       "duration": 574,
+      "thumbnail": null
+    },
+    {
+      "id": "IJpUK6mqlT8",
+      "title": null,
+      "url": "https://www.youtube.com/watch?v=IJpUK6mqlT8",
+      "live_status": null,
+      "duration": null,
+      "thumbnail": null
+    },
+    {
+      "id": "z51FgLY52mU",
+      "title": "THIS IS FLAMENGO | VASCO 1 X 4 FLAMENGO | BRASILEIRÃO (10/29/2026)",
+      "url": "https://www.youtube.com/watch?v=z51FgLY52mU",
+      "live_status": null,
+      "duration": 648,
       "thumbnail": null
     }
   ]
