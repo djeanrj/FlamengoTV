@@ -4,12 +4,24 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-11-01T13:20:59.522654+00:00",
+  "updatedAt": "2026-11-01T18:55:09.046330+00:00",
   "videos": [
+    {
+      "id": "_3lMIpiLuow",
+      "title": "DOMINGO DE TRABALHO! FLAMENGO SE REAPRESENTA NO NINHO",
+      "published": "2026-11-01T16:14:47+00:00",
+      "isShort": false
+    },
+    {
+      "id": "r1Xe0GeoWfs",
+      "title": "🔴 AO VIVO: FLAMENGO x UNIÃO CORINTHIANS | NBB - 01/11",
+      "published": "2026-10-30T23:32:18+00:00",
+      "isShort": false
+    },
     {
       "id": "G0NQ-oVQecE",
       "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 01/11/26",
-      "published": "2026-10-30T23:55:06+00:00",
+      "published": "2026-11-01T14:03:33+00:00",
       "isShort": false
     },
     {
@@ -61,12 +73,6 @@
       "isShort": false
     },
     {
-      "id": "r1Xe0GeoWfs",
-      "title": "🔴 AO VIVO: FLAMENGO x UNIÃO CORINTHIANS | NBB - 01/11",
-      "published": "2026-10-30T23:32:18+00:00",
-      "isShort": false
-    },
-    {
       "id": "z51FgLY52mU",
       "title": "ISSO AQUI É FLAMENGO | VASCO 1 X 4 FLAMENGO | BRASILEIRÃO (29/10/2026)",
       "published": "2026-10-30T22:00:08+00:00",
@@ -88,12 +94,6 @@
       "id": "pb9mRk97jjc",
       "title": "PEDRO 9️⃣",
       "published": "2026-10-30T19:09:18+00:00",
-      "isShort": false
-    },
-    {
-      "id": "oTDlbw9pw0s",
-      "title": "+3️⃣ PONTOS!!!",
-      "published": "2026-10-30T17:17:43+00:00",
       "isShort": false
     }
   ]
