@@ -4,18 +4,24 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-10-31T23:22:43.786245+00:00",
+  "updatedAt": "2026-11-01T13:20:59.522654+00:00",
   "videos": [
     {
-      "id": "zxjfJPPe_vg",
-      "title": "🔴 AO VIVO: FLAMENGO MARICÁ x HEIPS | CAMPEONATO CARIOCA FEMININO (31/10/26)",
-      "published": "2026-10-31T22:22:46+00:00",
+      "id": "G0NQ-oVQecE",
+      "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 01/11/26",
+      "published": "2026-10-30T23:55:06+00:00",
       "isShort": false
     },
     {
       "id": "U_MGOH2r0eQ",
       "title": "🔴AO VIVO: PRÉ-JOGO DA SUPERLIGA DE VÔLEI FEMININO - SESC FLAMENGO x MACKENZIE | 31/10/26",
       "published": "2026-10-31T23:01:49+00:00",
+      "isShort": false
+    },
+    {
+      "id": "zxjfJPPe_vg",
+      "title": "🔴 AO VIVO: FLAMENGO MARICÁ x HEIPS | CAMPEONATO CARIOCA FEMININO (31/10/26)",
+      "published": "2026-10-31T22:22:46+00:00",
       "isShort": false
     },
     {
@@ -34,12 +40,6 @@
       "id": "HuDlYjDtoXY",
       "title": "🔴 AO VIVO: FLAMENGO x CAXIAS DO SUL | NBB - 30/10",
       "published": "2026-10-31T01:35:17+00:00",
-      "isShort": false
-    },
-    {
-      "id": "G0NQ-oVQecE",
-      "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 01/11/26",
-      "published": "2026-10-30T23:55:06+00:00",
       "isShort": false
     },
     {
