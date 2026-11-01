@@ -4,18 +4,24 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-11-01T18:55:09.046330+00:00",
+  "updatedAt": "2026-11-01T22:48:24.744416+00:00",
   "videos": [
     {
-      "id": "_3lMIpiLuow",
-      "title": "DOMINGO DE TRABALHO! FLAMENGO SE REAPRESENTA NO NINHO",
-      "published": "2026-11-01T16:14:47+00:00",
+      "id": "DCwL0Tio2ss",
+      "title": "BASTIDORES: SESC RJ FLAMENGO 3 X 0 BATAVO MACKENZIE | SUPERLIGA FEMININA (31/10/26)",
+      "published": "2026-11-01T22:43:36+00:00",
       "isShort": false
     },
     {
       "id": "r1Xe0GeoWfs",
       "title": "🔴 AO VIVO: FLAMENGO x UNIÃO CORINTHIANS | NBB - 01/11",
-      "published": "2026-10-30T23:32:18+00:00",
+      "published": "2026-11-01T19:55:27+00:00",
+      "isShort": false
+    },
+    {
+      "id": "_3lMIpiLuow",
+      "title": "DOMINGO DE TRABALHO! FLAMENGO SE REAPRESENTA NO NINHO",
+      "published": "2026-11-01T16:14:47+00:00",
       "isShort": false
     },
     {
@@ -88,12 +94,6 @@
       "id": "LIdrGMKJavo",
       "title": "FLAMENGO REALIZA TREINO NO NINHO DO URUBU APÓS CLÁSSICO CONTRA O VASCO",
       "published": "2026-10-30T20:00:03+00:00",
-      "isShort": false
-    },
-    {
-      "id": "pb9mRk97jjc",
-      "title": "PEDRO 9️⃣",
-      "published": "2026-10-30T19:09:18+00:00",
       "isShort": false
     }
   ]
