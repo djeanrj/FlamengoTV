@@ -4,8 +4,20 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-11-01T22:48:24.744416+00:00",
+  "updatedAt": "2026-11-02T11:01:50.957398+00:00",
   "videos": [
+    {
+      "id": "1px9rExY_oQ",
+      "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 02/11/26",
+      "published": "2026-11-02T08:35:43+00:00",
+      "isShort": false
+    },
+    {
+      "id": "HZ_vLjnt1C4",
+      "title": "OS BASTIDORES DA NOSSA VITÓRIA NA SUPERLIGA FEMININA ESTÃO NO AR! ❤️🖤",
+      "published": "2026-11-01T22:49:37+00:00",
+      "isShort": false
+    },
     {
       "id": "DCwL0Tio2ss",
       "title": "BASTIDORES: SESC RJ FLAMENGO 3 X 0 BATAVO MACKENZIE | SUPERLIGA FEMININA (31/10/26)",
@@ -82,18 +94,6 @@
       "id": "z51FgLY52mU",
       "title": "ISSO AQUI É FLAMENGO | VASCO 1 X 4 FLAMENGO | BRASILEIRÃO (29/10/2026)",
       "published": "2026-10-30T22:00:08+00:00",
-      "isShort": false
-    },
-    {
-      "id": "Ht_mbl_6q5Y",
-      "title": "🔴 AO VIVO: FLAMENGO x SAMPAIO CORRÊA | CAMPEONATO CARIOCA SUB-20 (30/10/26)",
-      "published": "2026-10-30T20:53:25+00:00",
-      "isShort": false
-    },
-    {
-      "id": "LIdrGMKJavo",
-      "title": "FLAMENGO REALIZA TREINO NO NINHO DO URUBU APÓS CLÁSSICO CONTRA O VASCO",
-      "published": "2026-10-30T20:00:03+00:00",
       "isShort": false
     }
   ]
