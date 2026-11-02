@@ -4,12 +4,30 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-11-02T11:01:50.957398+00:00",
+  "updatedAt": "2026-11-02T20:45:43.776628+00:00",
   "videos": [
+    {
+      "id": "DCOc8MK4wLw",
+      "title": "EM NOME DO JOGO | O ENDIVIDAMENTO DOS CLUBES BRASILEIROS COM RODRIGO CAPELO E RODRIGO MATTOS",
+      "published": "2026-11-02T18:16:05+00:00",
+      "isShort": false
+    },
+    {
+      "id": "2MRYRdtrdJU",
+      "title": "NAÇÃO LEGADO | ACOMPANHE O BASTIDORES DO LANCE HISTÓRICO (30/10/26)",
+      "published": "2026-11-02T14:44:28+00:00",
+      "isShort": false
+    },
+    {
+      "id": "oZyhSiqK1F8",
+      "title": "NAÇÃO LEGADO | ACOMPANHE O BASTIDORES DO LANCE HISTÓRICO (30/10/26)",
+      "published": "2026-11-02T14:43:31+00:00",
+      "isShort": false
+    },
     {
       "id": "1px9rExY_oQ",
       "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 02/11/26",
-      "published": "2026-11-02T08:35:43+00:00",
+      "published": "2026-11-02T13:48:39+00:00",
       "isShort": false
     },
     {
@@ -76,24 +94,6 @@
       "id": "vfbjeS8b_eg",
       "title": "🔴 EN VIVO: FLAMENGO x GRÊMIO | NARRACIÓN EN ESPAÑOL Y CON IMÁGENES | BRASILEIRÃO (04/11/26)",
       "published": "2026-10-30T23:49:39+00:00",
-      "isShort": false
-    },
-    {
-      "id": "kNbNyIvI-Aw",
-      "title": "🔴 AO VIVO: FLAMENGO x GRÊMIO | PRÉ-JOGO + NARRAÇÃO | BRASILEIRÃO (04/11/26)",
-      "published": "2026-10-30T23:45:00+00:00",
-      "isShort": false
-    },
-    {
-      "id": "tCjAW1d178w",
-      "title": "🔴 AO VIVO: FLAMENGO x GRÊMIO | COM IMAGENS E NARRAÇÃO EM PORTUGUÊS | BRASILEIRÃO (04/11/26)",
-      "published": "2026-10-30T23:40:09+00:00",
-      "isShort": false
-    },
-    {
-      "id": "z51FgLY52mU",
-      "title": "ISSO AQUI É FLAMENGO | VASCO 1 X 4 FLAMENGO | BRASILEIRÃO (29/10/2026)",
-      "published": "2026-10-30T22:00:08+00:00",
       "isShort": false
     }
   ]
