@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T06:42:26.544313+00:00",
+  "updatedAt": "2026-11-03T15:05:43.656040+00:00",
   "title": "Memengo",
   "playlistId": "PLRTMoJ6RWDVAlahq0WQdYi7Rq51wQ8Yrf",
   "entries": [
@@ -601,6 +601,14 @@
       "url": "https://www.youtube.com/watch?v=HIqX74NJWi8",
       "live_status": null,
       "duration": 710,
+      "thumbnail": null
+    },
+    {
+      "id": "82jfkFZ2LaQ",
+      "title": "TWO WINS AND THE BEST MEMES OF THE WEEK! | MEMENGO #77",
+      "url": "https://www.youtube.com/watch?v=82jfkFZ2LaQ",
+      "live_status": null,
+      "duration": 841,
       "thumbnail": null
     }
   ]
