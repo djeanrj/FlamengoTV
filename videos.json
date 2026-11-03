@@ -4,8 +4,14 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-11-02T20:45:43.776628+00:00",
+  "updatedAt": "2026-11-03T02:54:23.167366+00:00",
   "videos": [
+    {
+      "id": "OBn60xGMd0I",
+      "title": "O TRABALHO NÃO PARA! FERIADO DE TREINO NO NINHO DO URUBU",
+      "published": "2026-11-02T21:30:34+00:00",
+      "isShort": false
+    },
     {
       "id": "DCOc8MK4wLw",
       "title": "EM NOME DO JOGO | O ENDIVIDAMENTO DOS CLUBES BRASILEIROS COM RODRIGO CAPELO E RODRIGO MATTOS",
@@ -88,12 +94,6 @@
       "id": "HuDlYjDtoXY",
       "title": "🔴 AO VIVO: FLAMENGO x CAXIAS DO SUL | NBB - 30/10",
       "published": "2026-10-31T01:35:17+00:00",
-      "isShort": false
-    },
-    {
-      "id": "vfbjeS8b_eg",
-      "title": "🔴 EN VIVO: FLAMENGO x GRÊMIO | NARRACIÓN EN ESPAÑOL Y CON IMÁGENES | BRASILEIRÃO (04/11/26)",
-      "published": "2026-10-30T23:49:39+00:00",
       "isShort": false
     }
   ]
