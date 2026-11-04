@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T21:00:43.905076+00:00",
+  "updatedAt": "2026-11-04T01:20:14.970985+00:00",
   "title": "FlaPress",
   "playlistId": "PLRTMoJ6RWDVBmx2j2eV-yJR9dRqnc_EaJ",
   "entries": [
@@ -937,6 +937,14 @@
       "url": "https://www.youtube.com/watch?v=o2FavLVy3t0",
       "live_status": null,
       "duration": 1672,
+      "thumbnail": null
+    },
+    {
+      "id": "wrgo_EkM8E8",
+      "title": "TOWARD THE DECA: EVERYTHING ON FLAMENGO VS. GRÊMIO AND MUCH MORE ON FLAPRESS",
+      "url": "https://www.youtube.com/watch?v=wrgo_EkM8E8",
+      "live_status": null,
+      "duration": 1423,
       "thumbnail": null
     }
   ]
