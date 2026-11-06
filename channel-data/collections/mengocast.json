@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-11-06T10:48:39.576881+00:00",
+  "updatedAt": "2026-11-06T17:58:48.106936+00:00",
   "title": "MengoCast",
   "playlistId": "PLRTMoJ6RWDVB0Zfnw3sWxKHxs3DEgT0MR",
   "entries": [
+    {
+      "id": "SVk3YtLD0Ak",
+      "title": "GUILLERMO VARELA - MENGOCAST #71",
+      "url": "https://www.youtube.com/watch?v=SVk3YtLD0Ak",
+      "live_status": null,
+      "duration": 2034,
+      "thumbnail": null
+    },
     {
       "id": "YqtqJxSxiPI",
       "title": "GETÚLIO VARGAS \"GV\" - MENGOCAST #70",
