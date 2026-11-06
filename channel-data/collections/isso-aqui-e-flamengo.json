@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T22:00:34.614488+00:00",
+  "updatedAt": "2026-11-06T02:25:18.768420+00:00",
   "title": "Isso aqui é Flamengo",
   "playlistId": "PLRTMoJ6RWDVCqCHsn1WjnL3EP14RfITUB",
   "entries": [
@@ -857,6 +857,14 @@
       "url": "https://www.youtube.com/watch?v=z51FgLY52mU",
       "live_status": null,
       "duration": 648,
+      "thumbnail": null
+    },
+    {
+      "id": "acLVcTo_SYw",
+      "title": "THIS IS FLAMENGO | FLAMENGO 3 X 1 GRÊMIO | BRASILEIRÃO (11/04/2026)",
+      "url": "https://www.youtube.com/watch?v=acLVcTo_SYw",
+      "live_status": null,
+      "duration": 685,
       "thumbnail": null
     }
   ]
