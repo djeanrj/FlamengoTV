@@ -4,12 +4,18 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-11-07T13:59:55.102672+00:00",
+  "updatedAt": "2026-11-07T18:46:53.574715+00:00",
   "videos": [
     {
       "id": "ecnHJeBhVFY",
       "title": "🔴 AO VIVO: FLAMENGO x VASCO | CAMPEONATO CARIOCA SUB-20 (07/11/26)",
-      "published": "2026-11-06T21:03:31+00:00",
+      "published": "2026-11-07T15:18:10+00:00",
+      "isShort": false
+    },
+    {
+      "id": "B80FC6EsCY0",
+      "title": "Chegou a camisa da Consciência Negra em homenagem ao Bruno Henrique. Garanta em flamengo.com.br/loja",
+      "published": "2026-11-07T14:00:01+00:00",
       "isShort": false
     },
     {
@@ -88,12 +94,6 @@
       "id": "nxmv_LnjJdM",
       "title": "Depois da vitória de ontem no Maraca, o Mengão treinou hoje pela manhã aqui no Ninho do Urubu! 🔴⚫️",
       "published": "2026-11-05T15:29:05+00:00",
-      "isShort": false
-    },
-    {
-      "id": "0aAYJCgdNf8",
-      "title": "PEGA ESSA DUPLA! 🏐 Será que a Nayla e a Giovanna do #SescRJFlamengo se deram bem nesse desafio? 😂",
-      "published": "2026-11-05T15:12:07+00:00",
       "isShort": false
     }
   ]
