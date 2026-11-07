@@ -4,8 +4,20 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-11-07T18:46:53.574715+00:00",
+  "updatedAt": "2026-11-07T22:44:32.954108+00:00",
   "videos": [
+    {
+      "id": "8CFpBDbDH-k",
+      "title": "🔴 AO VIVO: PATO BASQUETE x FLAMENGO | NBB - 07/11",
+      "published": "2026-11-06T21:08:31+00:00",
+      "isShort": false
+    },
+    {
+      "id": "FstMUFjN4Cw",
+      "title": "NÃO SE META COM A MINHA LIDERANÇA, DATA FIFA - MEMENGO #78",
+      "published": "2026-11-07T21:24:33+00:00",
+      "isShort": false
+    },
     {
       "id": "ecnHJeBhVFY",
       "title": "🔴 AO VIVO: FLAMENGO x VASCO | CAMPEONATO CARIOCA SUB-20 (07/11/26)",
@@ -22,12 +34,6 @@
       "id": "aJ9rDFZavPc",
       "title": "VARELA FALA SOBRE COMO FOI TRABALHAR COM FERGUSON NO MANCHESTER UNITED: \"MUITO SÉRIO E CORRETO\".",
       "published": "2026-11-06T21:14:56+00:00",
-      "isShort": false
-    },
-    {
-      "id": "8CFpBDbDH-k",
-      "title": "🔴 AO VIVO: PATO BASQUETE x FLAMENGO | NBB - 07/11",
-      "published": "2026-11-06T21:08:31+00:00",
       "isShort": false
     },
     {
@@ -88,12 +94,6 @@
       "id": "XwjijbXyMiY",
       "title": "CASARÃO 22 - REPÚBLICA PAZ E AMOR | CORRE O TEMPO NO OLHAR #10",
       "published": "2026-11-05T18:04:45+00:00",
-      "isShort": false
-    },
-    {
-      "id": "nxmv_LnjJdM",
-      "title": "Depois da vitória de ontem no Maraca, o Mengão treinou hoje pela manhã aqui no Ninho do Urubu! 🔴⚫️",
-      "published": "2026-11-05T15:29:05+00:00",
       "isShort": false
     }
   ]
