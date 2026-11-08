@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T20:54:27.683183+00:00",
+  "updatedAt": "2026-11-08T00:34:26.874037+00:00",
   "title": "Memengo",
   "playlistId": "PLRTMoJ6RWDVAlahq0WQdYi7Rq51wQ8Yrf",
   "entries": [
@@ -609,6 +609,14 @@
       "url": "https://www.youtube.com/watch?v=82jfkFZ2LaQ",
       "live_status": null,
       "duration": 841,
+      "thumbnail": null
+    },
+    {
+      "id": "FstMUFjN4Cw",
+      "title": "DON'T MESS WITH MY LEADERSHIP, FIFA DATES - MEMENGO #78",
+      "url": "https://www.youtube.com/watch?v=FstMUFjN4Cw",
+      "live_status": null,
+      "duration": 671,
       "thumbnail": null
     }
   ]
