@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T06:04:41.203579+00:00",
+  "updatedAt": "2026-11-11T14:11:59.979894+00:00",
   "title": "FlaPress",
   "playlistId": "PLRTMoJ6RWDVBmx2j2eV-yJR9dRqnc_EaJ",
   "entries": [
@@ -945,6 +945,14 @@
       "url": "https://www.youtube.com/watch?v=wrgo_EkM8E8",
       "live_status": null,
       "duration": 1423,
+      "thumbnail": null
+    },
+    {
+      "id": "6A1agvQEQdE",
+      "title": "DANILO IS BACK, BRUNO HENRIQUE HONORED WITH A NEW JERSEY, AND MUCH MORE ON FLAPRESS!",
+      "url": "https://www.youtube.com/watch?v=6A1agvQEQdE",
+      "live_status": null,
+      "duration": 1108,
       "thumbnail": null
     }
   ]
