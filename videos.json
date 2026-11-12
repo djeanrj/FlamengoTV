@@ -4,8 +4,20 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-11-11T21:56:04.141522+00:00",
+  "updatedAt": "2026-11-12T11:04:00.402059+00:00",
   "videos": [
+    {
+      "id": "z4J1l5pNUFE",
+      "title": "EMERSON ROYAL EM AÇÃO! TREINO DO NOSSO LATERAL 🔴⚫",
+      "published": "2026-11-12T10:00:25+00:00",
+      "isShort": false
+    },
+    {
+      "id": "tO7jM5QlE1o",
+      "title": "FOCO NA LIDERANÇA! FLAMENGO TREINA FORTE NO NINHO 🔴⚫",
+      "published": "2026-11-11T23:50:11+00:00",
+      "isShort": false
+    },
     {
       "id": "MH0BW8ToO38",
       "title": "Garanta já a sua camisa nas lojas oficias e no site: flamengo.com.br/loja",
@@ -82,18 +94,6 @@
       "id": "PVjfSd3pmzo",
       "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 10/11/26",
       "published": "2026-11-10T14:06:42+00:00",
-      "isShort": false
-    },
-    {
-      "id": "n5EzltdI8vA",
-      "title": "A técnica dos craques @erickoficial e @pedroguilherme! 🤯",
-      "published": "2026-11-10T14:03:24+00:00",
-      "isShort": false
-    },
-    {
-      "id": "x_qkM7p2kAQ",
-      "title": "Oficialmente estamos nela... a temida Data FIFA! 😒😅",
-      "published": "2026-11-10T13:59:16+00:00",
       "isShort": false
     }
   ]
