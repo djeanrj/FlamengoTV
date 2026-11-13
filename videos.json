@@ -4,8 +4,20 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-11-12T18:54:10.628458+00:00",
+  "updatedAt": "2026-11-13T00:21:03.877960+00:00",
   "videos": [
+    {
+      "id": "U6sqKNlQrk0",
+      "title": "🔴AO VIVO: PRÉ-JOGO DA SUPERLIGA DE VÔLEI FEMININO - SESC FLAMENGO x FLUMINENSE | 12/11/26",
+      "published": "2026-11-12T23:51:30+00:00",
+      "isShort": false
+    },
+    {
+      "id": "LQtkLTmn7IY",
+      "title": "QUINTA-FEIRA DE TRABALHO! FLAMENGO SEGUE A PREPARAÇÃO DURANTE A DATA FIFA",
+      "published": "2026-11-12T21:00:21+00:00",
+      "isShort": false
+    },
     {
       "id": "0e8ApuT_GL8",
       "title": "O QUE É SER RUBRO-NEGRO? MAIS UM VÍDEO DE CORRE O TEMPO NO OLHAR COM HISTÓRIAS DO MENGÃO 🔴⚫",
@@ -61,12 +73,6 @@
       "isShort": false
     },
     {
-      "id": "U6sqKNlQrk0",
-      "title": "🔴AO VIVO: PRÉ-JOGO DA SUPERLIGA DE VÔLEI FEMININO - SESC FLAMENGO x FLUMINENSE | 12/11/26",
-      "published": "2026-11-11T16:22:44+00:00",
-      "isShort": false
-    },
-    {
       "id": "hhPOQ8gXjpg",
       "title": "NOSSO ZAGUEIRO ARTILHEIRO NO TREINO ⚽🔴⚫",
       "published": "2026-11-11T12:59:46+00:00",
@@ -88,12 +94,6 @@
       "id": "5uz9L2LbRi4",
       "title": "A juventude faz bem para uns e maravilhas para outros 🧐🤭😂",
       "published": "2026-11-11T00:30:08+00:00",
-      "isShort": false
-    },
-    {
-      "id": "i-qq9kS0X88",
-      "title": "🇨🇴🔴⚫",
-      "published": "2026-11-10T19:45:52+00:00",
       "isShort": false
     }
   ]
