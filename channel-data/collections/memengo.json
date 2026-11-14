@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T11:27:29.227458+00:00",
+  "updatedAt": "2026-11-14T18:00:08.502526+00:00",
   "title": "Memengo",
   "playlistId": "PLRTMoJ6RWDVAlahq0WQdYi7Rq51wQ8Yrf",
   "entries": [
@@ -617,6 +617,14 @@
       "url": "https://www.youtube.com/watch?v=FstMUFjN4Cw",
       "live_status": null,
       "duration": 671,
+      "thumbnail": null
+    },
+    {
+      "id": "sAdYwbgf8q8",
+      "title": "🚨 BRUNO HENRIQUE E BROCADOR ABREM O JOGO (OU NÃO) - MEMENGO #79",
+      "url": "https://www.youtube.com/watch?v=sAdYwbgf8q8",
+      "live_status": null,
+      "duration": 557,
       "thumbnail": null
     }
   ]
