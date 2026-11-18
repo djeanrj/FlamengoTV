@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T22:18:41.972392+00:00",
+  "updatedAt": "2026-11-18T04:17:27.035013+00:00",
   "title": "FlaPress",
   "playlistId": "PLRTMoJ6RWDVBmx2j2eV-yJR9dRqnc_EaJ",
   "entries": [
@@ -953,6 +953,14 @@
       "url": "https://www.youtube.com/watch?v=6A1agvQEQdE",
       "live_status": null,
       "duration": 1108,
+      "thumbnail": null
+    },
+    {
+      "id": "Nt15bw3tjkM",
+      "title": "EVERYTHING ON FLAMENGO VS. ATHLETICO-PR, FLABASQUETE IN THE TOP 4 IN THE AMERICAS, AND MUCH MORE ...",
+      "url": "https://www.youtube.com/watch?v=Nt15bw3tjkM",
+      "live_status": null,
+      "duration": 1328,
       "thumbnail": null
     }
   ]
