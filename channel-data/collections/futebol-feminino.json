@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T13:56:03.834521+00:00",
+  "updatedAt": "2026-11-19T03:22:09.210616+00:00",
   "title": "Futebol Feminino",
   "playlistId": "PLRTMoJ6RWDVCzmg_E3jsQhnvHi4ZW2wS6",
   "entries": [
@@ -7,8 +7,8 @@
       "id": "MaTpJhgfSVk",
       "title": "🔴 AO VIVO: FLAMENGO MARICÁ x BOTAFOGO | CAMPEONATO CARIOCA FEMININO (18/11/26)",
       "url": "https://www.youtube.com/watch?v=MaTpJhgfSVk",
-      "live_status": "is_upcoming",
-      "duration": null,
+      "live_status": "was_live",
+      "duration": 8904,
       "thumbnail": null
     },
     {
