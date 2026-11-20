@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-11-20T11:32:44.974179+00:00",
+  "updatedAt": "2026-11-20T20:06:57.391295+00:00",
   "title": "MengoCast",
   "playlistId": "PLRTMoJ6RWDVB0Zfnw3sWxKHxs3DEgT0MR",
   "entries": [
+    {
+      "id": "EXMJcetcdJQ",
+      "title": "DEMÉTRIUS FERRACCIÚ - MENGOCAST #73",
+      "url": "https://www.youtube.com/watch?v=EXMJcetcdJQ",
+      "live_status": null,
+      "duration": 3422,
+      "thumbnail": null
+    },
     {
       "id": "SVk3YtLD0Ak",
       "title": "GUILLERMO VARELA - MENGOCAST #71",
