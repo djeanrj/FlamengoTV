@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T02:43:00.293329+00:00",
+  "updatedAt": "2026-11-23T12:23:22.962757+00:00",
   "title": "Isso aqui é Flamengo",
   "playlistId": "PLRTMoJ6RWDVCqCHsn1WjnL3EP14RfITUB",
   "entries": [
@@ -869,10 +869,26 @@
     },
     {
       "id": "WeeqUoP3bRc",
-      "title": "BASTIDORES DO DECA | PALMEIRAS 1 X 1 FLAMENGO | ISSO AQUI É FLAMENGO | BRASILEIRÃO (21/11/26)",
+      "title": null,
       "url": "https://www.youtube.com/watch?v=WeeqUoP3bRc",
       "live_status": null,
-      "duration": 1475,
+      "duration": null,
+      "thumbnail": null
+    },
+    {
+      "id": "QozMNtMASgU",
+      "title": null,
+      "url": "https://www.youtube.com/watch?v=QozMNtMASgU",
+      "live_status": null,
+      "duration": null,
+      "thumbnail": null
+    },
+    {
+      "id": "cWbuahMwjMY",
+      "title": null,
+      "url": "https://www.youtube.com/watch?v=cWbuahMwjMY",
+      "live_status": null,
+      "duration": null,
       "thumbnail": null
     }
   ]
