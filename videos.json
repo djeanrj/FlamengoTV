@@ -4,12 +4,18 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-11-22T19:37:11.213110+00:00",
+  "updatedAt": "2026-11-23T00:51:09.829746+00:00",
   "videos": [
     {
       "id": "IZOsuxwE0xQ",
       "title": "🔴 AO VIVO: BASQUETE CEARENSE x FLAMENGO | NBB - 22/11",
-      "published": "2026-11-19T16:09:42+00:00",
+      "published": "2026-11-22T21:18:00+00:00",
+      "isShort": false
+    },
+    {
+      "id": "pRLRxizFRQ8",
+      "title": "No Mengo Estúdio, você veste Flamengo do seu jeito 🫵",
+      "published": "2026-11-22T20:00:13+00:00",
       "isShort": false
     },
     {
@@ -88,12 +94,6 @@
       "id": "HSbHPojX498",
       "title": "CELEBRA #DECAMPEAO! 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆",
       "published": "2026-11-21T22:20:38+00:00",
-      "isShort": false
-    },
-    {
-      "id": "_Lr1sk4u3Xk",
-      "title": "É A TAÇA DO DECA ALI? 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆",
-      "published": "2026-11-21T22:10:21+00:00",
       "isShort": false
     }
   ]
