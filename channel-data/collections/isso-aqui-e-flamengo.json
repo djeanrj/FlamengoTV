@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T21:46:14.971193+00:00",
+  "updatedAt": "2026-11-23T02:43:00.293329+00:00",
   "title": "Isso aqui é Flamengo",
   "playlistId": "PLRTMoJ6RWDVCqCHsn1WjnL3EP14RfITUB",
   "entries": [
@@ -796,35 +796,11 @@
       "thumbnail": null
     },
     {
-      "id": "wcxVYc_PuEA",
-      "title": null,
-      "url": "https://www.youtube.com/watch?v=wcxVYc_PuEA",
-      "live_status": null,
-      "duration": null,
-      "thumbnail": null
-    },
-    {
-      "id": "dm3I1vXs1Us",
-      "title": null,
-      "url": "https://www.youtube.com/watch?v=dm3I1vXs1Us",
-      "live_status": null,
-      "duration": null,
-      "thumbnail": null
-    },
-    {
       "id": "5apWWZtiIVk",
       "title": "THIS IS FLAMENGO | ESTUDIANTES 0 X 0 FLAMENGO | LIBERTADORES (10/15/26)",
       "url": "https://www.youtube.com/watch?v=5apWWZtiIVk",
       "live_status": null,
       "duration": 655,
-      "thumbnail": null
-    },
-    {
-      "id": "iMreQwAjmi4",
-      "title": null,
-      "url": "https://www.youtube.com/watch?v=iMreQwAjmi4",
-      "live_status": null,
-      "duration": null,
       "thumbnail": null
     },
     {
@@ -881,6 +857,22 @@
       "url": "https://www.youtube.com/watch?v=m9kDgic7Y-o",
       "live_status": null,
       "duration": 761,
+      "thumbnail": null
+    },
+    {
+      "id": "qjDl1cXoUFA",
+      "title": null,
+      "url": "https://www.youtube.com/watch?v=qjDl1cXoUFA",
+      "live_status": null,
+      "duration": null,
+      "thumbnail": null
+    },
+    {
+      "id": "WeeqUoP3bRc",
+      "title": "BASTIDORES DO DECA | PALMEIRAS 1 X 1 FLAMENGO | ISSO AQUI É FLAMENGO | BRASILEIRÃO (21/11/26)",
+      "url": "https://www.youtube.com/watch?v=WeeqUoP3bRc",
+      "live_status": null,
+      "duration": 1475,
       "thumbnail": null
     }
   ]
