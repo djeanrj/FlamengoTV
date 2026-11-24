@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-11-24T10:54:08.017007+00:00",
+  "updatedAt": "2026-11-24T21:10:35.301832+00:00",
   "title": "Futebol Feminino",
   "playlistId": "PLRTMoJ6RWDVCzmg_E3jsQhnvHi4ZW2wS6",
   "entries": [
+    {
+      "id": "h8nak_8Y4co",
+      "title": "🔴 AO VIVO: FLAMENGO MARICÁ x FLUMINENSE | CAMPEONATO CARIOCA FEMININO (24/11/26)",
+      "url": "https://www.youtube.com/watch?v=h8nak_8Y4co",
+      "live_status": "was_live",
+      "duration": 9223,
+      "thumbnail": null
+    },
     {
       "id": "uP8g9jK8CNU",
       "title": "🔴 AO VIVO: VASCO x FLAMENGO MARICÁ | CAMPEONATO CARIOCA FEMININO (21/11/26)",
