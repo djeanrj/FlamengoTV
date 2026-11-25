@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T04:55:51.154343+00:00",
+  "updatedAt": "2026-11-25T15:34:50.833641+00:00",
   "title": "Isso aqui é Flamengo",
   "playlistId": "PLRTMoJ6RWDVCqCHsn1WjnL3EP14RfITUB",
   "entries": [
@@ -845,10 +845,10 @@
     },
     {
       "id": "aZ70gj6GSdI",
-      "title": "ISSO AQUI É FLAMENGO | FLAMENGO 2 X 1 ATHLETICO-PR | BRASILEIRÃO | 18/11/2026",
+      "title": null,
       "url": "https://www.youtube.com/watch?v=aZ70gj6GSdI",
       "live_status": null,
-      "duration": 761,
+      "duration": null,
       "thumbnail": null
     },
     {
@@ -889,6 +889,14 @@
       "url": "https://www.youtube.com/watch?v=cWbuahMwjMY",
       "live_status": null,
       "duration": 1472,
+      "thumbnail": null
+    },
+    {
+      "id": "qibfzpjp4JE",
+      "title": null,
+      "url": "https://www.youtube.com/watch?v=qibfzpjp4JE",
+      "live_status": null,
+      "duration": null,
       "thumbnail": null
     }
   ]

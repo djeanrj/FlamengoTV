@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T04:55:51.154343+00:00",
+  "updatedAt": "2026-11-25T15:34:50.833641+00:00",
   "title": "Memengo",
   "playlistId": "PLRTMoJ6RWDVAlahq0WQdYi7Rq51wQ8Yrf",
   "entries": [
@@ -625,6 +625,22 @@
       "url": "https://www.youtube.com/watch?v=sAdYwbgf8q8",
       "live_status": null,
       "duration": 557,
+      "thumbnail": null
+    },
+    {
+      "id": "QylzMtqIxpg",
+      "title": "CHASING THE 10TH TITLE AND THE MEMES OF THE WEEK! | MEMENGO #80",
+      "url": "https://www.youtube.com/watch?v=QylzMtqIxpg",
+      "live_status": null,
+      "duration": 558,
+      "thumbnail": null
+    },
+    {
+      "id": "DbMBLddU1I4",
+      "title": "MEMENGO IS BACK AND FULL OF RAGE! 😡😂 | MEMENGO #75",
+      "url": "https://www.youtube.com/watch?v=DbMBLddU1I4",
+      "live_status": null,
+      "duration": 567,
       "thumbnail": null
     }
   ]
