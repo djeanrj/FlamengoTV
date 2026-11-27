@@ -4,8 +4,32 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-11-27T08:27:40.649013+00:00",
+  "updatedAt": "2026-11-27T18:57:11.710317+00:00",
   "videos": [
+    {
+      "id": "5cbSjvQegCo",
+      "title": "🔴 AO VIVO: FLAMENGO MARICÁ x FLUMINENSE | CAMPEONATO CARIOCA FEMININO (27/11/26)",
+      "published": "2026-11-27T13:19:49+00:00",
+      "isShort": false
+    },
+    {
+      "id": "fNRDLG8gS_s",
+      "title": "ARLINDINHO - MENGOCAST #74",
+      "published": "2026-11-27T18:30:17+00:00",
+      "isShort": false
+    },
+    {
+      "id": "9nrbTmOB6Ns",
+      "title": "CELEBRAMOS JUNTOS! BASTIDORES DO CHURRASCO DO DECA NO NINHO",
+      "published": "2026-11-27T15:12:59+00:00",
+      "isShort": false
+    },
+    {
+      "id": "uaU79Kj-ODY",
+      "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 27/11/26",
+      "published": "2026-11-27T13:36:52+00:00",
+      "isShort": false
+    },
     {
       "id": "1zoXEllUe7A",
       "title": "Nossos craques já garantiram as camisas deles! E você? Vista o Deca em flamengo.com.br/mengo-estúdio",
@@ -16,12 +40,6 @@
       "id": "ynORJ7fqLXU",
       "title": "A VOLTA DOS CAMPEÕES! FLAMENGO SE REAPRESENTA PARA TREINO NO NINHO 🔴⚫",
       "published": "2026-11-26T23:00:38+00:00",
-      "isShort": false
-    },
-    {
-      "id": "uaU79Kj-ODY",
-      "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 27/11/26",
-      "published": "2026-11-26T21:51:06+00:00",
       "isShort": false
     },
     {
@@ -76,24 +94,6 @@
       "id": "eMMlnMZnZ-k",
       "title": "Black Friday Rubro-Negra: Camisas a partir de R$ 99 🔴⚫",
       "published": "2026-11-25T21:00:24+00:00",
-      "isShort": false
-    },
-    {
-      "id": "ItUZcq7g0rU",
-      "title": "AINDA PENSANDO NESSE GOL DO LINO ❤️🖤",
-      "published": "2026-11-25T20:31:58+00:00",
-      "isShort": false
-    },
-    {
-      "id": "MuH6cAOwvCI",
-      "title": "Já garantiu sua Mengo Estúdio? Escolha em flamengo.com.br/mengo-estudio e viva Flamengo do seu jeito",
-      "published": "2026-11-25T19:30:27+00:00",
-      "isShort": false
-    },
-    {
-      "id": "PN_orX7Xg80",
-      "title": "Pega a dica do Pulgar! Acesse flamengo.com.br/mengo-estudio e escolha a sua camisa!",
-      "published": "2026-11-25T15:04:49+00:00",
       "isShort": false
     }
   ]
