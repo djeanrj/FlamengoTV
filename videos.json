@@ -4,12 +4,24 @@
     "name": "Flamengo TV",
     "uploadsPlaylist": "UUOa-WaNwQaoyFHLCDk7qKIw"
   },
-  "updatedAt": "2026-11-27T18:57:11.710317+00:00",
+  "updatedAt": "2026-11-28T01:57:52.172114+00:00",
   "videos": [
+    {
+      "id": "1BuzQLB-SSU",
+      "title": "LINO MARAVILHA, NÓS GOSTAMOS DE VOCÊ! ❤️🖤",
+      "published": "2026-11-28T00:47:15+00:00",
+      "isShort": false
+    },
+    {
+      "id": "ggpnK13qoJY",
+      "title": "OS CAMPEÕES EM CAMPO! VEJA O TREINO DO FLAMENGO NO NINHO",
+      "published": "2026-11-27T22:00:04+00:00",
+      "isShort": false
+    },
     {
       "id": "5cbSjvQegCo",
       "title": "🔴 AO VIVO: FLAMENGO MARICÁ x FLUMINENSE | CAMPEONATO CARIOCA FEMININO (27/11/26)",
-      "published": "2026-11-27T13:19:49+00:00",
+      "published": "2026-11-27T20:23:19+00:00",
       "isShort": false
     },
     {
@@ -82,18 +94,6 @@
       "id": "fR0Do-khTlw",
       "title": "As últimas e decisivas quatro rodadas rumo à conquista do decacampeonato brasileiro! 🔴⚫️",
       "published": "2026-11-26T13:32:03+00:00",
-      "isShort": false
-    },
-    {
-      "id": "4Ac1BbwStkk",
-      "title": "🔴 AO VIVO: TREINO DO FLAMENGO DIRETO DO NINHO | 26/11/26",
-      "published": "2026-11-26T13:25:39+00:00",
-      "isShort": false
-    },
-    {
-      "id": "eMMlnMZnZ-k",
-      "title": "Black Friday Rubro-Negra: Camisas a partir de R$ 99 🔴⚫",
-      "published": "2026-11-25T21:00:24+00:00",
       "isShort": false
     }
   ]
